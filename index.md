@@ -41,24 +41,25 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Speech to Text & AI Closed Captioning
 
-### Transcribe Service
+### Live Transcription Service
 
 | Name | Description | Device | Free or Paid? | Link |
 |----------|--------------------------------------|--------|--------|--------|
 | Ava | Ava uses captions to live transcribe voice to text to provide accessibility for people who are Deaf or hard of hearing (HoH). Ava's speech-to-text app provides 24/7 real-time audio transcription with about 5 errors in 100 words based on AI, and the highest possible accuracy with Ava Scribe at about 1 error in 100 words. | iOS, Android | Freemium | [www.ava.me](https://www.ava.me/) |
 | Otter.ai | Otter.ai uses AI to write automatic meeting notes with real-time transcription, recorded audio, automated slide capture, and automated meeting summaries. | iOS, Android | Freemium | [otter.ai](https://otter.ai/) |
-| Web Captioner | Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning. **Note: Web Captioner is using Google API which it required Google Chrome.** | Google Chrome | Free | [webcaptioner.com](https://webcaptioner.com/) |
-| TigerChat | TigerChat uses Google and Microsoft AI to create real-time transcription on your device with just web browser for meeting. **Note: TigerChat required RIT account. Student, staff, and alumni have access to it.**  | Any web browser | Free | [tigerchat.app](https://tigerchat.app/) |
+| Web Captioner | Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning. <br/>**Note: Web Captioner is using Google API which it required Google Chrome.** | Google Chrome | Free | [webcaptioner.com](https://webcaptioner.com/) |
+| TigerChat | TigerChat uses Google and Microsoft AI to create real-time transcription on your device with just web browser for meeting. <br/>**Note: TigerChat required RIT account. Student, staff, and alumni have access to it.**  | Any web browser | Limited access | [tigerchat.app](https://tigerchat.app/) |
 
 ### Live Captioning System-wide
 
-| OS | Feature Name | Built-in? | Where? | Powered by | Info Link |
+| OS | Built-in? | Where? | Powered by | Info Link |
 |---------|--------|--------|--------|--------|--------|
-| 🪟 Windows | Live Captions | Yes |  On Windows 11 or newer: Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
-| 🍎 iOS, iPadOS | Live Captions (Beta) | Yes | On iOS/iPadOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
-| 🍎 macOS | Live Captions (Beta) | Yes | On macOS 13 or newer: System Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/mac-help/mchldd11f4fd/mac) |
-| 🤖 Android | Live Transcribe | No | Andriod 5 or newer: Download [the app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
-| 🐧 Linux | Live Captions | No | Any Linux with flatpak: Download [the app at Flathub](https://flathub.org/apps/net.sapples.LiveCaptions) | Your own computer in offline! | [GitHub Repo](https://github.com/abb128/LiveCaptions) |
+| 🪟 Windows | Yes |  On Windows 11 or newer: Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
+| 🍎 iOS, iPadOS | Yes | On iOS/iPadOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
+| 🍎 macOS | Yes | On macOS 13 or newer: System Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/mac-help/mchldd11f4fd/mac) |
+| 🤖 Android | No | On Andriod 5 or newer: Download [Live Transcribe app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
+| 🐧 Linux | No | On any Linux with flatpak: Download [Live Captions app at Flathub](https://flathub.org/apps/net.sapples.LiveCaptions) | Your own computer in offline! | [GitHub Repo](https://github.com/abb128/LiveCaptions) |
+| 🔴 ChromeOS | Yes | Settings  and then Accessibility | Google Cloud (AI) | [support.google.com](https://support.google.com/chromebook/answer/10616170?hl=en) |
 
 ## Other Resources
 
@@ -75,7 +76,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 | Name | Description | Where Watch |
 |---------|-------------------------|--------|
-| CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
+| CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV+](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
 
 ## TV
 
