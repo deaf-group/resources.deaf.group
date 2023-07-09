@@ -22,8 +22,9 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf - [https://www.alldeaf.com/community](https://www.alldeaf.com/community)
 
 ## Sign Language Dictionary
+
 | Country/Region | Name | Link |
-|--------------|--------|--------|
+|-------|-------|-------|
 | ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | HandSpeak | [https://www.handspeak.com/word/](https://www.handspeak.com/word/) |
 | ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | SignASL.org | [https://www.signasl.org/](https://www.signasl.org/) |
 | ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | Lifeprint | [https://www.lifeprint.com/dictionary.htm](https://www.lifeprint.com/dictionary.htm) |
@@ -33,6 +34,12 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Hearing Aid & Cochlear Implant
 
 ## Speech to Text & AI Closed Captioning
+
+| Name | Description | Device | Free or Paid? | Link |
+|---------|--------|--------|--------|--------|
+| Ava | Ava uses captions to live transcribe voice to text to provide accessibility for people who are Deaf or hard of hearing (HoH). Ava's speech-to-text app provides 24/7 real-time audio transcription with about 5 errors in 100 words based on AI, and the highest possible accuracy with Ava Scribe at about 1 error in 100 words. | iOS, Android | Freemium | [https://www.ava.me/](https://www.ava.me/) |
+| Otter.ai | Otter.ai uses AI to write automatic meeting notes with real-time transcription, recorded audio, automated slide capture, and automated meeting summaries. | iOS, Android | Freemium | [https://otter.ai/](https://otter.ai/) |
+| Web Captioner |  Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning. **Note: Web Captioner is using Google API which it required Google Chrome.** | Web with Google Chrome | Free | [https://webcaptioner.com/](https://webcaptioner.com/) |
 
 ## News
 - ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="16" } The Daily Moth - [https://www.youtube.com/@TheDailyMoth](https://www.youtube.com/@TheDailyMoth)
