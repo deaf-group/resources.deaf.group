@@ -17,7 +17,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Social Media
 
-- ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin- https://kbin.social/m/deaf
+- ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin - [https://kbin.social/m/deaf](https://kbin.social/m/deaf)
 - ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } deaf.group on Mastodon - [https://deaf.group/](https://deaf.group/)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Cochlear Implant Community on Discord - [https://discord.com/invite/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [https://discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
@@ -26,7 +26,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Sign Language Dictionary
 
 | Country/Region | Language | Name | Link |
-|-------|-------|-------|-------|
+|---|---|-------|-------|
 | ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | ASL | HandSpeak | [https://www.handspeak.com/word/](https://www.handspeak.com/word/) |
 | ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | ASL | SignASL.org | [https://www.signasl.org/](https://www.signasl.org/) |
 | ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | ASL | Lifeprint | [https://www.lifeprint.com/dictionary.htm](https://www.lifeprint.com/dictionary.htm) |
@@ -40,7 +40,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ### Service
 
 | Name | Description | Device | Free or Paid? | Link |
-|---------|--------|--------|--------|--------|
+|---------|--------------------------------------|--------|--------|--------|
 | Ava | Ava uses captions to live transcribe voice to text to provide accessibility for people who are Deaf or hard of hearing (HoH). Ava's speech-to-text app provides 24/7 real-time audio transcription with about 5 errors in 100 words based on AI, and the highest possible accuracy with Ava Scribe at about 1 error in 100 words. | iOS, Android | Freemium | [https://www.ava.me/](https://www.ava.me/) |
 | Otter.ai | Otter.ai uses AI to write automatic meeting notes with real-time transcription, recorded audio, automated slide capture, and automated meeting summaries. | iOS, Android | Freemium | [https://otter.ai/](https://otter.ai/) |
 | Web Captioner |  Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning. **Note: Web Captioner is using Google API which it required Google Chrome.** | Web with Google Chrome | Free | [https://webcaptioner.com/](https://webcaptioner.com/) |
@@ -57,13 +57,13 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## News
 
 | Country/Region | Name | Description | Link |
-|----------|--------|--------|--------|
+|-----|--------|---------------|--------|
 | ![USA](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
 
 ## Film
 
 | Name | Description | Where Watch |
-|--------------|--------|--------|
+|---------|------------------------------|--------|
 | CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
 
 ## Feedback
