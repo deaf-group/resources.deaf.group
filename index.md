@@ -30,11 +30,11 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Social Platforms and Communities
 
 - ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin - [https://kbin.social/m/deaf](https://kbin.social/m/deaf)
-- ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } deaf.group on Mastodon - [https://deaf.group/](https://deaf.group/)
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Cochlear Implant Community on Discord - [https://discord.com/invite/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3)
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [https://discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [https://discord.gg/UNCE23x](https://discord.gg/UNCE23x)
-- ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf on dedicated forum - [https://www.alldeaf.com/community](https://www.alldeaf.com/community)
+- ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } deaf.group on Mastodon - [deaf.group](https://deaf.group/)
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Cochlear Implant Community on Discord - [discord.com/invite/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3)
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
+- ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf on dedicated forum - [alldeaf.com/community](https://www.alldeaf.com/community)
 
 ## Sign Language Dictionaries
 

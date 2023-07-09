@@ -1,4 +1,4 @@
-# resources.deaf.group
+# Welcome to resources.deaf.group repository!
 
 To contribute new or update information and link, Please use [issue](https://github.com/BatteryDie/resources.deaf.group/issues) or [pull requests](https://github.com/BatteryDie/resources.deaf.group/pulls) to create suggestion or feedback.
 
@@ -8,5 +8,6 @@ Don't want sign up GitHub? Send suggestion or feedback email at <!-- fsdvwqs -->
 
 ## Contribution Rule
 
+- We highly recommended to archive external links with [Archive.org's Wayback Machine](https://archive.org/web/) before you contribute it.
 - No advertising your business, survey, research project, etc...
-- We are using [Markdown](https://en.wikipedia.org/wiki/Markdown) and [Jekyll](https://jekyllrb.com/) to create webpages.
+- We are using [Markdown](https://en.wikipedia.org/wiki/Markdown) and [Jekyll](https://jekyllrb.com/) to create webpages. Additional HTML and CSS are OK.
