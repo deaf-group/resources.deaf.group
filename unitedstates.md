@@ -6,8 +6,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Country/Region
 
 - [International]({{site.baseurl}}/)
-- [United States]({{site.baseurl}}/unitedstates/) **(You are here)**
-- [Canada]({{site.baseurl}}/canada/)
+- [United States]({{site.baseurl}}/unitedstates) **(You are here)**
+- [Canada]({{site.baseurl}}/canada)
   - Quebec
 - Mexico
 - United Kingdom

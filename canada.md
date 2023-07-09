@@ -6,8 +6,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Country/Region
 
 - [International]({{site.baseurl}}/)
-- [United States]({{site.baseurl}}/unitedstates/)
-- [Canada]({{site.baseurl}}/canada/) **(You are here)**
+- [United States]({{site.baseurl}}/unitedstates)
+- [Canada]({{site.baseurl}}/canada) **(You are here)**
   - Quebec
 - Mexico
 - United Kingdom
@@ -16,6 +16,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Category
 - [Sign Language Dictionaries](#sign-language-dictionaries)
+- [Organizations](#organizations)
 - [News](#news)
 - [Other Resources](#other-resources)
 - Media
@@ -31,6 +32,12 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
 | Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) |
+
+## Organizations
+
+- Canadian Association of the Deaf (CAD), non-governmental national organization dedicated to advancing the rights and well-being of Deaf individuals in Canada - [cad-asc.ca](https://cad-asc.ca/)
+  - **French:** Association des sourds du Canada (ASC)
+- Seeing Voices Montreal, non-profits organization that they are hosting play and camp - [seeingvoicesmontreal.com](http://www.seeingvoicesmontreal.com/)
 
 ## News
 
