@@ -8,11 +8,12 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Sign Language Dictionary](#sign-language-dictionary)
 - Technology
   - [Hearing Aid & Cochlear Implant](#hearing-aid--cochlear-implant)
-  - [Speech to Text & AI Closed Captioning](#speech-to-text--ai-closed-captioning)
+  - [Speech to Text & AI Closed Captioning](#live-captioning-system-wide)
 - [News](#news)
 - [Business](#business)
 - Media
   - [Film](#film)
+- [Feedback](#feedback)
 
 ## Social Media
 - ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin- https://kbin.social/m/deaf
@@ -23,13 +24,13 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Sign Language Dictionary
 
-| Country/Region | Name | Link |
-|-------|-------|-------|
-| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } ASL | HandSpeak | [https://www.handspeak.com/word/](https://www.handspeak.com/word/) |
-| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } ASL | SignASL.org | [https://www.signasl.org/](https://www.signasl.org/) |
-| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } ASL | Lifeprint | [https://www.lifeprint.com/dictionary.htm](https://www.lifeprint.com/dictionary.htm) |
-| ![Quebec](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-for-quebec-caqc_1f3f4-e0063-e0061-e0071-e0063-e007f.png){: width="32" } LSQ | CB Linguistic Services | [https://lexiquelsq.ca/lexique-lsq/](https://lexiquelsq.ca/lexique-lsq/) |
-| ![UK](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-kingdom_1f1ec-1f1e7.png){: width="32" } BSL | BSL SignBank | [https://bslsignbank.ucl.ac.uk/dictionary/](https://bslsignbank.ucl.ac.uk/dictionary/) |
+| Country/Region | Language | Name | Link |
+|-------|-------|-------|-------|
+| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | ASL | HandSpeak | [https://www.handspeak.com/word/](https://www.handspeak.com/word/) |
+| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | ASL | SignASL.org | [https://www.signasl.org/](https://www.signasl.org/) |
+| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | ASL | Lifeprint | [https://www.lifeprint.com/dictionary.htm](https://www.lifeprint.com/dictionary.htm) |
+| ![Quebec](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-for-quebec-caqc_1f3f4-e0063-e0061-e0071-e0063-e007f.png){: width="32" } | LSQ | CB Linguistic Services | [https://lexiquelsq.ca/lexique-lsq/](https://lexiquelsq.ca/lexique-lsq/) |
+| ![UK](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-kingdom_1f1ec-1f1e7.png){: width="32" } | BSL | BSL SignBank | [https://bslsignbank.ucl.ac.uk/dictionary/](https://bslsignbank.ucl.ac.uk/dictionary/) |
 
 ## Hearing Aid & Cochlear Implant
 
@@ -43,16 +44,19 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | Otter.ai | Otter.ai uses AI to write automatic meeting notes with real-time transcription, recorded audio, automated slide capture, and automated meeting summaries. | iOS, Android | Freemium | [https://otter.ai/](https://otter.ai/) |
 | Web Captioner |  Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning. **Note: Web Captioner is using Google API which it required Google Chrome.** | Web with Google Chrome | Free | [https://webcaptioner.com/](https://webcaptioner.com/) |
 
-### Live Captioning Built-in Operating System (OS)
+### Live Captioning System-wide
 
 | OS | Feature Name | Where? | Powered by | Info Link |
 |---------|--------|--------|--------|--------|
-| Windows 11 | Live Captions | Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
-| iOS, iPadOS | Live Captions (Beta) | Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
-| Android | Live Transcribe | Download [the app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
+| 🪟 Windows 11 (Built-in) | Live Captions | Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
+| 🍎 iOS, iPadOS, macOS (Built-in) | Live Captions (Beta) | Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
+| 🤖 Android | Live Transcribe | Download [the app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
+| 🐧 Linux | Live Captions | Download [the app at Flathub](https://flathub.org/apps/net.sapples.LiveCaptions) | Your own computer in offline! | [GitHub Repo](https://github.com/abb128/LiveCaptions) |
 
 ## News
-- ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="16" } The Daily Moth - [https://www.youtube.com/@TheDailyMoth](https://www.youtube.com/@TheDailyMoth)
+| Country/Region | Name | Description | Link |
+|----------|--------|--------|--------|
+| ![USA](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [https://www.youtube.com/@TheDailyMoth](https://www.youtube.com/@TheDailyMoth)
 
 ## Business
 
