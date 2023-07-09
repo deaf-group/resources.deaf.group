@@ -1,8 +1,17 @@
 <p style="text-align: center;">⚠️This site is currently under construction⚠️</p>
-<p style="text-align: center;">❇️This site currently have single page and there will be multiple page in future❇️</p>
+<p style="text-align: center;">❇️This site currently have single page for United States and Canada. There will be multiple page by country/region in future!❇️</p>
 
 # Welcome to resources.deaf.group!
 This is the place where you can find resources for the deaf and hard of hearing community. They are contributed by individuals.
+
+## Country/Region
+
+- United States and Canada
+  - Quebec
+- Mexico
+- United Kingdom
+- France
+- Australia
 
 ## Category
 
@@ -18,7 +27,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - [TV](#TV)
 - [Feedback](#feedback)
 
-## Social Platforms and communities
+## Social Platforms and Communities
 
 - ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin - [https://kbin.social/m/deaf](https://kbin.social/m/deaf)
 - ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } deaf.group on Mastodon - [https://deaf.group/](https://deaf.group/)
@@ -35,7 +44,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
 | Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) |
-| United Kingdom | BSL | BSL SignBank | [bslsignbank.ucl.ac.uk](https://bslsignbank.ucl.ac.uk/dictionary/) |
 
 ## Hearing Aid & Cochlear Implant
 
@@ -53,7 +61,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ### Live Captioning System-wide
 
 | OS | Built-in? | Where? | Powered by | Info Link |
-|---------|--------|--------|--------|--------|--------|
+|---------|---|----------------|--------|--------|
 | 🪟 Windows | Yes |  On Windows 11 or newer: Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
 | 🍎 iOS, iPadOS | Yes | On iOS/iPadOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
 | 🍎 macOS | Yes | On macOS 13 or newer: System Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/mac-help/mchldd11f4fd/mac) |
