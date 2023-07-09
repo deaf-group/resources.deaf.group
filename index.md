@@ -58,16 +58,5 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 - [Add live captions in OBS Studio with Web Captioner](https://webcaptioner.com/help/integrations/obs)
 
-
-## Film
-
-| Name | Description | Where Watch |
-|---------|-------------------------|--------|
-| CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV+](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
-
-## TV
-
-
-
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
