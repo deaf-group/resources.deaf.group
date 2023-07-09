@@ -6,15 +6,19 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 - [Social Media](#social-media)
 - [Sign Language Dictionary](#sign-language-dictionary)
-- [Hearing Aid & Cochlear Implant](#hearing-aid--cochlear-implant)
+- Technology
+  - [Hearing Aid & Cochlear Implant](#hearing-aid--cochlear-implant)
+  - [Speech to Text & AI Closed Captioning](#speech-to-text--ai-closed-captioning)
 - [News](#news)
 - [Business](#business)
-- [Film](#film)
+- Media
+  - [Film](#film)
 
 ## Social Media
 - ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin- https://kbin.social/m/deaf
 - ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } deaf.group on Mastodon - [https://deaf.group/](https://deaf.group/)
-- ![Discord](https://discord.com/assets/favicon.ico){: width="16" } Deafcord on Discord - [https://discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Cochlear Implant Community on Discord - [https://discord.com/invite/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3)
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [https://discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
 - ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf - [https://www.alldeaf.com/community](https://www.alldeaf.com/community)
 
 ## Sign Language Dictionary
@@ -25,6 +29,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - ![UK](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-kingdom_1f1ec-1f1e7.png){: width="16" } BSL SignBank - [https://bslsignbank.ucl.ac.uk/dictionary/](https://bslsignbank.ucl.ac.uk/dictionary/)
 
 ## Hearing Aid & Cochlear Implant
+
+## Speech to Text & AI Closed Captioning
 
 ## News
 - ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="16" } The Daily Moth - [https://www.youtube.com/@TheDailyMoth](https://www.youtube.com/@TheDailyMoth)
