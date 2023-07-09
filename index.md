@@ -25,10 +25,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | Country/Region | Name | Link |
 |--------------|--------|--------|
 | ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | HandSpeak | [https://www.handspeak.com/word/](https://www.handspeak.com/word/) |
-| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" }  | SignASL.org | [https://www.signasl.org/](https://www.signasl.org/) |
-| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" }  | Lifeprint | [https://www.lifeprint.com/dictionary.htm](https://www.lifeprint.com/dictionary.htm) |
+| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | SignASL.org | [https://www.signasl.org/](https://www.signasl.org/) |
+| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | Lifeprint | [https://www.lifeprint.com/dictionary.htm](https://www.lifeprint.com/dictionary.htm) |
 | ![Quebec](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-for-quebec-caqc_1f3f4-e0063-e0061-e0071-e0063-e007f.png){: width="32" } | CB Linguistic Services | [https://lexiquelsq.ca/lexique-lsq/](https://lexiquelsq.ca/lexique-lsq/) |
-| ![UK](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-kingdom_1f1ec-1f1e7.png){: width="32" } | BSL SignBank |  [https://bslsignbank.ucl.ac.uk/dictionary/](https://bslsignbank.ucl.ac.uk/dictionary/) |
+| ![UK](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-kingdom_1f1ec-1f1e7.png){: width="32" } | BSL SignBank | [https://bslsignbank.ucl.ac.uk/dictionary/](https://bslsignbank.ucl.ac.uk/dictionary/) |
 
 ## Hearing Aid & Cochlear Implant
 
