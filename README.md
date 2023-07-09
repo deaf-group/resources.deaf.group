@@ -1,8 +1,10 @@
 # resources.deaf.group
 
-To become contributor on our github repository, Please send request at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group
+To become contributor on this repository, Please send join contributor request at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group
 
-To contribute information and link, Please use [issue](https://github.com/BatteryDie/resources.deaf.group/issues) or [pull requests](https://github.com/BatteryDie/resources.deaf.group/pulls) to create suggestion or feedback.
+To contribute new or update information and link, Please use [issue](https://github.com/BatteryDie/resources.deaf.group/issues) or [pull requests](https://github.com/BatteryDie/resources.deaf.group/pulls) to create suggestion or feedback.
+
+Don't want sign up GitHub? Send suggestion or feedback email at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group!
 
 ## Contribution Rule
 
