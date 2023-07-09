@@ -5,39 +5,41 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Category
 
-- [Social Media](#social-media)
-- [Sign Language Dictionary](#sign-language-dictionary)
+- [Social Platforms and communities](#social-platforms-and-communities)
+- [Sign Language Dictionary](#sign-language-dictionaries)
 - Technology
   - [Hearing Aid & Cochlear Implant](#hearing-aid--cochlear-implant)
   - [Speech to Text & AI Closed Captioning](#live-captioning-system-wide)
 - [News](#news)
 - Media
   - [Film](#film)
+  - [TV](#TV)
 - [Feedback](#feedback)
 
-## Social Media
+## Social Platforms and communities
 
 - ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin - [https://kbin.social/m/deaf](https://kbin.social/m/deaf)
 - ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } deaf.group on Mastodon - [https://deaf.group/](https://deaf.group/)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Cochlear Implant Community on Discord - [https://discord.com/invite/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [https://discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [https://discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 - ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf - [https://www.alldeaf.com/community](https://www.alldeaf.com/community)
 
-## Sign Language Dictionary
+## Sign Language Dictionaries
 
 | Country/Region | Language | Name | Link |
 |---|---|-------|-------|
-| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | ASL | HandSpeak | [https://www.handspeak.com/word/](https://www.handspeak.com/word/) |
-| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | ASL | SignASL.org | [https://www.signasl.org/](https://www.signasl.org/) |
-| ![USA and Canada](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | ASL | Lifeprint | [https://www.lifeprint.com/dictionary.htm](https://www.lifeprint.com/dictionary.htm) |
-| ![Quebec](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-for-quebec-caqc_1f3f4-e0063-e0061-e0071-e0063-e007f.png){: width="32" } | LSQ | CB Linguistic Services | [https://lexiquelsq.ca/lexique-lsq/](https://lexiquelsq.ca/lexique-lsq/) |
-| ![UK](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-kingdom_1f1ec-1f1e7.png){: width="32" } | BSL | BSL SignBank | [https://bslsignbank.ucl.ac.uk/dictionary/](https://bslsignbank.ucl.ac.uk/dictionary/) |
+| United States, Canada | ASL | HandSpeak | [https://www.handspeak.com/word/](https://www.handspeak.com/word/) |
+| United States, Canada | ASL | SignASL.org | [https://www.signasl.org/](https://www.signasl.org/) |
+| United States, Canada | ASL | Lifeprint | [https://www.lifeprint.com/dictionary.htm](https://www.lifeprint.com/dictionary.htm) |
+| Quebec | LSQ | CB Linguistic Services | [https://lexiquelsq.ca/lexique-lsq/](https://lexiquelsq.ca/lexique-lsq/) |
+| United Kingdom | BSL | BSL SignBank | [https://bslsignbank.ucl.ac.uk/dictionary/](https://bslsignbank.ucl.ac.uk/dictionary/) |
 
 ## Hearing Aid & Cochlear Implant
 
 ## Speech to Text & AI Closed Captioning
 
-### Service
+### Transcribe Service
 
 | Name | Description | Device | Free or Paid? | Link |
 |---------|--------------------------------------|--------|--------|--------|
@@ -49,7 +51,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 | OS | Feature Name | Where? | Powered by | Info Link |
 |---------|--------|--------|--------|--------|
-| 🪟 Windows 11 (Built-in) | Live Captions | Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
+| 🪟 Windows (Built-in) | On Windows 11 or newer, Live Captions | Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
 | 🍎 iOS, iPadOS, macOS (Built-in) | Live Captions (Beta) | Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
 | 🤖 Android | Live Transcribe | Download [the app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
 | 🐧 Linux | Live Captions | Download [the app at Flathub](https://flathub.org/apps/net.sapples.LiveCaptions) | Your own computer in offline! | [GitHub Repo](https://github.com/abb128/LiveCaptions) |
@@ -60,11 +62,19 @@ This is the place where you can find resources for the deaf and hard of hearing 
 |-----|--------|---------------|--------|
 | ![USA](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
 
+## Other Resources
+
+- Deaf Characters in Fiction (Updated Monthly) by S. Leigh Ann Cowan [https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/](https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/)
+
 ## Film
 
 | Name | Description | Where Watch |
-|---------|------------------------------|--------|
+|---------|-------------------------|--------|
 | CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
+
+## TV
+
+
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
