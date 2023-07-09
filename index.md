@@ -83,6 +83,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | Country/Region | Name | Description | Link |
 |-----|--------|---------------|--------|
 | United States | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
+| Canada | DeafDots | DeafDots provides Canadian news in video with a Canadian focus, using American Sign Language. | [Website](https://www.deafdots.ca/), [YouTube](https://www.youtube.com/@DeafDots), [Facebook](https://www.facebook.com/groups/deafdots/), [Instagram](https://www.instagram.com/deafdots/) |
 
 
 ## Film
