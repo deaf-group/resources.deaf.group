@@ -16,7 +16,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 
 - [Social Platforms and communities](#social-platforms-and-communities)
-- [Sign Language Dictionary](#sign-language-dictionaries)
+- [Sign Language Dictionaries](#sign-language-dictionaries)
 - Technology
   - [Hearing Aid & Cochlear Implant](#hearing-aid--cochlear-implant)
   - [Speech to Text & AI Closed Captioning](#live-captioning-system-wide)
@@ -29,7 +29,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Social Platforms and Communities
 
-- ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin - [https://kbin.social/m/deaf](https://kbin.social/m/deaf)
+- ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin - [kbin.social/m/deaf](https://kbin.social/m/deaf)
 - ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } deaf.group on Mastodon - [deaf.group](https://deaf.group/)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Cochlear Implant Community on Discord - [discord.com/invite/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
