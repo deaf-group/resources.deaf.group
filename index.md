@@ -4,6 +4,7 @@
 This is the place where you can find resources for the deaf and hard of hearing community. They are contributed by individuals.
 
 ## Category
+
 - [Social Media](#social-media)
 - [Sign Language Dictionary](#sign-language-dictionary)
 - Technology
@@ -15,6 +16,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Feedback](#feedback)
 
 ## Social Media
+
 - ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin- https://kbin.social/m/deaf
 - ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } deaf.group on Mastodon - [https://deaf.group/](https://deaf.group/)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Cochlear Implant Community on Discord - [https://discord.com/invite/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3)
