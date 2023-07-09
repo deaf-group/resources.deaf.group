@@ -10,7 +10,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - [Hearing Aid & Cochlear Implant](#hearing-aid--cochlear-implant)
   - [Speech to Text & AI Closed Captioning](#live-captioning-system-wide)
 - [News](#news)
-- [Business](#business)
 - Media
   - [Film](#film)
 - [Feedback](#feedback)
@@ -58,8 +57,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | Country/Region | Name | Description | Link |
 |----------|--------|--------|--------|
 | ![USA](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
-
-## Business
 
 ## Film
 
