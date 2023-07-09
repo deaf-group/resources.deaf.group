@@ -1,4 +1,5 @@
-<p style="text-align: center;">⚠️This is currently under construction⚠️</p>
+<p style="text-align: center;">⚠️This site is currently under construction⚠️</p>
+<p style="text-align: center;">❇️This site currently have single page and there will be multiple page in future❇️</p>
 
 # Welcome to resources.deaf.group!
 This is the place where you can find resources for the deaf and hard of hearing community. They are contributed by individuals.
@@ -11,6 +12,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - [Hearing Aid & Cochlear Implant](#hearing-aid--cochlear-implant)
   - [Speech to Text & AI Closed Captioning](#live-captioning-system-wide)
 - [News](#news)
+- [Other Resources](#other-resources)
 - Media
   - [Film](#film)
   - [TV](#TV)
@@ -28,12 +30,12 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Sign Language Dictionaries
 
 | Country/Region | Language | Name | Link |
-|---|---|-------|-------|
-| United States, Canada | ASL | HandSpeak | [https://www.handspeak.com/word/](https://www.handspeak.com/word/) |
-| United States, Canada | ASL | SignASL.org | [https://www.signasl.org/](https://www.signasl.org/) |
-| United States, Canada | ASL | Lifeprint | [https://www.lifeprint.com/dictionary.htm](https://www.lifeprint.com/dictionary.htm) |
-| Quebec | LSQ | CB Linguistic Services | [https://lexiquelsq.ca/lexique-lsq/](https://lexiquelsq.ca/lexique-lsq/) |
-| United Kingdom | BSL | BSL SignBank | [https://bslsignbank.ucl.ac.uk/dictionary/](https://bslsignbank.ucl.ac.uk/dictionary/) |
+|-------|---|-------|-------|
+| United States, Canada | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
+| United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
+| United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
+| Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) |
+| United Kingdom | BSL | BSL SignBank | [bslsignbank.ucl.ac.uk](https://bslsignbank.ucl.ac.uk/dictionary/) |
 
 ## Hearing Aid & Cochlear Implant
 
@@ -42,29 +44,32 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ### Transcribe Service
 
 | Name | Description | Device | Free or Paid? | Link |
-|---------|--------------------------------------|--------|--------|--------|
-| Ava | Ava uses captions to live transcribe voice to text to provide accessibility for people who are Deaf or hard of hearing (HoH). Ava's speech-to-text app provides 24/7 real-time audio transcription with about 5 errors in 100 words based on AI, and the highest possible accuracy with Ava Scribe at about 1 error in 100 words. | iOS, Android | Freemium | [https://www.ava.me/](https://www.ava.me/) |
-| Otter.ai | Otter.ai uses AI to write automatic meeting notes with real-time transcription, recorded audio, automated slide capture, and automated meeting summaries. | iOS, Android | Freemium | [https://otter.ai/](https://otter.ai/) |
-| Web Captioner |  Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning. **Note: Web Captioner is using Google API which it required Google Chrome.** | Web with Google Chrome | Free | [https://webcaptioner.com/](https://webcaptioner.com/) |
+|----------|--------------------------------------|--------|--------|--------|
+| Ava | Ava uses captions to live transcribe voice to text to provide accessibility for people who are Deaf or hard of hearing (HoH). Ava's speech-to-text app provides 24/7 real-time audio transcription with about 5 errors in 100 words based on AI, and the highest possible accuracy with Ava Scribe at about 1 error in 100 words. | iOS, Android | Freemium | [www.ava.me](https://www.ava.me/) |
+| Otter.ai | Otter.ai uses AI to write automatic meeting notes with real-time transcription, recorded audio, automated slide capture, and automated meeting summaries. | iOS, Android | Freemium | [otter.ai](https://otter.ai/) |
+| Web Captioner | Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning. **Note: Web Captioner is using Google API which it required Google Chrome.** | Google Chrome | Free | [webcaptioner.com](https://webcaptioner.com/) |
+| TigerChat | TigerChat uses Google and Microsoft AI to create real-time transcription on your device with just web browser for meeting. **Note: TigerChat required RIT account. Student, staff, and alumni have access to it.**  | Any web browser | Free | [tigerchat.app](https://tigerchat.app/) |
 
 ### Live Captioning System-wide
 
-| OS | Feature Name | Where? | Powered by | Info Link |
-|---------|--------|--------|--------|--------|
-| 🪟 Windows (Built-in) | On Windows 11 or newer, Live Captions | Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
-| 🍎 iOS, iPadOS, macOS (Built-in) | Live Captions (Beta) | Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
-| 🤖 Android | Live Transcribe | Download [the app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
-| 🐧 Linux | Live Captions | Download [the app at Flathub](https://flathub.org/apps/net.sapples.LiveCaptions) | Your own computer in offline! | [GitHub Repo](https://github.com/abb128/LiveCaptions) |
+| OS | Feature Name | Built-in? | Where? | Powered by | Info Link |
+|---------|--------|--------|--------|--------|--------|
+| 🪟 Windows | Live Captions | Yes |  On Windows 11 or newer: Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
+| 🍎 iOS, iPadOS | Live Captions (Beta) | Yes | On iOS/iPadOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
+| 🍎 macOS | Live Captions (Beta) | Yes | On macOS 13 or newer: System Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/mac-help/mchldd11f4fd/mac) |
+| 🤖 Android | Live Transcribe | No | Andriod 5 or newer: Download [the app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
+| 🐧 Linux | Live Captions | No | Any Linux with flatpak: Download [the app at Flathub](https://flathub.org/apps/net.sapples.LiveCaptions) | Your own computer in offline! | [GitHub Repo](https://github.com/abb128/LiveCaptions) |
+
+## Other Resources
+
+- Deaf Characters in Fiction (Updated Monthly) by S. Leigh Ann Cowan [https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/](https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/)
 
 ## News
 
 | Country/Region | Name | Description | Link |
 |-----|--------|---------------|--------|
-| ![USA](https://em-content.zobj.net/thumbs/120/openmoji/338/flag-united-states_1f1fa-1f1f8.png){: width="32" } | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
+| United States | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
 
-## Other Resources
-
-- Deaf Characters in Fiction (Updated Monthly) by S. Leigh Ann Cowan [https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/](https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/)
 
 ## Film
 
