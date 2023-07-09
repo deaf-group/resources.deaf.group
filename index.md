@@ -1,12 +1,13 @@
 <p style="text-align: center;">⚠️This site is currently under construction⚠️</p>
-<p style="text-align: center;">❇️This site currently have single page for United States and Canada. There will be multiple page by country/region in future!❇️</p>
 
 # Welcome to resources.deaf.group!
 This is the place where you can find resources for the deaf and hard of hearing community. They are contributed by individuals.
 
 ## Country/Region
 
-- United States and Canada
+- [International]({{site.baseurl}}/) **(You are here)**
+- [United States]({{site.baseurl}}/unitedstates/)
+- [Canada]({{site.baseurl}}/canada/)
   - Quebec
 - Mexico
 - United Kingdom
@@ -16,15 +17,9 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 
 - [Social Platforms and communities](#social-platforms-and-communities)
-- [Sign Language Dictionaries](#sign-language-dictionaries)
 - Technology
   - [Hearing Aid & Cochlear Implant](#hearing-aid--cochlear-implant)
   - [Speech to Text & AI Closed Captioning](#live-captioning-system-wide)
-- [News](#news)
-- [Other Resources](#other-resources)
-- Media
-  - [Film](#film)
-  - [TV](#TV)
 - [Feedback](#feedback)
 
 ## Social Platforms and Communities
@@ -35,17 +30,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 - ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf on dedicated forum - [alldeaf.com/community](https://www.alldeaf.com/community)
-
-## Sign Language Dictionaries
-
-| Country/Region | Language | Name | Link |
-|-------|----|-------|-------|
-| United States, Canada | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
-| United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
-| United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
-| Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) |
-
-## Hearing Aid & Cochlear Implant
 
 ## Speech to Text & AI Closed Captioning
 
@@ -73,17 +57,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ### Guides
 
 - [Add live captions in OBS Studio with Web Captioner](https://webcaptioner.com/help/integrations/obs)
-
-## Other Resources
-
-- Deaf Characters in Fiction (Updated Monthly) by S. Leigh Ann Cowan [https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/](https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/)
-
-## News
-
-| Country/Region | Name | Description | Link |
-|-----|--------|---------------|--------|
-| United States | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
-| Canada | DeafDots | DeafDots provides Canadian news in video with a Canadian focus, using American Sign Language. | [Website](https://www.deafdots.ca/), [YouTube](https://www.youtube.com/@DeafDots), [Facebook](https://www.facebook.com/groups/deafdots/), [Instagram](https://www.instagram.com/deafdots/) |
 
 
 ## Film
