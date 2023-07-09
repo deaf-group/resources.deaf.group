@@ -34,12 +34,12 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Cochlear Implant Community on Discord - [https://discord.com/invite/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [https://discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [https://discord.gg/UNCE23x](https://discord.gg/UNCE23x)
-- ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf - [https://www.alldeaf.com/community](https://www.alldeaf.com/community)
+- ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf on dedicated forum - [https://www.alldeaf.com/community](https://www.alldeaf.com/community)
 
 ## Sign Language Dictionaries
 
 | Country/Region | Language | Name | Link |
-|-------|---|-------|-------|
+|-------|----|-------|-------|
 | United States, Canada | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
 | United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
@@ -57,17 +57,22 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | Otter.ai | Otter.ai uses AI to write automatic meeting notes with real-time transcription, recorded audio, automated slide capture, and automated meeting summaries. | iOS, Android | Freemium | [otter.ai](https://otter.ai/) |
 | Web Captioner | Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning. <br/>**Note: Web Captioner is using Google API which it required Google Chrome.** | Google Chrome | Free | [webcaptioner.com](https://webcaptioner.com/) |
 | TigerChat | TigerChat uses Google and Microsoft AI to create real-time transcription on your device with just web browser for meeting. <br/>**Note: TigerChat required RIT account. Student, staff, and alumni have access to it.**  | Any web browser | Limited access | [tigerchat.app](https://tigerchat.app/) |
+| SeaVoice | SeaVoice the Discord bot can transcribe voice channel into text channel! <br/>**Note: Owner/Admin of server need set up the bot and permission.**  | Discord | Free | [wiki.seasalt.ai](https://wiki.seasalt.ai/seavoice/discord/discord-bot/) |
 
 ### Live Captioning System-wide
 
 | OS | Built-in? | Where? | Powered by | Info Link |
-|---------|---|----------------|--------|--------|
-| 🪟 Windows | Yes |  On Windows 11 or newer: Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
-| 🍎 iOS, iPadOS | Yes | On iOS/iPadOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
-| 🍎 macOS | Yes | On macOS 13 or newer: System Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/mac-help/mchldd11f4fd/mac) |
-| 🤖 Android | No | On Andriod 5 or newer: Download [Live Transcribe app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
-| 🐧 Linux | No | On any Linux with flatpak: Download [Live Captions app at Flathub](https://flathub.org/apps/net.sapples.LiveCaptions) | Your own computer in offline! | [GitHub Repo](https://github.com/abb128/LiveCaptions) |
-| 🔴 ChromeOS | Yes | Settings  and then Accessibility | Google Cloud (AI) | [support.google.com](https://support.google.com/chromebook/answer/10616170?hl=en) |
+|-----------|----|----------------|--------|--------|
+| Windows | Yes |  On Windows 11 or newer: Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
+| iOS, iPadOS | Yes | On iOS/iPadOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
+| macOS | Yes | On macOS 13 or newer: System Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/mac-help/mchldd11f4fd/mac) |
+| Android | No | On Andriod 5 or newer: Download [Live Transcribe app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
+| Linux | No | On any Linux with flatpak: Download [Live Captions app at Flathub](https://flathub.org/apps/net.sapples.LiveCaptions) | Your own computer in offline! | [GitHub Repo](https://github.com/abb128/LiveCaptions) |
+| ChromeOS | Yes | Settings  and then Accessibility | Google Cloud (AI) | [support.google.com](https://support.google.com/chromebook/answer/10616170?hl=en) |
+
+### Guides
+
+- [Add live captions in OBS Studio with Web Captioner](https://webcaptioner.com/help/integrations/obs)
 
 ## Other Resources
 
