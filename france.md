@@ -15,7 +15,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Sign Language Dictionaries
 
-- | Country/Region | Language | Name | Link |
+| Country/Region | Language | Name | Link |
 |-------|----|-------|-------|
-| France | LSF | Sématos LSF Video Dictionary | [sematos.eu](http://www.sematos.eu/lsf.html)|
+| France | LSF | Sématos LSF Video Dictionary | [sematos.eu](http://www.sematos.eu/lsf.html) |
 | Worldwide | Over 40 | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
