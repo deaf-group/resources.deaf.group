@@ -12,3 +12,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [United Kingdom]({{site.baseurl}}/unitedkingdom)
 - [France]({{site.baseurl}}/france) **(You are here)**
 - [Australia]({{site.baseurl}}/australia)
+
+## Sign Language Dictionaries
+
+- | Country/Region | Language | Name | Link |
+|-------|----|-------|-------|
+| France | LSF | Sématos LSF Video Dictionary | [sematos.eu](http://www.sematos.eu/lsf.html)|
+| Worldwide | Over 40 | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
