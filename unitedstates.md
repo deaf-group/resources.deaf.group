@@ -14,6 +14,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Australia]({{site.baseurl}}/australia)
 
 ## Category
+- [Social Platforms and communities](#social-platforms-and-communities)
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
 - [News](#news)
@@ -23,6 +24,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - [TV](#TV)
 - [Feedback](#feedback)
 
+## Social Platforms and Communities
+
+
+
 ## Sign Language Dictionaries
 
 | Country/Region | Language | Name | Link |
@@ -30,7 +35,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | United States, Canada | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
 | United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
-| Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) |
+| Worldwide | Over 40 | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
 
 ## Organizations
 

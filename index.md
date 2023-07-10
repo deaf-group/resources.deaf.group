@@ -30,8 +30,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 - ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf on dedicated forum - [alldeaf.com/community](https://www.alldeaf.com/community)
 
-
-
 ## Hearing Aid & Cochlear Implant
 
 
