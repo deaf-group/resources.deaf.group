@@ -12,3 +12,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [United Kingdom]({{site.baseurl}}/unitedkingdom)
 - [France]({{site.baseurl}}/france)
 - [Australia]({{site.baseurl}}/australia) **(You are here)**
+
+- ## Sign Language Dictionaries
+
+| Country/Region | Language | Name | Link |
+|-------|----|-------|-------|
+| Australia | Auslan | Signbank | [auslan.org.au](https://auslan.org.au/dictionary/)|
+| Worldwide | Over 40 | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
