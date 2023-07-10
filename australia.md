@@ -3,6 +3,7 @@
 # Welcome to resources.deaf.group!
 This is the place where you can find resources for the deaf and hard of hearing community. They are contributed by individuals.
 
+
 ## Country/Region
 
 - [International]({{site.baseurl}}/)
@@ -13,9 +14,13 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [France]({{site.baseurl}}/france)
 - [Australia]({{site.baseurl}}/australia) **(You are here)**
 
+# Sign Language in Australia
+
+Current sign language in Australia Deaf Community is **Auslan**.
+
 - ## Sign Language Dictionaries
 
 | Country/Region | Language | Name | Link |
 |-------|----|-------|-------|
 | Australia | Auslan | Signbank | [auslan.org.au](https://auslan.org.au/dictionary/)|
-| Worldwide | Over 40 | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
+| Australia, Worldwide | Auslan, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |

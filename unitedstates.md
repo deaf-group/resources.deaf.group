@@ -27,6 +27,9 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Social Platforms and Communities
 
 
+## Sign Language in United States
+
+Current sign language in United States Deaf Community is **American Sign Language (ASL)**.
 
 ## Sign Language Dictionaries
 
@@ -35,7 +38,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | United States, Canada | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
 | United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
-| Worldwide | Over 40 | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
+| United States, Worldwide | ASL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
 
 ## Organizations
 

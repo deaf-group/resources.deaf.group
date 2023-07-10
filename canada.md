@@ -26,7 +26,13 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Social Platforms and Communities
 
+## Sign Language in Canada
 
+Current sign language in Canada Deaf Community is **American Sign Language (ASL)**.
+
+Current sign language in Quebec Deaf Community is **Quebec Sign Language**.
+
+In French, **Langue des signes québécoise (LSQ)**.
 
 ## Sign Language Dictionaries
 
@@ -36,7 +42,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
 | Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) |
-| Worldwide | Over 40 | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
+| Canada, Worldwide | ASL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
 
 ## Organizations
 

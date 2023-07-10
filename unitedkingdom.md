@@ -28,6 +28,9 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } British Sign Language on Discord - [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv)
 
+## Sign Language in United Kingdom
+
+Current sign language in United Kingdom Deaf Community is **British Sign Language (BSL)**.
 
 ## Sign Language Dictionaries
 
@@ -35,7 +38,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 |-------|----|-------|-------|
 | United Kingdom | BSL | BSL Sign Dictionary | [signbsl.com](https://www.signbsl.com/) |
 | United Kingdom | BSL | BSL SignBank | [bslsignbank.ucl.ac.uk](https://bslsignbank.ucl.ac.uk/) |
-| Worldwide | Over 40 | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
+| United Kingdom, Worldwide | BSL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
 
 ## Organizations
 
