@@ -8,11 +8,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [International]({{site.baseurl}}/)
 - [United States]({{site.baseurl}}/unitedstates)
 - [Canada]({{site.baseurl}}/canada) **(You are here)**
-  - Quebec
-- Mexico
-- United Kingdom
-- France
-- Australia
+- [Mexico]({{site.baseurl}}/mexico)
+- [United Kingdom]({{site.baseurl}}/unitedkingdom)
+- [France]({{site.baseurl}}/france)
+- [Australia]({{site.baseurl}}/australia)
 
 ## Category
 - [Sign Language Dictionaries](#sign-language-dictionaries)
@@ -51,7 +50,9 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Film
 
-
+| Name | Description | Where Watch |
+|---------|-------------------------|--------|
+| CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV+](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
 
 ## TV
 

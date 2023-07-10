@@ -8,11 +8,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [International]({{site.baseurl}}/) **(You are here)**
 - [United States]({{site.baseurl}}/unitedstates)
 - [Canada]({{site.baseurl}}/canada)
-  - Quebec
-- Mexico
-- United Kingdom
-- France
-- Australia
+- [Mexico]({{site.baseurl}}/mexico)
+- [United Kingdom]({{site.baseurl}}/unitedkingdom)
+- [France]({{site.baseurl}}/france)
+- [Australia]({{site.baseurl}}/australia)
 
 ## Category
 
@@ -30,6 +29,12 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 - ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf on dedicated forum - [alldeaf.com/community](https://www.alldeaf.com/community)
+
+
+
+## Hearing Aid & Cochlear Implant
+
+
 
 ## Speech to Text & AI Closed Captioning
 

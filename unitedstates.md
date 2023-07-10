@@ -8,14 +8,14 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [International]({{site.baseurl}}/)
 - [United States]({{site.baseurl}}/unitedstates) **(You are here)**
 - [Canada]({{site.baseurl}}/canada)
-  - Quebec
-- Mexico
-- United Kingdom
-- France
-- Australia
+- [Mexico]({{site.baseurl}}/mexico)
+- [United Kingdom]({{site.baseurl}}/unitedkingdom)
+- [France]({{site.baseurl}}/france)
+- [Australia]({{site.baseurl}}/australia)
 
 ## Category
 - [Sign Language Dictionaries](#sign-language-dictionaries)
+- [Organizations](#organizations)
 - [News](#news)
 - [Other Resources](#other-resources)
 - Media
@@ -32,12 +32,19 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
 | Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) |
 
+## Organizations
+
+
 ## News
 
 | Region | Name | Description | Link |
 |-----|--------|---------------|--------|
 | United States | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
-| Canada | DeafDots | DeafDots provides Canadian news in video with a Canadian focus, using American Sign Language. | [Website](https://www.deafdots.ca/), [YouTube](https://www.youtube.com/@DeafDots), [Facebook](https://www.facebook.com/groups/deafdots/), [Instagram](https://www.instagram.com/deafdots/) |
+
+## Post Secondary Education Programs
+
+- Gallaudet University, the private and research university for the Deaf and Hard of Hearing - [gallaudet.edu](https://gallaudet.edu/)
+- National Technical Institute for the Deaf, the first technological college in the world for the Deaf and Hard of Hearing - [rit.edu](https://www.rit.edu/ntid/)
 
 ## Other Resources
 
