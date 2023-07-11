@@ -66,28 +66,28 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## IP Relay Services
 
-- **Bell IP Relay**
-  - Access Service on: [myiprelay.bell.ca](hhttps://myiprelay.bell.ca/login/#/) for Bell Home phone subscribers
-  - Access Service on: [iprelay.bell.ca](https://iprelay.bell.ca/login/#/) for Bell Mobility subscribers
-  - Signup online at: [bell.ca](https://www.bell.ca/Accessibility_services/Bell_IP_Relay)
-- **Rogers and Fido IP Relay**
-  - Access Service on: [iprelayservice.net](https://iprelayservice.net/login/#/)
-  - Signup online at: [fido.ca](https://www.fido.ca/accessibility/ip-relay-registration/)
-  - Signup online at: [rogers.com](https://www.rogers.com/accessibility/ip-relay-registration/)
-  - Note: Fido and Rogers are using same service on [iprelayservice.net](https://iprelayservice.net/login/#/) and they did not re-brand it.
-- **Telus IP Relay**
-  - Access Service on: [iprelay.telus.net](https://iprelay.telus.net/login/#/)
-  - Signup online at: [iprelay.telus.net](https://iprelay.telus.net/register#/)
-- **Freedom Mobile IP Relay**
-  - Access Service on: [iprelay.telus.net](https://iprelay.telus.net/login/#/)
-  - Signup form from: [freedommobile.ca](https://www.freedommobile.ca/docs/default-source/default-document-library/ip-relay-service-application.pdf)
-- **Freedom Mobile IP Relay**
-  - Access Service on: [iprelay.videotron.com](https://iprelay.videotron.com/login/#/)
-  - Signup online at: [iprelay.videotron.com](https://iprelay.videotron.com/register#/)
+| Phone Carrier | Access Service on | Signup Service at |
+|-----|--------|---------------|--------|
+| Bell IP Relay | [myiprelay.bell.ca](https://myiprelay.bell.ca/login/#/) for Bell Home phone subscribers <br />OR<br />[iprelay.bell.ca](https://iprelay.bell.ca/login/#/) for Bell Mobility subscribers | [bell.ca](https://www.bell.ca/Accessibility_services/Bell_IP_Relay)<br />OR<br />[myiprelay.bell.ca](https://myiprelay.bell.ca/register#/) |
+| Rogers IP Relay | [iprelayservice.net](https://iprelayservice.net/login/#/) | [rogers.com](https://www.rogers.com/accessibility/ip-relay-registration/) |
+| Fido IP Relay | [iprelayservice.net](https://iprelayservice.net/login/#/) | [fido.ca](https://www.fido.ca/accessibility/ip-relay-registration/) |
+| Telus IP Relay | [iprelay.telus.net](https://iprelay.telus.net/login/#/) | [iprelay.telus.net](https://iprelay.telus.net/register#/) | 
+| Freedom Mobile IP Relay | [iprelay.telus.net](https://iprelay.telus.net/login/#/) | [iprelay.freedommobile.ca](https://iprelay.freedommobile.ca/register#/)<br />OR<br />[freedommobile.ca (form)](https://www.freedommobile.ca/docs/default-source/default-document-library/ip-relay-service-application.pdf) |
+| Videotron IP Relay | [iprelay.videotron.com](https://iprelay.videotron.com/login/#/) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
+| Cogeco IP Relay | [iprelay.videotron.com](https://iprelay.videotron.com/login/#/) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
+| Fizz IP Relay | [iprelay.videotron.com](https://iprelay.videotron.com/login/#/) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
+| SaskTel IP Relay | [messagerelayip.sasktel.com/](https://messagerelayip.sasktel.com/) | [messagerelayip.sasktel.com/](https://messagerelayip.sasktel.com/register#/) |
+| Shaw IP Relay | [iprelay.shaw.ca](https://iprelay.shaw.ca/login/#/) | [iprelay.shaw.ca](https://iprelay.shaw.ca/register#/) |
+| Eastlink IP Relay | [iprelay.eastlink.ca](https://iprelay.eastlink.ca/) | [iprelay.eastlink.ca](https://iprelay.eastlink.ca/register#/) |
+| CCAP IP Relay | [iprelay.ccapcable.com](https://iprelay.ccapcable.com/login/#/) | [iprelay.ccapcable.com](https://iprelay.ccapcable.com/register#/) |
+
+
+
+**Note:** Fido and Rogers are using same service on [iprelayservice.net](https://iprelayservice.net/login/#/) and they did not re-brand it.
 
 **History Note:** Public Mobile stopped proving IP Relay Services and recommended get Telus.  
 
-**Super Important Note:** All of IP Relay services are running by one company called [viiz Communications](https://viiz.com/) **There are no actual competitors!** Also, they provied their stock and custom-brand  apps for IP relay service on iOS and Android device but they are poorly optimized on modern phone and tablet and not following system-wide accessibility (size and screen reader) and modern standard design.
+**Super Important Note:** All of IP Relay services are running by one company called [viiz Communications](https://viiz.com/) **There are no actual competitors!** Also, they provied their [stock and custom-brand apps for IP relay service](https://apps.apple.com/ca/developer/viiz-communications-canada-inc/id1411486002?see-all=i-phonei-pad-apps) on iOS and Android device but they are poorly optimized on modern phone and tablet and not following system-wide accessibility (size and screen reader) and modern standard design.
 
 ## News
 

@@ -43,6 +43,9 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
+- **National Association of the Deaf (NAD)**, national organization dedicated to advancing the rights and well-being of Deaf individuals in United States
+  - Founded: August 25, 1880
+  - Website: [nad.org](https://www.nad.org/)
 
 ## Post Secondary Education Programs
 
@@ -69,7 +72,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 |---------|-------------------------|--------|
 | CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV+](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
 
-## TV
+## TV Shows
 
 
 
