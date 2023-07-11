@@ -33,7 +33,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Sign Language Dictionaries
 
 | Country/Region | Language | Name | Link |
-|-------|----|-------|-------|
+|----------------|----------|------|------|
 | United Kingdom | BSL | BSL Sign Dictionary | [signbsl.com](https://www.signbsl.com/) |
 | United Kingdom | BSL | BSL SignBank | [bslsignbank.ucl.ac.uk](https://bslsignbank.ucl.ac.uk/) |
 | United Kingdom, Worldwide | BSL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |

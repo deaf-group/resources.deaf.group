@@ -35,7 +35,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Sign Language Dictionaries
 
 | Country/Region | Language | Name | Link |
-|-------|----|-------|-------|
+|----------------|----------|------|------|
 | United States, Canada | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
 | United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
@@ -56,10 +56,30 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 
+## Video Relay Services
+
+Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
+
+| Company | Access Service on | Signup Service at |
+|---------|-------------------|-------------------|
+| | | |
+| | | |
+| | | |
+| | | |
+
+## IP Relay Services
+
+IP relay service is a telecommunications service that allows Deaf/HoH individuals to communicate over the phone by using text-based messages.
+
+| Company | Access Service on | Signup Service at |
+|---------|-------------------|-------------------|
+| | | |
+
+
 ## News
 
 | Region | Name | Description | Link |
-|-----|--------|---------------|--------|
+|--------|------|-------------|------|
 | United States | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
 
 ## Representation Deaf People and Culture
@@ -69,7 +89,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Film
 
 | Name | Description | Where Watch |
-|---------|-------------------------|--------|
+|------|--  ---------|-------------|
 | CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV+](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
 
 ## TV Shows

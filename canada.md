@@ -35,7 +35,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Sign Language Dictionaries
 
 | Country/Region | Language | Name | Link |
-|-------|----|-------|-------|
+|----------------|----------|------|------|
 | United States, Canada | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
 | United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
@@ -57,8 +57,11 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Social Media Sites and Communities
 
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 
 ## Video Relay Services
+
+Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
 
 - SRV Cabada VRS
   - Official Website: [srvcanadavrs.ca](https://srvcanadavrs.ca/en)
@@ -66,8 +69,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## IP Relay Services
 
+IP relay service is a telecommunications service that allows Deaf/HoH individuals to communicate over the phone by using text-based messages.
+
 | Phone Carrier | Access Service on | Signup Service at |
-|-----|--------|---------------|--------|
+|---------------|-------------------|-------------------|
 | Bell IP Relay | [myiprelay.bell.ca](https://myiprelay.bell.ca/login/#/) for Bell Home phone subscribers <br />OR<br />[iprelay.bell.ca](https://iprelay.bell.ca/login/#/) for Bell Mobility subscribers | [bell.ca](https://www.bell.ca/Accessibility_services/Bell_IP_Relay)<br />OR<br />[myiprelay.bell.ca](https://myiprelay.bell.ca/register#/) |
 | Rogers IP Relay | [iprelayservice.net](https://iprelayservice.net/login/#/) | [rogers.com](https://www.rogers.com/accessibility/ip-relay-registration/) |
 | Fido IP Relay | [iprelayservice.net](https://iprelayservice.net/login/#/) | [fido.ca](https://www.fido.ca/accessibility/ip-relay-registration/) |
@@ -76,7 +81,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | Videotron IP Relay | [iprelay.videotron.com](https://iprelay.videotron.com/login/#/) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
 | Cogeco IP Relay | [iprelay.videotron.com](https://iprelay.videotron.com/login/#/) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
 | Fizz IP Relay | [iprelay.videotron.com](https://iprelay.videotron.com/login/#/) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
-| SaskTel IP Relay | [messagerelayip.sasktel.com/](https://messagerelayip.sasktel.com/) | [messagerelayip.sasktel.com/](https://messagerelayip.sasktel.com/register#/) |
+| SaskTel IP Relay | [messagerelayip.sasktel.com](https://messagerelayip.sasktel.com/) | [messagerelayip.sasktel.com](https://messagerelayip.sasktel.com/register#/) |
 | Shaw IP Relay | [iprelay.shaw.ca](https://iprelay.shaw.ca/login/#/) | [iprelay.shaw.ca](https://iprelay.shaw.ca/register#/) |
 | Eastlink IP Relay | [iprelay.eastlink.ca](https://iprelay.eastlink.ca/) | [iprelay.eastlink.ca](https://iprelay.eastlink.ca/register#/) |
 | CCAP IP Relay | [iprelay.ccapcable.com](https://iprelay.ccapcable.com/login/#/) | [iprelay.ccapcable.com](https://iprelay.ccapcable.com/register#/) |
@@ -92,13 +97,13 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## News
 
 | Region | Name | Description | Link |
-|-----|--------|---------------|--------|
+|--------|------|-------------|------|
 | Canada | DeafDots | DeafDots provides Canadian news in video with a Canadian focus, using American Sign Language. | [Website](https://www.deafdots.ca/), [YouTube](https://www.youtube.com/@DeafDots), [Facebook](https://www.facebook.com/groups/deafdots/), [Instagram](https://www.instagram.com/deafdots/) |
 
 ## Films
 
 | Name | Description | Where Watch |
-|---------|-------------------------|--------|
+|------|-------------|-------------|
 | CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV+](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
 
 ## TV Shows

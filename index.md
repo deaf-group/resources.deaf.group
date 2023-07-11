@@ -27,7 +27,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } deaf.group on Mastodon - [deaf.group](https://deaf.group/)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Cochlear Implant Community on Discord - [discord.com/invite/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 - ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf on dedicated forum - [alldeaf.com/community](https://www.alldeaf.com/community)
 
 ## Hearing Aid & Cochlear Implant
@@ -39,7 +38,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ### Live Transcription Service
 
 | Name | Description | Device | Free or Paid? | Link |
-|----------|--------------------------------------|--------|--------|--------|
+|------|-------------|--------|---------------|------|
 | Ava | Ava uses captions to live transcribe voice to text to provide accessibility for people who are Deaf or hard of hearing (HoH). Ava's speech-to-text app provides 24/7 real-time audio transcription with about 5 errors in 100 words based on AI, and the highest possible accuracy with Ava Scribe at about 1 error in 100 words. | iOS, Android | Freemium | [www.ava.me](https://www.ava.me/) |
 | Otter.ai | Otter.ai uses AI to write automatic meeting notes with real-time transcription, recorded audio, automated slide capture, and automated meeting summaries. | iOS, Android | Freemium | [otter.ai](https://otter.ai/) |
 | Web Captioner | Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning. <br/>**Note: Web Captioner is using Google API which it required Google Chrome.** | Google Chrome | Free | [webcaptioner.com](https://webcaptioner.com/) |
@@ -49,7 +48,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ### Live Captioning System-wide
 
 | OS | Built-in? | Where? | Powered by | Info Link |
-|-----------|----|----------------|--------|--------|
+|----|-----------|--------|------------|-----------|
 | Windows | Yes |  On Windows 11 or newer: Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
 | iOS, iPadOS | Yes | On iOS/iPadOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
 | macOS | Yes | On macOS 13 or newer: System Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/mac-help/mchldd11f4fd/mac) |
