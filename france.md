@@ -15,9 +15,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Sign Language in France
 
-Current sign language in France Deaf Community is **French Sign Language (FSL)**.
-
-In French, **langue des signes française (LSF)**.
+- Current sign language in France Deaf Community is **French Sign Language (FSL)**.
+  - In French, **langue des signes française (LSF)**.
 
 ## Sign Language Dictionaries
 
@@ -25,3 +24,6 @@ In French, **langue des signes française (LSF)**.
 |-------|----|-------|-------|
 | France | LSF | Sématos LSF Video Dictionary | [sematos.eu](http://www.sematos.eu/lsf.html) |
 | France, Worldwide | LSF, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
+
+## Feedback
+Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

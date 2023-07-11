@@ -14,23 +14,21 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Australia]({{site.baseurl}}/australia)
 
 ## Category
-- [Social Platforms and communities](#social-platforms-and-communities)
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
+- [Social Media Sites and Communities](#social-media-sites-and-communities)
+- Technology
+  - [Video Relay Services](#video-relay-services)
+  - [IP Relay Services](#ip-relay-services)
 - [News](#news)
-- [Other Resources](#other-resources)
 - Media
-  - [Film](#film)
-  - [TV](#TV)
+  - [Films](#films)
+  - [TV Shows](#tv-shows)
 - [Feedback](#feedback)
-
-## Social Platforms and Communities
-
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } British Sign Language on Discord - [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv)
 
 ## Sign Language in United Kingdom
 
-Current sign language in United Kingdom Deaf Community is **British Sign Language (BSL)**.
+- Current sign language in United Kingdom Deaf Community is **British Sign Language (BSL)**.
 
 ## Sign Language Dictionaries
 
@@ -42,21 +40,13 @@ Current sign language in United Kingdom Deaf Community is **British Sign Languag
 
 ## Organizations
 
+- **British Deaf Association**, deaf-led British charity promote the respect, protection, and full inclusion of the language, culture, community, diversity, and heritage of Deaf people in the UK
+  - Founded: 1886
+  - Website: [bda.org.uk](https://bda.org.uk/)
 
-## News
+## Social Media Sites and Communities
 
-
-## Post Secondary Education Programs
-
-
-## Other Resources
-
-
-## Film
-
-
-## TV
-
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } British Sign Language on Discord - [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv)
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

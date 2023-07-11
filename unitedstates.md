@@ -14,22 +14,23 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Australia]({{site.baseurl}}/australia)
 
 ## Category
-- [Social Platforms and communities](#social-platforms-and-communities)
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
+- [Post Secondary Education Programs](#post-secondary-education-programs)
+- [Social Media Sites and Communities](#social-media-sites-and-communities)
+- Technology
+  - [Video Relay Services](#video-relay-services)
+  - [IP Relay Services](#ip-relay-services)
+- [Representation Deaf People and Culture](#representation-deaf-people)
 - [News](#news)
-- [Other Resources](#other-resources)
 - Media
-  - [Film](#film)
-  - [TV](#TV)
+  - [Films](#films)
+  - [TV Shows](#tv-shows)
 - [Feedback](#feedback)
-
-## Social Platforms and Communities
-
 
 ## Sign Language in United States
 
-Current sign language in United States Deaf Community is **American Sign Language (ASL)**.
+- Current sign language in United States Deaf Community is **American Sign Language (ASL)**.
 
 ## Sign Language Dictionaries
 
@@ -43,18 +44,22 @@ Current sign language in United States Deaf Community is **American Sign Languag
 ## Organizations
 
 
+## Post Secondary Education Programs
+
+- Gallaudet University, the private and research university for the Deaf and Hard of Hearing - [gallaudet.edu](https://gallaudet.edu/)
+- National Technical Institute for the Deaf, the first technological college in the world for the Deaf and Hard of Hearing - [rit.edu](https://www.rit.edu/ntid/)
+
+## Social Media Sites and Communities
+
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
+
 ## News
 
 | Region | Name | Description | Link |
 |-----|--------|---------------|--------|
 | United States | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
 
-## Post Secondary Education Programs
-
-- Gallaudet University, the private and research university for the Deaf and Hard of Hearing - [gallaudet.edu](https://gallaudet.edu/)
-- National Technical Institute for the Deaf, the first technological college in the world for the Deaf and Hard of Hearing - [rit.edu](https://www.rit.edu/ntid/)
-
-## Other Resources
+## Representation Deaf People and Culture
 
 - Deaf Characters in Fiction (Updated Monthly) by S. Leigh Ann Cowan [https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/](https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/)
 
