@@ -79,8 +79,8 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 | Telus IP Relay | [iprelay.telus.net](https://iprelay.telus.net/login/#/) | [iprelay.telus.net](https://iprelay.telus.net/register#/) | 
 | Freedom Mobile IP Relay | [iprelay.telus.net](https://iprelay.telus.net/login/#/) | [iprelay.freedommobile.ca](https://iprelay.freedommobile.ca/register#/)<br />OR<br />[freedommobile.ca (form)](https://www.freedommobile.ca/docs/default-source/default-document-library/ip-relay-service-application.pdf) |
 | Videotron IP Relay | [iprelay.videotron.com](https://iprelay.videotron.com/login/#/) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
-| Cogeco IP Relay | [iprelay.videotron.com](https://iprelay.videotron.com/login/#/) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
-| Fizz IP Relay | [iprelay.videotron.com](https://iprelay.videotron.com/login/#/) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
+| Cogeco IP Relay | [iprelay.cogeco.com](http://iprelay.cogeco.com/login/#/) | [iprelay.cogeco.com](http://iprelay.cogeco.com//register#/) |
+| Fizz IP Relay | [iprelay.fizz.ca](https://iprelay.fizz.ca/login/#/) | [iprelay.fizz.ca](https://iprelay.videotron.com/register#/) |
 | SaskTel IP Relay | [messagerelayip.sasktel.com](https://messagerelayip.sasktel.com/) | [messagerelayip.sasktel.com](https://messagerelayip.sasktel.com/register#/) |
 | Shaw IP Relay | [iprelay.shaw.ca](https://iprelay.shaw.ca/login/#/) | [iprelay.shaw.ca](https://iprelay.shaw.ca/register#/) |
 | Eastlink IP Relay | [iprelay.eastlink.ca](https://iprelay.eastlink.ca/) | [iprelay.eastlink.ca](https://iprelay.eastlink.ca/register#/) |

@@ -62,10 +62,10 @@ Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH 
 
 | Company | Access Service on | Signup Service at |
 |---------|-------------------|-------------------|
-| | | |
-| | | |
-| | | |
-| | | |
+| ZVRS | In-App | [zvrs.com](https://www.zvrs.com/registration/) |
+| Purple | In-App | [account.purplevrs.com](https://account.purplevrs.com/) |
+| Convo | In-App and [Website](https://login.convo.io/) | [convorelay.com](https://convorelay.com/signup/) |
+| Sorenson | In-App | [sorenson.com](https://sorenson.com/solutions/video-relay-services/#signup) |
 
 ## IP Relay Services
 
