@@ -16,10 +16,12 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
+- [Post Secondary Education Programs](#post-secondary-education-programs)
 - [Social Media Sites and Communities](#social-media-sites-and-communities)
 - Technology
   - [Video Relay Services](#video-relay-services)
   - [IP Relay Services](#ip-relay-services)
+- [Representation Deaf People and Culture](#representation-deaf-people)
 - [News](#news)
 - Media
   - [Films](#films)
@@ -55,6 +57,24 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Founded: 2020
   - Website: [signinganimation.com](https://www.signinganimation.com/)
 
+## Post Secondary Education Programs
+
+#### Ontario
+
+- **Deaf Empowerment Program at Mahawk College**, government-funded program is taught in American Sign Language (ASL) for adults who are Deaf or Hard-of-Hearing and are looking to prepare for the General Education Diploma (GED) test, gain requirements to apply for college study, or improve skills needed for the workforce. 
+  - Location: [Hamilton, Ontario](https://www.google.com/maps/place/Mohawk+College/@43.2386914,-79.8906974,17z/data=!3m2!4b1!5s0x882c9b1066b83ab9:0x7b9bc544845145ef!4m6!3m5!1s0x882c9b0f091045c1:0x5cc59dd1633a1496!8m2!3d43.2386914!4d-79.8881225!16zL20vMDF4MzZ6?entry=ttu)
+  - Founded: 1993
+  - Website: [mohawkcollege.ca](https://www.mohawkcollege.ca/programs/get-prepared-for-college/academic-upgrading/deaf-empowerment-program)
+  - Email: [dep@mohawkcollege.ca](mailto:dep@mohawkcollege.ca)
+- **Academic Upgrading Program for Deaf and Hard of Hearing Adults at George Brown College**, government-funded program is taught in American Sign Language (ASL) for adults who are Deaf or Hard-of-Hearing and are looking to prepare for gain requirements to apply for college study, or improve skills needed for the workforce. 
+  - Location: [Toronto, Ontario](https://www.google.com/maps/place/George+Brown+College+-+St.+James+Campus+-+A+Building/@43.6512977,-79.3728163,17z/data=!3m2!4b1!5s0x89d4cb309269a7db:0x2963d560ac10d54b!4m6!3m5!1s0x89d4cb308d8c451f:0x2a2d39cb9b79ac42!8m2!3d43.6512977!4d-79.3702414!16s%2Fg%2F11c1wjw7lp?entry=ttu)
+  - Founded: 1993
+  - Website: [georgebrown.ca](https://www.georgebrown.ca/programs/academic-upgrading-program-for-deaf-and-hard-of-hearing-adults-program-a752)
+  - Email: [deafupgrading@georgebrown.ca](mailto:deafupgrading@georgebrown.ca)
+
+
+**Important Note:** Government-funded program do not accept international student unless you are Canadian citizen, permanent resident, or protected person in Canada (with notice of decision).
+
 ## Social Media Sites and Communities
 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
@@ -63,7 +83,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
 
-- SRV Cabada VRS
+- SRV Canada VRS
   - Official Website: [srvcanadavrs.ca](https://srvcanadavrs.ca/en)
   - Access Service and Signup online though app, Download link: [srvcanadavrs.ca](https://srvcanadavrs.ca/en/get-the-app/personal-account/)
 
@@ -99,6 +119,10 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 | Region | Name | Description | Link |
 |--------|------|-------------|------|
 | Canada | DeafDots | DeafDots provides Canadian news in video with a Canadian focus, using American Sign Language. | [Website](https://www.deafdots.ca/), [YouTube](https://www.youtube.com/@DeafDots), [Facebook](https://www.facebook.com/groups/deafdots/), [Instagram](https://www.instagram.com/deafdots/) |
+
+## Representation Deaf People and Culture
+
+- Deaf Characters in Fiction (Updated Monthly) by S. Leigh Ann Cowan [https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/](https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/)
 
 ## Films
 
