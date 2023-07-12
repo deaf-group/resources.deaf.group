@@ -20,7 +20,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - Technology
   - [Video Relay Services](#video-relay-services)
   - [IP Relay Services](#ip-relay-services)
-- [News](#news)
+- Information 
+  - [News](#news)
 - Media
   - [Films](#films)
   - [TV Shows](#tv-shows)

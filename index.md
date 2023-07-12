@@ -17,8 +17,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 - [Social Platforms and communities](#social-platforms-and-communities)
 - Technology
-  - [Hearing Aid & Cochlear Implant](#hearing-aid--cochlear-implant)
-  - [Speech to Text & AI Closed Captioning](#live-captioning-system-wide)
+  - [Live Transcription Service](#live-rranscription-service)
+  - [Live Captioning System-wide](#live-captioning-system-wide)
 - [Feedback](#feedback)
 
 ## Social Platforms and Communities
@@ -29,13 +29,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Deafcord on Discord - [discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT)
 - ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } alldeaf on dedicated forum - [alldeaf.com/community](https://www.alldeaf.com/community)
 
-## Hearing Aid & Cochlear Implant
-
-
-
-## Speech to Text & AI Closed Captioning
-
-### Live Transcription Service
+## Live Transcription Service
 
 | Name | Description | Device | Free or Paid? | Link |
 |------|-------------|--------|---------------|------|
@@ -45,7 +39,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | TigerChat | TigerChat uses Google and Microsoft AI to create real-time transcription on your device with just web browser for meeting. <br/>**Note: TigerChat required RIT account. Student, staff, and alumni have access to it.**  | Any web browser | Limited access | [tigerchat.app](https://tigerchat.app/) |
 | SeaVoice | SeaVoice the Discord bot can transcribe voice channel into text channel! <br/>**Note: Owner/Admin of server need set up the bot and permission.**  | Discord | Free | [wiki.seasalt.ai](https://wiki.seasalt.ai/seavoice/discord/discord-bot/) |
 
-### Live Captioning System-wide
+## Live Captioning System-wide
 
 | OS | Built-in? | Where? | Powered by | Info Link |
 |----|-----------|--------|------------|-----------|

@@ -21,8 +21,9 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - Technology
   - [Video Relay Services](#video-relay-services)
   - [IP Relay Services](#ip-relay-services)
-- [Representation Deaf People and Culture](#representation-deaf-people)
-- [News](#news)
+- [Representation Deaf People and Culture](#representation-deaf-people-and-culture)
+- Information 
+  - [News](#news)
 - Media
   - [Films](#films)
   - [TV Shows](#tv-shows)
