@@ -16,6 +16,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
+- [Interpreting Services](#interpreting-service)
 - [Post Secondary Education Programs](#post-secondary-education-programs)
 - [Social Media Sites and Communities](#social-media-sites-and-communities)
 - Technology
@@ -58,6 +59,32 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Founded: 2020
   - Website: [signinganimation.com](https://www.signinganimation.com/)
 
+## Interpreting Services
+
+#### Quebec
+
+| Name | Language | Available in | Website |
+|------|----------|--------------|---------|
+| CCSMM ASL Interpreting Service | ASL | Greater Montréal Area | [aslis.ccsmm.org](https://aslis.ccsmm.org/) |
+| Centres collégiaux de soutien à l’intégration (CCSI) | LSQ, ASL | Public and private CEGEPs and universities in Eastern and Western Quebec | [ccsi.quebec](https://ccsi.quebec/) |
+| Interprétation Signes et Paroles (ISEP) | LSQ, ASL | Montréal | [isep.ca](https://www.isep.ca/home) |
+| TraduSigne | LSQ, ASL, Translation | Québec | [tradusigne.ca](https://tradusigne.ca/en/our-services/) |
+| Keleny Translation Company | LSQ, ASL, Translation | Montréal | [keleny.com](https://www.keleny.com/en/interpretation-services/) |
+| Louise Martin Interprètes | LSQ | Montréal | [louisemartin.ca](https://louisemartin.ca/) |
+| Service d’Interprétation pour Personnes Sourdes de l’Estrie (SIPSE) | LSQ | Québec | [sipse.net](http://sipse.net/) |
+| Service d’interprétation visuelle et tactile (SIVET) | LSQ | Montréal, Laval, Montérégie, Laurentides, Lanaudières | [laressource.org](http://www.laressource.org/services/service-regional-dinterpretariat/) |
+| Service régional d’interprétariat de l’Abitibi-Témiscamingue (SIPSE) | LSQ | Montréal, Laval, Montérégie, Laurentides, Lanaudières | [sivet.ca](https://sivet.ca/) |
+| Service Régional d’Interprétariat de l’Est du Québec (SRIEQ) | LSQ | Capitale-Nationale, Mauricie, Centre-du-Québec, Chaudière-Appalaches, Côte-Nord, Saguenay-Lac-Saint-Jean, Bas-Saint-Laurent, Gaspésie, Îles-de-la-Madeleine | [srieq.ca](https://srieq.ca/) |
+
+ReQIS is currently maintaining list of interpreting services in Québec. They offers LSQ to ASL interpreting service as well. Please see [reqis.org (in French)](http://www.reqis.org/sinformer/services-dinterpretes/).
+
+#### Ontario
+
+| Name | Language | Available in | Website |
+|------|----------|--------------|---------|
+| CHS Interpreting Services | ASL | Southern Ontario, Video Call | [chs.ca](https://www.chs.ca/service/chs-interpreting-services) |
+| Asign (SLIAO) | ASL | Ottawa, Video Call | [asign.ca](https://asign.ca/) |
+
 ## Post Secondary Education Programs
 
 #### Ontario
@@ -72,7 +99,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Founded: 1993
   - Website: [georgebrown.ca](https://www.georgebrown.ca/programs/academic-upgrading-program-for-deaf-and-hard-of-hearing-adults-program-a752)
   - Email: [deafupgrading@georgebrown.ca](mailto:deafupgrading@georgebrown.ca)
-
 
 **Important Note:** Government-funded program do not accept international student unless you are Canadian citizen, permanent resident, or protected person in Canada (with notice of decision).
 
@@ -132,7 +158,6 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 | CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV+](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
 
 ## TV Shows
-
 
 
 ## Feedback
