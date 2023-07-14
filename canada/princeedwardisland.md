@@ -15,9 +15,9 @@ This is the place where you can find resources for the deaf and hard of hearing 
    - [Newfoundland and Labrador]({{site.baseurl}}/canada/newfoundlandandlabrador)
    - [Nova Scotia]({{site.baseurl}}/canada/novascotia)
    - [Ontario]({{site.baseurl}}/canada/ontario)
-   - [Prince Edward Island]({{site.baseurl}}/canada/princeedwardisland)
+   - [Prince Edward Island]({{site.baseurl}}/canada/princeedwardisland) **(You are here)**
    - [Québec]({{site.baseurl}}/canada/quebec)
-   - [Saskatchewan]({{site.baseurl}}/canada/saskatchewan) **(You are here)**
+   - [Saskatchewan]({{site.baseurl}}/canada/saskatchewan)
 - [Mexico]({{site.baseurl}}/mexico)
 - [United Kingdom]({{site.baseurl}}/unitedkingdom)
 - [France]({{site.baseurl}}/france)

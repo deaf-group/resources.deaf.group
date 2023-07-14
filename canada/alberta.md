@@ -31,6 +31,11 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
+- **Alberta Association of the Deaf (AAD)**
+  - Founded: 
+  - Location: Edmonton, AB
+  - Website: [aad-deaf.ca](https://aad-deaf.ca/)
+
 ## Interpreting Services
 
 | Name | Language | Available in | Website |

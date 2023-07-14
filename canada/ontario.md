@@ -32,6 +32,19 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
+- **Ontario Association of the Deaf**, government-funded and non-profits organization that they are hosting event (such as Mayfest) and ensuring equality and protecting the rights of Deaf Ontarians.
+  - Founded: 1890
+  - Location: Toronto, ON
+  - Website: [deafontario.ca](https://www.deafontario.ca/)
+- **Ontario Association of the Deaf**
+  - Founded: 1983
+  - Location: Toronto, ON
+  - Website: [ontariodeafsports.wixsite.com](https://ontariodeafsports.wixsite.com/odsa/)
+- **Ontario Cultural Society of the Deaf**
+  - Founded: 1974
+  - Location: Toronto, ON
+  - Website: [ocsdeaf.org](https://ocsdeaf.org/)
+
 ## Interpreting Services
 
 | Name | Available in | Website |

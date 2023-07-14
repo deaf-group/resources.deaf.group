@@ -31,6 +31,11 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
+- **Deaf Literacy Nova Scotia (DLNS)**
+  - Founded: 1994
+  - Location: Halifax, NS
+  - Website: [dlns.ca](https://dlns.ca/)
+
 ## Interpreting Services
 
 | Name | Language | Available in | Website |
