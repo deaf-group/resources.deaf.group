@@ -11,13 +11,13 @@ This is the place where you can find resources for the deaf and hard of hearing 
    - [Alberta]({{site.baseurl}}/canada/alberta)
    - [British Columbia]({{site.baseurl}}/canada/britishcolumbia)
    - [Manitoba]({{site.baseurl}}/canada/manitoba)
-   - [New Brunswick]({{site.baseurl}}/canada/newbrunswick) **(You are here)**
+   - [New Brunswick]({{site.baseurl}}/canada/newbrunswick)
    - [Newfoundland and Labrador]({{site.baseurl}}/canada/newfoundlandandlabrador)
    - [Nova Scotia]({{site.baseurl}}/canada/novascotia)
    - [Ontario]({{site.baseurl}}/canada/ontario)
    - [Prince Edward Island]({{site.baseurl}}/canada/princeedwardisland)
    - [Québec]({{site.baseurl}}/canada/quebec)
-   - [Saskatchewan]({{site.baseurl}}/canada/saskatchewan)
+   - [Saskatchewan]({{site.baseurl}}/canada/saskatchewan) **(You are here)**
 - [Mexico]({{site.baseurl}}/mexico)
 - [United Kingdom]({{site.baseurl}}/unitedkingdom)
 - [France]({{site.baseurl}}/france)
@@ -32,12 +32,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Organizations
 
 ## Interpreting Services
-
-| Name | Language | Available in | Website |
-|------|----------|--------------|---------|
-| New Brunswick Deaf and Hard of Hearing Services Inc. | ASL, LSQ | Provincewide, VRI | [nbdhhs.com](http://nbdhhs.com/InterpServices.php) |
-
-Note: VRI is stand for Video Remote Interpreting.
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

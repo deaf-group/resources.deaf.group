@@ -27,6 +27,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 - [Organizations](#organizations)
 - [Interpreting Services](#interpreting-services)
+- [Feedback](#feedback)
 
 ## Organizations
 
@@ -35,3 +36,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | Name | Language | Available in | Website |
 |------|----------|--------------|---------|
 | Society of Deaf & Hard of Hearing Nova Scotians | ASL | Halifax, Cape Breton | [sdhhns.org](https://sdhhns.org/interpreting-services/) |
+
+## Feedback
+Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

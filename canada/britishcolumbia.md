@@ -27,6 +27,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 - [Organizations](#organizations)
 - [Interpreting Services](#interpreting-services)
+- [Feedback](#feedback)
 
 ## Organizations
 
@@ -38,3 +39,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | Academic Communication Equity-British Columbia (ACE-BC) | ASL | Provincewide | [ace-bc.ca](https://ace-bc.ca/) |
 
 Note: VRI is stand for Video Remote Interpreting.
+
+## Feedback
+Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
