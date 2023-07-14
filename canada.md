@@ -8,6 +8,16 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [International]({{site.baseurl}}/)
 - [United States]({{site.baseurl}}/unitedstates)
 - [Canada]({{site.baseurl}}/canada) **(You are here)**
+   - [Alberta]({{site.baseurl}}/canada/alberta)
+   - [British Columbia]({{site.baseurl}}/canada/britishcolumbia)
+   - [Manitoba]({{site.baseurl}}/canada/manitoba)
+   - [New Brunswick]({{site.baseurl}}/canada/newbrunswick)
+   - [Newfoundland and Labrador]({{site.baseurl}}/canada/newfoundlandandlabrador)
+   - [Nova Scotia]({{site.baseurl}}/canada/novascotia)
+   - [Ontario]({{site.baseurl}}/canada/ontario)
+   - [Prince Edward Island]({{site.baseurl}}/canada/princeedwardisland)
+   - [Québec]({{site.baseurl}}/canada/quebec)
+   - [Saskatchewan]({{site.baseurl}}/canada/saskatchewan)
 - [Mexico]({{site.baseurl}}/mexico)
 - [United Kingdom]({{site.baseurl}}/unitedkingdom)
 - [France]({{site.baseurl}}/france)
@@ -16,7 +26,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
-- [Interpreting Services](#interpreting-services)
 - [Post Secondary Education Programs](#post-secondary-education-programs)
 - [Social Media Sites and Communities](#social-media-sites-and-communities)
 - Technology
@@ -52,46 +61,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Founded: 1940
   - Website: [cad-asc.ca](https://cad-asc.ca/)
   - In French, Association des sourds du Canada (ASC)
-- **Seeing Voices Montreal**, non-profits organization that they are hosting play, art, and camp program.
-  - Founded: 2012
-  - Website: [seeingvoicesmontreal.com](http://www.seeingvoicesmontreal.com/)
-- **Signing Animation**, non-profit animation studio that they teaches art and animation to Deaf/HoH artists and represent Deaf culture in animation.
-  - Founded: 2020
-  - Website: [signinganimation.com](https://www.signinganimation.com/)
-
-## Interpreting Services
-
-Note: VRI is stand for Video Remote Interpreting.
-
-#### Alberta
-
-| Name | Language | Available in | Website |
-|------|----------|--------------|---------|
-| Deaf and Hear Alberta | ASL | Provincewide, VRI | [deafandhearalberta.ca](https://deafandhearalberta.ca/) |
-
-#### Ontario
-
-| Name | Language | Available in | Website |
-|------|----------|--------------|---------|
-| CHS Interpreting Services | ASL | Southern Ontario, VRI | [chs.ca](https://www.chs.ca/service/chs-interpreting-services) |
-| Asign (SLIAO) | ASL | Ottawa, VRI | [asign.ca](https://asign.ca/) |
-
-#### Quebec
-
-| Name | Language | Available in | Website |
-|------|----------|--------------|---------|
-| CCSMM ASL Interpreting Service | ASL | Greater Montréal Area | [aslis.ccsmm.org](https://aslis.ccsmm.org/) |
-| Centres collégiaux de soutien à l’intégration (CCSI) | LSQ, ASL | Public and private CEGEPs and universities in Eastern and Western Quebec | [ccsi.quebec](https://ccsi.quebec/) |
-| Interprétation Signes et Paroles (ISEP) | LSQ, ASL | Montréal | [isep.ca](https://www.isep.ca/home) |
-| TraduSigne | LSQ, ASL, Translation |  Greater Montréal Area | [tradusigne.ca](https://tradusigne.ca/en/our-services/) |
-| Keleny Translation Company | LSQ, ASL, Translation | Montréal | [keleny.com](https://www.keleny.com/en/interpretation-services/) |
-| Louise Martin Interprètes | LSQ | Montréal | [louisemartin.ca](https://louisemartin.ca/) |
-| Service d’Interprétation pour Personnes Sourdes de l’Estrie (SIPSE) | LSQ | Provincewide | [sipse.net](http://sipse.net/) |
-| Service d’interprétation visuelle et tactile (SIVET) | LSQ | Montréal, Laval, Montérégie, Laurentides, Lanaudières | [laressource.org](http://www.laressource.org/services/service-regional-dinterpretariat/) |
-| Service régional d’interprétariat de l’Abitibi-Témiscamingue (SIPSE) | LSQ | Montréal, Laval, Montérégie, Laurentides, Lanaudières | [sivet.ca](https://sivet.ca/) |
-| Service Régional d’Interprétariat de l’Est du Québec (SRIEQ) | LSQ | Capitale-Nationale, Mauricie, Centre-du-Québec, Chaudière-Appalaches, Côte-Nord, Saguenay-Lac-Saint-Jean, Bas-Saint-Laurent, Gaspésie, Îles-de-la-Madeleine | [srieq.ca](https://srieq.ca/) |
-
-ReQIS is currently maintaining list of interpreting services in Québec. They offers LSQ to ASL interpreting service as well. Please see [reqis.org (in French)](http://www.reqis.org/sinformer/services-dinterpretes/).
 
 ## Post Secondary Education Programs
 
