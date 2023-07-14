@@ -40,8 +40,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 | Country/Region | Language | Name | Link |
 |----------------|----------|------|------|
-| United States, Canada | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
-| United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
+| Canada, United States  | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
+| Canada, United States  | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
 | Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) |
 | Canada, Worldwide | ASL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
@@ -61,6 +61,21 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Interpreting Services
 
+Note: VRI is stand for Video Remote Interpreting.
+
+#### Alberta
+
+| Name | Language | Available in | Website |
+|------|----------|--------------|---------|
+| Deaf and Hear Alberta | ASL | Provincewide, VRI | [deafandhearalberta.ca](https://deafandhearalberta.ca/) |
+
+#### Ontario
+
+| Name | Language | Available in | Website |
+|------|----------|--------------|---------|
+| CHS Interpreting Services | ASL | Southern Ontario, VRI | [chs.ca](https://www.chs.ca/service/chs-interpreting-services) |
+| Asign (SLIAO) | ASL | Ottawa, VRI | [asign.ca](https://asign.ca/) |
+
 #### Quebec
 
 | Name | Language | Available in | Website |
@@ -68,22 +83,15 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | CCSMM ASL Interpreting Service | ASL | Greater Montréal Area | [aslis.ccsmm.org](https://aslis.ccsmm.org/) |
 | Centres collégiaux de soutien à l’intégration (CCSI) | LSQ, ASL | Public and private CEGEPs and universities in Eastern and Western Quebec | [ccsi.quebec](https://ccsi.quebec/) |
 | Interprétation Signes et Paroles (ISEP) | LSQ, ASL | Montréal | [isep.ca](https://www.isep.ca/home) |
-| TraduSigne | LSQ, ASL, Translation | Québec | [tradusigne.ca](https://tradusigne.ca/en/our-services/) |
+| TraduSigne | LSQ, ASL, Translation |  Greater Montréal Area | [tradusigne.ca](https://tradusigne.ca/en/our-services/) |
 | Keleny Translation Company | LSQ, ASL, Translation | Montréal | [keleny.com](https://www.keleny.com/en/interpretation-services/) |
 | Louise Martin Interprètes | LSQ | Montréal | [louisemartin.ca](https://louisemartin.ca/) |
-| Service d’Interprétation pour Personnes Sourdes de l’Estrie (SIPSE) | LSQ | Québec | [sipse.net](http://sipse.net/) |
+| Service d’Interprétation pour Personnes Sourdes de l’Estrie (SIPSE) | LSQ | Provincewide | [sipse.net](http://sipse.net/) |
 | Service d’interprétation visuelle et tactile (SIVET) | LSQ | Montréal, Laval, Montérégie, Laurentides, Lanaudières | [laressource.org](http://www.laressource.org/services/service-regional-dinterpretariat/) |
 | Service régional d’interprétariat de l’Abitibi-Témiscamingue (SIPSE) | LSQ | Montréal, Laval, Montérégie, Laurentides, Lanaudières | [sivet.ca](https://sivet.ca/) |
 | Service Régional d’Interprétariat de l’Est du Québec (SRIEQ) | LSQ | Capitale-Nationale, Mauricie, Centre-du-Québec, Chaudière-Appalaches, Côte-Nord, Saguenay-Lac-Saint-Jean, Bas-Saint-Laurent, Gaspésie, Îles-de-la-Madeleine | [srieq.ca](https://srieq.ca/) |
 
 ReQIS is currently maintaining list of interpreting services in Québec. They offers LSQ to ASL interpreting service as well. Please see [reqis.org (in French)](http://www.reqis.org/sinformer/services-dinterpretes/).
-
-#### Ontario
-
-| Name | Language | Available in | Website |
-|------|----------|--------------|---------|
-| CHS Interpreting Services | ASL | Southern Ontario, Video Call | [chs.ca](https://www.chs.ca/service/chs-interpreting-services) |
-| Asign (SLIAO) | ASL | Ottawa, Video Call | [asign.ca](https://asign.ca/) |
 
 ## Post Secondary Education Programs
 
