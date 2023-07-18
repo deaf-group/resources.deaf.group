@@ -13,6 +13,65 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [France]({{site.baseurl}}/france)
 - [Australia]({{site.baseurl}}/australia)
 
+<details><summary>List of States</summary>
+
+  - Alaska
+  - Alabama
+  - Arkansas
+  - American Samoa
+  - Arizona
+  - California
+  - Colorado
+  - Connecticut
+  - District of Columbia
+  - Delaware
+  - Florida
+  - Georgia
+  - Guam
+  - Hawaii
+  - Iowa
+  - Idaho
+  - Illinois
+  - Indiana
+  - Kansas
+  - Kentucky
+  - Louisiana
+  - Massachusetts
+  - Maryland
+  - Maine
+  - Michigan
+  - Minnesota
+  - Missouri
+  - Mississippi
+  - Montana
+  - North Carolina
+  - North Dakota
+  - Nebraska
+  - New Hampshire
+  - New Jersey
+  - New Mexico
+  - Nevada
+  - New York
+  - Ohio
+  - Oklahoma
+  - Oregon
+  - Pennsylvania
+  - Puerto Rico
+  - Rhode Island
+  - South Carolina
+  - South Dakota
+  - Tennessee
+  - Texas
+  - Utah
+  - Virginia
+  - Virgin Islands
+  - Vermont
+  - Washington
+  - Wisconsin
+  - West Virginia
+  - Wyoming
+</details>
+
 ## Category
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
@@ -81,8 +140,8 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 
 | Company | Access Service on | Signup Service at |
 |---------|-------------------|-------------------|
-| | | |
-
+| Sprint IP Relay | [sprintip.com](http://www.sprintip.com/) | [sprintip.com](http://www.sprintip.com/) |
+| T-Mobile IP Relay | [tmobileip.com](https://tmobileip.com/auth/login) | [tmobileiprelay.com](https://tmobileiprelay.com/Registration) |
 
 ## News
 
