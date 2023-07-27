@@ -38,13 +38,15 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | Web Captioner | Web Captioner makes your event, speech, classroom lecture, or church service accessible with real-time captioning. <br/>**Note: Web Captioner is using Google API which it required Google Chrome.** | Google Chrome | Free | [webcaptioner.com](https://webcaptioner.com/) |
 | TigerChat | TigerChat uses Google and Microsoft AI to create real-time transcription on your device with just web browser for meeting. <br/>**Note: TigerChat required RIT account. Student, staff, and alumni have access to it.**  | Any web browser | Limited access | [tigerchat.app](https://tigerchat.app/) |
 | SeaVoice | SeaVoice the Discord bot can transcribe voice channel into text channel! <br/>**Note: Owner/Admin of server need set up the bot and permission.**  | Discord | Free | [wiki.seasalt.ai](https://wiki.seasalt.ai/seavoice/discord/discord-bot/) |
+| MacWhisper | MacWhisper can privately transcribe with OpenAI Whisper service in an easy interface. Also, it can create subtitles files such as `.srt` and `.vtt` | macOS | Freemium | [goodsnooze.gumroad.com](https://goodsnooze.gumroad.com/l/macwhisper) |
 
 ## Live Captioning System-wide
 
 | OS | Built-in? | Where? | Powered by | Info Link |
 |----|-----------|--------|------------|-----------|
 | Windows | Yes |  On Windows 11 or newer: Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
-| iOS, iPadOS | Yes | On iOS/iPadOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
+| iOS | Yes | On iOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
+| iPadOS | Yes | On iPadOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/ipad/ipad0bbca12e/ipadoss) |
 | macOS | Yes | On macOS 13 or newer: System Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/mac-help/mchldd11f4fd/mac) |
 | Android | No | On Andriod 5 or newer: Download [Live Transcribe app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
 | Linux | No | On any Linux with flatpak: Download [Live Captions app at Flathub](https://flathub.org/apps/net.sapples.LiveCaptions) | Your own computer in offline! | [GitHub Repo](https://github.com/abb128/LiveCaptions) |
@@ -52,7 +54,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ### Guides
 
-- [Add live captions in OBS Studio with Web Captioner](https://webcaptioner.com/help/integrations/obs)
+
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
