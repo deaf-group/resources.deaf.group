@@ -15,6 +15,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 <details><summary>List of States</summary>
 
+**Under construction!**
   - Alaska
   - Alabama
   - Arkansas
@@ -153,11 +154,38 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 
 - Deaf Characters in Fiction (Updated Monthly) by S. Leigh Ann Cowan [https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/](https://slacowan.com/2023/06/23/ranked-deaf-characters-in-fiction/)
 
+### Actors/Actresses
+
+| Name | Description | Social Media/Link |
+|------|-------------|-------------------|
+| Daniel Durant | Daniel Durant is a talented deaf actor known for his compelling performances on both stage and screen. He gained widespread recognition for his role in the Broadway production of "Spring Awakening" and has since continued to make significant contributions to the entertainment industry. | [Instagram](https://instagram.com/danielndurant), [TwitterX](https://twitter.com/DanielNDurant), [Wikipedia](https://en.wikipedia.org/wiki/Daniel_Durant), [Website](https://www.daniel-durant.com/) |
+| Marlee Matlin | Marlee Matlin is an accomplished actress and advocate, notable for her groundbreaking Academy Award-winning role in "Children of a Lesser God." Beyond her impressive acting career, she has been a prominent voice for deaf and disabled communities, using her platform to raise awareness and promote inclusivity. | [Instagram](https://instagram.com/themarleematlin/), [TwitterX](https://twitter.com/marleematlin), [Wikipedia](https://en.wikipedia.org/wiki/Marlee_Matlin), [Website](http://www.marleematlin.net/) |
+| Troy Kotsur | Troy Kotsur is a highly skilled deaf actor renowned for his exceptional performances in both film and theater, notably earning acclaim for his role in the movie "CODA." His dedication to his craft and his commitment to representing deaf culture have made him a respected figure in the entertainment industry. | [Instagram](https://www.instagram.com/troykotsur/), [TwitterX](https://twitter.com/TroyKotsur), [Wikipedia](https://en.wikipedia.org/wiki/Troy_Kotsur)  |
+
+### Comedians
+
+| Name | Description | Social Media/Link |
+|------|-------------|-------------------|
+| Deafies in Drag | "Deafies in Drag" is a dynamic and empowering performance group that blends deaf culture and drag artistry, captivating audiences with their unique blend of entertainment and advocacy. Through their vibrant shows, they challenge stereotypes and celebrate diversity while showcasing the talents of deaf and hard-of-hearing individuals. | [Instagram](https://www.instagram.com/deafiesindrag/), [YouTube](https://www.youtube.com/@DeafiesinDrag), [Website](https://deafiesindrag.com/) |
+| Sandro Hatibović | Sandro Hatibović, also known as "The Endless Show," is a captivating deaf performer recognized for his mesmerizing and innovative sign language storytelling. His performances seamlessly weave together elements of theater, poetry, and visual storytelling, leaving audiences inspired by his creative and boundary-pushing approach to deaf performance art. | [Facebook](https://www.facebook.com/SandroHatibovicOfficial), [Instagram](https://www.instagram.com/sandro.hatibovic/), [TikTok](https://www.tiktok.com/@sandro.hatibovic), [YouTube](https://www.youtube.com/@sandrohatibovic/shorts) |
+| SomeDeafGuy | "SomeDeafGuy" is an engaging and charismatic content creator who uses his platform to share insights into deaf culture, promote accessibility, and entertain viewers with his informative and entertaining videos. With a knack for combining humor and education, he raises awareness and fosters understanding about the deaf and hard-of-hearing community in an engaging and relatable way. | [Facebook](https://www.facebook.com/somedeafguy/), [Instagram](https://www.instagram.com/somedeafguy_/), [TikTok](https://www.tiktok.com/@somedeafguy), [YouTube](https://www.youtube.com/@somedeafguy) |
+
+### Sportsperson/Athletes
+
+| Name | Description | Social Media/Link |
+|------|-------------|-------------------|
+| William "Dummy" Hoy | William "Dummy" Hoy was a trailblazing deaf Major League Baseball player who not only excelled on the field but also pioneered the use of hand signals for communication between players, forever impacting the way the game is played and enhancing inclusivity in sports. His achievements and contributions have left an indelible mark on the world of baseball and deaf advocacy. | [Wikipedia](https://en.wikipedia.org/wiki/Dummy_Hoy) |
+
+
+
 ## Film
 
 | Name | Description | Where Watch |
-|------|--  ---------|-------------|
-| CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV+](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
+|------|-------------|-------------|
+| CODA | "CODA" is a heartfelt and critically acclaimed 2021 film that explores the life of Ruby, a high school student who is the only hearing member in her deaf family. Through her journey as a CODA, Ruby navigates the challenges of balancing her responsibilities at home with her dreams of pursuing a career in music. | [Apple TV+ only](https://tv.apple.com/us/movie/coda/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir) |
+| I See The Crowd Roar: The Story of William Dummy Hoy | "I See The Crowd Roar: The Story of William Dummy Hoy" is a compelling documentary that delves into the inspiring journey of the legendary deaf baseball player. Through archival footage and heartfelt interviews, the film captures the essence of Hoy's life, his contributions to the sport, and his enduring impact on the deaf community and the game of baseball. | [Apple TV/iTunes](https://tv.apple.com/us/movie/i-see-the-crowd-roar---the-story-of-william-dummy-hoy/umc.cmc.66oduvth8z28l000pntkir02a?at=1000l3V2&ct=moviefone_tv&playableId=tvs.sbd.9001%3A562446867) |
+| The Silent Natural | "The Silent Natural" (2019) is a biographical drama that chronicles the life of William "Dummy" Hoy, a deaf baseball player who defied societal expectations and became a pivotal figure in the sport's history. The film explores Hoy's determination to break barriers, highlighting his remarkable achievements on and off the field while shedding light on the challenges he faced as a deaf athlete. | [Apple TV/iTunes](https://tv.apple.com/us/movie/the-silent-natural/umc.cmc.6sx1mmt7pvqd2moqaghwqw9b1?at=1000l3V2&ct=justwatch_tv&playableId=tvs.sbd.9001%3A1527796730), [Amazon](https://www.amazon.com/gp/video/detail/0OWOZEFI7TFXWML3KWAJTC7RWN/ref=atv_dl_rdr?tag=justus1ktp-20), [Google Play](https://play.google.com/store/movies/details/The_Silent_Natural?gl=US&hl=en&id=tql06PtjVZQ.P), [YouTube](https://www.youtube.com/watch?v=BTQq5Bo_29o), [Hoopla](https://www.hoopladigital.com/title/14328765) |
+
 
 ## TV Shows
 
