@@ -105,17 +105,17 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
-- **National Association of the Deaf (NAD)**, national organization dedicated to advancing the rights and well-being of Deaf individuals in United States
+- **National Association of the Deaf (NAD)** is a prominent and influential organization in the United States that tirelessly advocates for the rights, equality, and well-being of the deaf and hard-of-hearing community. With a rich history of activism and legal initiatives, the NAD works to ensure accessible communication, education, and opportunities, while also celebrating and preserving the linguistic and cultural heritage of deaf individuals across the nation.
   - Founded: August 25, 1880
   - Website: [nad.org](https://www.nad.org/)
 
 ## Post Secondary Education Programs
 
-- **Gallaudet University**, the private and research university for the Deaf and Hard of Hearing
+- **Gallaudet University** is a renowned institution of higher education that has been a pioneer in providing specialized academic programs and a supportive environment for deaf and hard-of-hearing students. As the world's only university designed specifically for the deaf community, Gallaudet plays a pivotal role in advancing deaf education, language, and culture, empowering its students to excel academically and become leaders in various fields while fostering a strong sense of identity and belonging.
    - Location: [Washington, District of Columbia](https://www.google.com/maps/place/Gallaudet+University/@38.908422,-76.9949624,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b813d927bac3:0x7f033ffc2f87381d!8m2!3d38.908422!4d-76.9923875!16zL20vMDE5NTJ4?entry=ttu)
    - Founded: 1856
    - Website: [gallaudet.edu](https://gallaudet.edu/)
-- **National Technical Institute for the Deaf at RIT**, the first technological college in the world for the Deaf and Hard of Hearing
+- **National Technical Institute for the Deaf (RIT)** is a distinguished educational institution that operates within the Rochester Institute of Technology (RIT), catering specifically to the academic and career development needs of deaf and hard-of-hearing students. With a focus on specialized programs, hands-on training, and cutting-edge technology, NTID equips its students with the skills and knowledge necessary to excel in various professional fields, contributing to a more inclusive workforce and empowering individuals to reach their full potential.
    - Location: [Henrietta, New York](https://www.google.com/maps/place/National+Technical+Institute+for+the+Deaf/@43.0875299,-77.6708509,17z/data=!3m2!4b1!5s0x89d14c89a54a7b3d:0x41d34e6007fce31e!4m6!3m5!1s0x89d14c8c991cab87:0x8a66d98ce3fdd43a!8m2!3d43.0875299!4d-77.668276!16zL20vMDRoNjQ5?entry=ttu)
    - Founded: 1965
    - Website: [rit.edu](https://www.rit.edu/ntid/)

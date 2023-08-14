@@ -31,8 +31,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
-- **Alberta Association of the Deaf (AAD)**
-  - Founded: 
+- **Alberta Association of the Deaf (AAD)** is a significant organization in Alberta, Canada, committed to advocating for the rights, well-being, and empowerment of the deaf and hard-of-hearing population. Through a variety of programs, events, and collaborations, AAD works to improve accessibility, provide educational resources, and foster a sense of community, enabling individuals to achieve their full potential while promoting awareness and understanding of deaf culture and issues.
+  - Founded: 1940
   - Location: Edmonton, AB
   - Website: [aad-deaf.ca](https://aad-deaf.ca/)
 

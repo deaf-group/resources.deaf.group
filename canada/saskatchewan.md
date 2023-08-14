@@ -31,6 +31,11 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
+- **Saskatchewan Deaf & Hard of Hearing Services** is a crucial organization in Saskatchewan, Canada, dedicated to providing essential support, resources, and advocacy for individuals who are deaf or hard of hearing. Through a range of services, including communication assistance, education, and community engagement, the organization strives to enhance accessibility, foster inclusion, and improve the quality of life for deaf and hard-of-hearing individuals throughout the province.
+  - Founded: 1980
+  - Location: Regina, SK
+  - Website: [sdhhs.com](https://sdhhs.com/)
+
 ## Interpreting Services
 
 ## Feedback

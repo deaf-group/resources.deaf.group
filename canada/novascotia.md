@@ -31,7 +31,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
-- **Deaf Literacy Nova Scotia (DLNS)**
+- **Deaf Literacy Nova Scotia (DLNS)** is a dedicated organization committed to advancing literacy and education within the deaf community. Through innovative programs and resources, DLNS empowers deaf individuals to enhance their language skills, achieve educational goals, and thrive in various aspects of life, fostering greater inclusivity and opportunities for the deaf population in Nova Scotia.
   - Founded: 1994
   - Location: Halifax, NS
   - Website: [dlns.ca](https://dlns.ca/)

@@ -41,7 +41,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
-- **British Deaf Association**, deaf-led British charity promote the respect, protection, and full inclusion of the language, culture, community, diversity, and heritage of Deaf people in the UK
+- **British Deaf Association** is a significant organization based in the United Kingdom, established in 1890, that has been at the forefront of advocating for the rights, equality, and recognition of the deaf community. As a leading voice, the BDA promotes accessible communication, cultural preservation, and empowerment for deaf individuals. Through its initiatives, campaigns, and support services, the BDA continues to play a vital role in fostering inclusivity and raising awareness about deaf culture and issues in the UK.
   - Founded: 1886
   - Website: [bda.org.uk](https://bda.org.uk/)
 

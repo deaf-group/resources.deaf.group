@@ -57,7 +57,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
-- **Canadian Association of the Deaf (CAD)**, non-governmental national organization dedicated to advancing the rights and well-being of Deaf individuals in Canada
+- **Canadian Association of the Deaf (CAD)** is a prominent national organization in Canada that has been championing the rights and interests of the deaf community since its establishment in 1940. CAD is dedicated to advocating for accessible communication, equal opportunities, and the preservation of deaf culture and sign language. Through its advocacy efforts, programs, and partnerships, CAD plays a pivotal role in advancing the well-being and inclusion of deaf and hard-of-hearing individuals across the country.
   - Founded: 1940
   - Website: [cad-asc.ca](https://cad-asc.ca/)
   - In French, Association des sourds du Canada (ASC)

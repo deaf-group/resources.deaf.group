@@ -32,15 +32,15 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Organizations
 
-- **Ontario Association of the Deaf**, government-funded and non-profits organization that they are hosting event (such as Mayfest) and ensuring equality and protecting the rights of Deaf Ontarians.
+- **Ontario Association of the Deaf (OAD)** is a prominent advocacy group that tirelessly champions the rights and interests of the deaf community in Ontario, Canada. Through proactive initiatives, collaborations, and awareness campaigns, OAD works towards fostering a more inclusive and accessible society while promoting the cultural and linguistic richness of the deaf community.
   - Founded: 1890
   - Location: Toronto, ON
   - Website: [deafontario.ca](https://www.deafontario.ca/)
-- **Ontario Association of the Deaf**
+- **Ontario Deaf Sports Association Inc (ODSA)** is a proactive entity that plays a pivotal role in promoting and supporting sports and athletic opportunities for the deaf community in Ontario, Canada. By organizing events, facilitating training, and fostering a sense of camaraderie, ODSA contributes to the physical and social well-being of deaf athletes, encouraging active participation and showcasing their talents on a broader stage.
   - Founded: 1983
   - Location: Toronto, ON
   - Website: [ontariodeafsports.wixsite.com](https://ontariodeafsports.wixsite.com/odsa/)
-- **Ontario Cultural Society of the Deaf**
+- **Ontario Cultural Society of the Deaf (OCSD)** is a vibrant organization dedicated to preserving, celebrating, and promoting the rich cultural heritage of the deaf community in Ontario, Canada. Through a variety of artistic and educational initiatives, OCSD fosters a sense of identity, belonging, and creative expression, contributing to the cultural enrichment of both the deaf community and the broader society.
   - Founded: 1974
   - Location: Toronto, ON
   - Website: [ocsdeaf.org](https://ocsdeaf.org/)
