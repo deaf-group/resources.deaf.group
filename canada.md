@@ -24,6 +24,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Australia]({{site.baseurl}}/australia)
 
 ## Category
+
+- [Sign Language in Canada](#sign-language-in-canada)
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
 - [Post Secondary Education Programs](#post-secondary-education-programs)
