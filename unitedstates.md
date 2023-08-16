@@ -16,6 +16,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 <details><summary>List of States</summary>
 
 **Under construction!**
+
   - Alaska
   - Alabama
   - Arkansas

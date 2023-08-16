@@ -27,6 +27,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 - [Organizations](#organizations)
 - [Interpreting Services](#interpreting-services)
+- [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
 - [Feedback](#feedback)
 
 ## Organizations
@@ -37,6 +38,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Website: [sdhhs.com](https://sdhhs.com/)
 
 ## Interpreting Services
+
+## Hearing Aid & Cochlear Implant Services
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
