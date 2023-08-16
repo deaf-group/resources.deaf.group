@@ -91,7 +91,7 @@ Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH 
 
 - SRV Canada VRS
   - Official Website: [srvcanadavrs.ca](https://srvcanadavrs.ca/en)
-  - Access Service and Signup online though app, Download link: [srvcanadavrs.ca](https://srvcanadavrs.ca/en/get-the-app/personal-account/)
+  - Platform: Mobile app ([iOS](https://itunes.apple.com/ca/app/canvrs/id1086080169?mt=8), [Android](https://play.google.com/store/apps/details?id=fr.ives.canvrs)) and Desktop app ([macOS](https://apps.apple.com/ca/app/srv-canada-vrs/id1497955427?mt=12), [Windows](https://www.microsoft.com/en-ca/p/srv-canada-vrs/9mvxfx5nht1l?fbclid=IwAR3hsaqX3PDhwRujX6uO2n_jP6YQ6fMjKfVwoKucYEGCTrFU_pv9eb7cjxA&activetab=pivot:overviewtab))
 
 ## IP Relay Services
 
