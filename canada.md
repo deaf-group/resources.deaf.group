@@ -28,6 +28,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Sign Language in Canada](#sign-language-in-canada)
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
+- [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
 - [Post Secondary Education Programs](#post-secondary-education-programs)
 - [Social Media Sites and Communities](#social-media-sites-and-communities)
 - Technology
@@ -63,6 +64,39 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Founded: 1940
   - Website: [cad-asc.ca](https://cad-asc.ca/)
   - In French, Association des sourds du Canada (ASC)
+
+## Elementary/Secondary/High Schools
+
+- Alberta School for the Deaf
+  - Founded: 1940
+  - Location: Edmonton, Alberta
+- British Columbia Provincial School for the Deaf
+  - Founded: 1983
+  - Location: Burnaby, British Columbia
+- Ernest C. Drury School for the Deaf
+  - Founded: 1972
+  - Location: Milton, Ontario
+- Manitoba School for the Deaf
+  - Founded: 1888
+  - Location: Winnipeg, Manitoba
+- ~~Newfoundland School for the Deaf~~
+  - ~~Founded: 1954~~
+  - ~~Location: St. John's, Newfoundland and Labrador~~
+- ~~Nova Scotia School for the Deaf~~
+  - ~~Founded: 1949~~
+  - ~~Location: Halifax, Nova Scotia~~
+- Robarts School for the Deaf
+  - Founded: 1963
+  - Location: London, Ontario
+- Saskatchewan School for the Deaf
+  - Founded: 1962
+  - Location: Saskatoon, Saskatchewan
+- Sir James Whitney School for the Deaf
+  - Founded: 1870
+  - Location: Belleville, Ontario
+- Western Quebec School for the Deaf
+  - Founded: 1932
+  - Location: Gatineau, Quebec
 
 ## Post Secondary Education Programs
 
