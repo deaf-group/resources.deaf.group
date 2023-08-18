@@ -11,6 +11,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Mexico]({{site.baseurl}}/mexico)
 - [United Kingdom]({{site.baseurl}}/unitedkingdom) **(You are here)**
 - [France]({{site.baseurl}}/france)
+- [Italy]({site.baseurl}}/italy)
 - [Australia]({{site.baseurl}}/australia)
 
 ## Category

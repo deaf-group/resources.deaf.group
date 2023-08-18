@@ -21,6 +21,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Mexico]({{site.baseurl}}/mexico)
 - [United Kingdom]({{site.baseurl}}/unitedkingdom)
 - [France]({{site.baseurl}}/france)
+- [Italy]({site.baseurl}}/italy)
 - [Australia]({{site.baseurl}}/australia)
 
 ## Category
@@ -76,6 +77,9 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - Ernest C. Drury School for the Deaf
   - Founded: 1972
   - Location: Milton, Ontario
+- ~~MacKay School for the Deaf~~
+  - ~~Founded: 1964~~
+  - ~~Location: Montréal, Québec~~
 - Manitoba School for the Deaf
   - Founded: 1888
   - Location: Winnipeg, Manitoba
@@ -96,7 +100,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Location: Belleville, Ontario
 - Western Quebec School for the Deaf
   - Founded: 1932
-  - Location: Gatineau, Quebec
+  - Location: Gatineau, Québec
 
 ## Post Secondary Education Programs
 

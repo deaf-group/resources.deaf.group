@@ -11,12 +11,17 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Mexico]({{site.baseurl}}/mexico)
 - [United Kingdom]({{site.baseurl}}/unitedkingdom)
 - [France]({{site.baseurl}}/france)
+- [Italy]({site.baseurl}}/italy)
 - [Australia]({{site.baseurl}}/australia) **(You are here)**
+
 ## Category
 
 - [Sign Language in Australia](#sign-language-in-australia)
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
+- [Social Media Sites and Communities](#social-media-sites-and-communities)
+- Technology
+  - [IP Relay Services](#ip-relay-services)
 - [Interpreting Services](#interpreting-services)
 - [Feedback](#feedback)
 
@@ -26,10 +31,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Sign Language Dictionaries
 
-| Country/Region | Language | Name | Link |
-|-------|----|-------|-------|
-| Australia | Auslan | Signbank | [auslan.org.au](https://auslan.org.au/dictionary/)|
-| Australia, Worldwide | Auslan, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
+| Name | Link | Free/Paid |
+|------|------|-----------|
+| Signbank | [auslan.org.au](https://auslan.org.au/dictionary/) | Free |
+| SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Organizations
 
@@ -63,6 +68,18 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Location: Melbourne, Victoria
   - Founded: 1884
   - Website: [deafvictoria.org.au](https://www.deafvictoria.org.au/)
+
+## Social Media Sites and Communities
+
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Auslan friends! on Discord - [discord.gg/8Ck9hmyMpv](https://discord.com/invite/xU9DhhstMr)
+
+## IP Relay Services
+
+IP relay service is a telecommunications service that allows Deaf/HoH individuals to communicate over the phone by using text-based messages.
+
+- National Relay Service (NRS)
+  - Official Website: [accesshub.gov.au](https://www.accesshub.gov.au/about-the-nrs)
+  - Platform: Mobile app ([iOS](https://apps.apple.com/au/app/nrs/id1483420984), [Android](https://play.google.com/store/apps/details?id=au.gov.doca.nrs))
 
 ## Interpreting Services
 
