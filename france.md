@@ -30,7 +30,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Sign Language Dictionaries
 | Name | Type | Link | Free/Paid |
 |------|------|------|-----------|
- Sématos LSF Video Dictionary | Video | [sematos.eu](http://www.sematos.eu/lsf.html) | Free |
+| Sématos LSF Video Dictionary | Video | [sematos.eu](http://www.sematos.eu/lsf.html) | Free |
 | SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Organizations
