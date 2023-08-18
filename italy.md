@@ -28,8 +28,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Sign Language Dictionaries
 
-### Online
-
 | Name | Type | Link | Free/Paid |
 |------|------|------|-----------|
 | Dizionario LIS | Video | [iOS](https://apps.apple.com/ca/app/dizionario-lis/id917187457), [Android](https://play.google.com/store/apps/details?id=com.euromedia.dizionariolis&hl=en&gl=US) | Paid |
