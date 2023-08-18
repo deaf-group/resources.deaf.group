@@ -30,15 +30,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ### Online
 
-| Name | Link | Free/Paid |
-|------|------|-------|
-| Dizionario LIS | [iOS](https://apps.apple.com/ca/app/dizionario-lis/id917187457), [Android](https://play.google.com/store/apps/details?id=com.euromedia.dizionariolis&hl=en&gl=US) | Paid |
-
-### Book & eBook
-
-| Name | Link | Price |
-|------|------|-------|
-| Grammatica Italiana della Lingua dei Segni |  [PDF](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-645-9/) | Free |
+| Name | Type | Link | Free/Paid |
+|------|------|------|-----------|
+| Dizionario LIS | Video | [iOS](https://apps.apple.com/ca/app/dizionario-lis/id917187457), [Android](https://play.google.com/store/apps/details?id=com.euromedia.dizionariolis&hl=en&gl=US) | Paid |
+| Grammatica Italiana della Lingua dei Segni | eBook | [PDF](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-645-9/) | Free |
 
 ## Organizations
 

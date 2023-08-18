@@ -98,12 +98,12 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Sign Language Dictionaries
 
-| Country/Region | Language | Name | Link |
-|----------------|----------|------|------|
-| United States, Canada | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
-| United States, Canada | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
-| United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
-| United States, Worldwide | ASL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
+| Name | Type | Link | Free/Paid |
+|------|------|------|-----------|
+| HandSpeak | Video |  [handspeak.com](https://www.handspeak.com/word/) | Free |
+| SignASL.org | Video |  [signasl.org](https://www.signasl.org/) | Free |
+| Lifeprint | Video | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) | Free |
+| SpreadTheSign | Video |  [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Organizations
 

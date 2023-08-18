@@ -11,6 +11,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Mexico]({{site.baseurl}}/mexico)
 - [United Kingdom]({{site.baseurl}}/unitedkingdom)
 - [France]({{site.baseurl}}/france) **(You are here)**
+- [Italy]({site.baseurl}}/italy)
 - [Australia]({{site.baseurl}}/australia)
 
 ## Category
@@ -27,11 +28,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - In French, **langue des signes française (LSF)**.
 
 ## Sign Language Dictionaries
-
-| Country/Region | Language | Name | Link |
-|----------------|----------|------|------|
-| France | LSF | Sématos LSF Video Dictionary | [sematos.eu](http://www.sematos.eu/lsf.html) |
-| France, Worldwide | LSF, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
+| Name | Type | Link | Free/Paid |
+|------|------|------|-----------|
+ Sématos LSF Video Dictionary | Video | [sematos.eu](http://www.sematos.eu/lsf.html) | Free |
+ | SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Organizations
 

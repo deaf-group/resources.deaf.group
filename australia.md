@@ -31,10 +31,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Sign Language Dictionaries
 
-| Name | Link | Free/Paid |
-|------|------|-----------|
-| Signbank | [auslan.org.au](https://auslan.org.au/dictionary/) | Free |
-| SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
+| Name | Type | Link | Free/Paid |
+|------|------|------|-----------|
+| Signbank | Video | [auslan.org.au](https://auslan.org.au/dictionary/) | Free |
+| SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Organizations
 

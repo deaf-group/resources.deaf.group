@@ -51,13 +51,13 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Sign Language Dictionaries
 
-| Country/Region | Language | Name | Link |
-|----------------|----------|------|------|
-| Canada, United States  | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) |
-| Canada, United States  | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) |
-| United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) |
-| Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) |
-| Canada, Worldwide | ASL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
+| Country/Region | Language | Name | Link | Free/Paid |
+|----------------|----------|------|------|-----------|
+| Canada, United States  | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) | Free |
+| Canada, United States  | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) | Free |
+| United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) | Free |
+| Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) | Free |
+| Canada, Worldwide | ASL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Organizations
 

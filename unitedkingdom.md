@@ -30,11 +30,11 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Sign Language Dictionaries
 
-| Country/Region | Language | Name | Link |
-|----------------|----------|------|------|
-| United Kingdom | BSL | BSL Sign Dictionary | [signbsl.com](https://www.signbsl.com/) |
-| United Kingdom | BSL | BSL SignBank | [bslsignbank.ucl.ac.uk](https://bslsignbank.ucl.ac.uk/) |
-| United Kingdom, Worldwide | BSL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) |
+| Name | Type | Link | Free/Paid |
+|------|------|------|-----------|
+| BSL Sign Dictionary | Video | [signbsl.com](https://www.signbsl.com/) | Free |
+| BSL SignBank | Video | [bslsignbank.ucl.ac.uk](https://bslsignbank.ucl.ac.uk/) | Free |
+| SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Organizations
 
