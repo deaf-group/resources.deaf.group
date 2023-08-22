@@ -16,22 +16,19 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Category
 
-- [Sign Language in Italy](#sign-language-in-australia)
-- [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
+- Accessibility 
+  - [Interpreting Services](#interpreting-services)
+  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+  - [Video Relay Services](#video-relay-services)
+  - [IP Relay Services](#ip-relay-services)
+- Education
+  - [Sign Language Dictionaries](#sign-language-dictionaries)
+  - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)(#post-secondary-education-programs)
+- Media and Technology 
+  - [Social Media Sites and Communities](#social-media-sites-and-communities)
 - [Feedback](#feedback)
 
-## Sign Language in United Kingdom
-
-- Current sign language in Italy Deaf Community is **Mexican Sign Language**.
-    - In Italian, **Lingua dei Segni Italiana (LIS)**.
-
-## Sign Language Dictionaries
-
-| Name | Type | Link | Free/Paid |
-|------|------|------|-----------|
-| Dizionario LIS | Video | [iOS](https://apps.apple.com/ca/app/dizionario-lis/id917187457), [Android](https://play.google.com/store/apps/details?id=com.euromedia.dizionariolis&hl=en&gl=US) | Paid |
-| Grammatica Italiana della Lingua dei Segni | eBook | [PDF](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-645-9/) | Free |
 
 ## Organizations
 
@@ -39,6 +36,20 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Location: Rome, Italy
   - Founded: 1924
   - Website: [ens.it](https://www.ens.it/)
+
+## Interpreting Services
+
+## Hearing Aid & Cochlear Implant Services
+  
+## Sign Language Dictionaries
+
+- Current sign language in Italy Deaf Community is **Mexican Sign Language**.
+    - In Italian, **Lingua dei Segni Italiana (LIS)**.
+
+| Name | Type | Link | Free/Paid |
+|------|------|------|-----------|
+| Dizionario LIS | Video | [iOS](https://apps.apple.com/ca/app/dizionario-lis/id917187457), [Android](https://play.google.com/store/apps/details?id=com.euromedia.dizionariolis&hl=en&gl=US) | Paid |
+| Grammatica Italiana della Lingua dei Segni | eBook | [PDF](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-645-9/) | Free |
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

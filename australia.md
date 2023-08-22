@@ -86,6 +86,37 @@ Current sign language in Australia Deaf Community is **Auslan**
 
 ## Elementary/Secondary/High Schools
 
+- St. Gabriel's School (St. Gabriel's School for Hearing Impaired Children)
+  - Founded: 1954
+  - Location: Castle Hill, New South Wales
+- Victorian College for the Deaf (now known as Victorian College for the Deaf - The Victorian School for Deaf Children)
+  - Founded: 1860
+  - Location: St Kilda East, Victoria
+- The Shepherd Centre
+  - Founded: 1970
+  - Location: Various locations in New South Wales, Australian Capital Territory, and Victoria
+- North Rocks School for the Deaf
+  - Founded: 1963
+  - Location: North Rocks, New South Wales
+- South Australian School for the Deaf
+  - Founded: 1876
+  - Location: Brighton, South Australia
+- Western Australian School for the Deaf
+  - Founded: 1911
+  - Location: Mosman Park, Western Australia
+- Tasmanian School for the Deaf (now part of Special Education Programs)
+  - Founded: 1924
+  - Location: Hobart, Tasmania
+- Queensland Deaf and Hard of Hearing School
+  - Founded: 1862
+  - Location: Bald Hills, Queensland
+- Melba Copland Secondary School - Deaf Facility
+  - Founded: 1973
+  - Location: Melba, Australian Capital Territory
+- Clarke Road School (now part of RIDBC Thomas Pattison School)
+  - Founded: 1961
+  - Location: Seven Hills, New South Wales
+
 ## Social Media Sites and Communities
 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Auslan friends! on Discord - [discord.gg/8Ck9hmyMpv](https://discord.com/invite/xU9DhhstMr)
