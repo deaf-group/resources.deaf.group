@@ -27,10 +27,12 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 
 - [Organizations](#organizations)
-- [Interpreting Services](#interpreting-services)
-- [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
-- [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
-- [Post Secondary Education Programs](#post-secondary-education-programs)
+- Accessibility 
+  - [Interpreting Services](#interpreting-services)
+  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- Education
+    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+    - [Post Secondary Education Programs](#post-secondary-education-programs)
 - [Feedback](#feedback)
 
 ## Organizations
@@ -76,7 +78,7 @@ Note: VRI is stand for Video Remote Interpreting.
 
 ## Post Secondary Education Programs
 
-- **Deaf Empowerment Program at Mahawk College**, government-funded program is taught in American Sign Language (ASL) for adults who are Deaf or Hard-of-Hearing and are looking to prepare for the General Education Diploma (GED) test, gain requirements to apply for college study, or improve skills needed for the workforce. 
+- **Deaf Empowerment Program at Mohawk College**, government-funded program is taught in American Sign Language (ASL) for adults who are Deaf or Hard-of-Hearing and are looking to prepare for the General Education Diploma (GED) test, gain requirements to apply for college study, or improve skills needed for the workforce. 
   - Location: [Hamilton, Ontario](https://www.google.com/maps/place/Mohawk+College/@43.2386914,-79.8906974,17z/data=!3m2!4b1!5s0x882c9b1066b83ab9:0x7b9bc544845145ef!4m6!3m5!1s0x882c9b0f091045c1:0x5cc59dd1633a1496!8m2!3d43.2386914!4d-79.8881225!16zL20vMDF4MzZ6?entry=ttu)
   - Founded: 1993
   - Website: [mohawkcollege.ca](https://www.mohawkcollege.ca/programs/get-prepared-for-college/academic-upgrading/deaf-empowerment-program)

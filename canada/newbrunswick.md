@@ -27,8 +27,11 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 
 - [Organizations](#organizations)
-- [Interpreting Services](#interpreting-services)
-- [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- Accessibility 
+  - [Interpreting Services](#interpreting-services)
+  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- Education
+    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
 - [Feedback](#feedback)
 
 ## Organizations

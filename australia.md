@@ -16,25 +16,19 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Category
 
-- [Sign Language in Australia](#sign-language-in-australia)
-- [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
-- [Social Media Sites and Communities](#social-media-sites-and-communities)
-- Technology
+- Accessibility 
+  - [Interpreting Services](#interpreting-services)
+  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+  - [Video Relay Services](#video-relay-services)
   - [IP Relay Services](#ip-relay-services)
-- [Interpreting Services](#interpreting-services)
+- Education
+  - [Sign Language Dictionaries](#sign-language-dictionaries)
+  - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)(#post-secondary-education-programs)
+- Media and Technology 
+  - [Social Media Sites and Communities](#social-media-sites-and-communities)
 - [Feedback](#feedback)
 
-## Sign Language in Australia
-
-- Current sign language in Australia Deaf Community is **Auslan**.
-
-## Sign Language Dictionaries
-
-| Name | Type | Link | Free/Paid |
-|------|------|------|-----------|
-| Signbank | Video | [auslan.org.au](https://auslan.org.au/dictionary/) | Free |
-| SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Organizations
 
@@ -69,9 +63,9 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Founded: 1884
   - Website: [deafvictoria.org.au](https://www.deafvictoria.org.au/)
 
-## Social Media Sites and Communities
+## Interpreting Services
 
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Auslan friends! on Discord - [discord.gg/8Ck9hmyMpv](https://discord.com/invite/xU9DhhstMr)
+## Video Relay Services
 
 ## IP Relay Services
 
@@ -81,7 +75,20 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
   - Official Website: [accesshub.gov.au](https://www.accesshub.gov.au/about-the-nrs)
   - Platform: Mobile app ([iOS](https://apps.apple.com/au/app/nrs/id1483420984), [Android](https://play.google.com/store/apps/details?id=au.gov.doca.nrs))
 
-## Interpreting Services
+## Sign Language Dictionaries
+
+Current sign language in Australia Deaf Community is **Auslan**
+
+| Name | Type | Link | Free/Paid |
+|------|------|------|-----------|
+| Signbank | Video | [auslan.org.au](https://auslan.org.au/dictionary/) | Free |
+| SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
+
+## Elementary/Secondary/High Schools
+
+## Social Media Sites and Communities
+
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Auslan friends! on Discord - [discord.gg/8Ck9hmyMpv](https://discord.com/invite/xU9DhhstMr)
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

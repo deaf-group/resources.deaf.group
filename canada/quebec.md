@@ -27,8 +27,11 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 
 - [Organizations](#organizations)
-- [Interpreting Services](#interpreting-services)
-- [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- Accessibility 
+  - [Interpreting Services](#interpreting-services)
+  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- Education
+    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
 - [Feedback](#feedback)
 
 ## Organizations
@@ -68,6 +71,16 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ReQIS is currently maintaining list of interpreting services in Québec. They offers LSQ to ASL interpreting service as well. Please see [reqis.org (in French)](http://www.reqis.org/sinformer/services-dinterpretes/).
 
 ## Hearing Aid & Cochlear Implant Services
+
+## Elementary/Secondary/High Schools
+
+- ~~Mackay Centre (Known as MacKay School for the Deaf)~~ 🤝**Merged with Philip E. Layton School**
+  - ~~Founded: 1964~~
+  - ~~Location: Montréal, Québec~~
+- **Mackay Centre & Philip E. Layton School:** Empowering Voices, Enriching Journeys. Committed to empowering students with communication challenges through specialized education, enabling them to embark on enriching journeys of growth and self-discovery.
+  - Founded: 2018
+  - Location: Montréal, Québec
+  - Website: [mackaypel.emsb.qc.ca](http://mackaypel.emsb.qc.ca/)
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

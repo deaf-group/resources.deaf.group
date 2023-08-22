@@ -76,27 +76,52 @@ This is the place where you can find resources for the deaf and hard of hearing 
 </details>
 
 ## Category
-- [Sign Language Dictionaries](#sign-language-dictionaries)
+
 - [Organizations](#organizations)
-- [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
-- [Post Secondary Education Programs](#post-secondary-education-programs)
-- [Social Media Sites and Communities](#social-media-sites-and-communities)
-- Technology
+- Accessibility
   - [Video Relay Services](#video-relay-services)
   - [IP Relay Services](#ip-relay-services)
-- [Representation Deaf People and Culture](#representation-deaf-people-and-culture)
-- Information 
+- Education
+    - [Sign Language Dictionaries](#sign-language-dictionaries)
+    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+  - [Post Secondary Education Programs](#post-secondary-education-programs)
+- Media and Technology 
   - [News](#news)
-- Media
+  - [Social Media Sites and Communities](#social-media-sites-and-communities)
+  - [Representation Deaf People and Culture](#representation-deaf-people-and-culture)
   - [Films](#films)
   - [TV Shows](#tv-shows)
 - [Feedback](#feedback)
 
-## Sign Language in United States
+## Organizations
 
-- Current sign language in United States Deaf Community is **American Sign Language (ASL)**.
+- **National Association of the Deaf (NAD)** is a prominent and influential organization in the United States that tirelessly advocates for the rights, equality, and well-being of the deaf and hard-of-hearing community. With a rich history of activism and legal initiatives, the NAD works to ensure accessible communication, education, and opportunities, while also celebrating and preserving the linguistic and cultural heritage of deaf individuals across the nation.
+  - Founded: August 25, 1880
+  - Website: [nad.org](https://www.nad.org/)
+
+## Video Relay Services
+
+Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
+
+| Company | Access Service on | Signup Service at |
+|---------|-------------------|-------------------|
+| ZVRS | In-App | [zvrs.com](https://www.zvrs.com/registration/) |
+| Purple | In-App | [account.purplevrs.com](https://account.purplevrs.com/) |
+| Convo | In-App and [Website](https://login.convo.io/) | [convorelay.com](https://convorelay.com/signup/) |
+| Sorenson | In-App | [sorenson.com](https://sorenson.com/solutions/video-relay-services/#signup) |
+
+## IP Relay Services
+
+IP relay service is a telecommunications service that allows Deaf/HoH individuals to communicate over the phone by using text-based messages.
+
+| Company | Access Service on | Signup Service at |
+|---------|-------------------|-------------------|
+| Sprint IP Relay | [sprintip.com](http://www.sprintip.com/) | [sprintip.com](http://www.sprintip.com/) |
+| T-Mobile IP Relay | [tmobileip.com](https://tmobileip.com/auth/login) | [tmobileiprelay.com](https://tmobileiprelay.com/Registration) |
 
 ## Sign Language Dictionaries
+
+Current sign language in United States Deaf Community is **American Sign Language (ASL)**.
 
 | Name | Type | Link | Free/Paid |
 |------|------|------|-----------|
@@ -104,12 +129,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | SignASL.org | Video |  [signasl.org](https://www.signasl.org/) | Free |
 | Lifeprint | Video | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) | Free |
 | SpreadTheSign | Video |  [spreadthesign.com](https://www.spreadthesign.com/) | Free |
-
-## Organizations
-
-- **National Association of the Deaf (NAD)** is a prominent and influential organization in the United States that tirelessly advocates for the rights, equality, and well-being of the deaf and hard-of-hearing community. With a rich history of activism and legal initiatives, the NAD works to ensure accessible communication, education, and opportunities, while also celebrating and preserving the linguistic and cultural heritage of deaf individuals across the nation.
-  - Founded: August 25, 1880
-  - Website: [nad.org](https://www.nad.org/)
 
 ## Elementary/Secondary/High Schools
 
@@ -149,35 +168,15 @@ This is the place where you can find resources for the deaf and hard of hearing 
    - Founded: 1965
    - Website: [rit.edu](https://www.rit.edu/ntid/)
 
-## Social Media Sites and Communities
-
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
-
-## Video Relay Services
-
-Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
-
-| Company | Access Service on | Signup Service at |
-|---------|-------------------|-------------------|
-| ZVRS | In-App | [zvrs.com](https://www.zvrs.com/registration/) |
-| Purple | In-App | [account.purplevrs.com](https://account.purplevrs.com/) |
-| Convo | In-App and [Website](https://login.convo.io/) | [convorelay.com](https://convorelay.com/signup/) |
-| Sorenson | In-App | [sorenson.com](https://sorenson.com/solutions/video-relay-services/#signup) |
-
-## IP Relay Services
-
-IP relay service is a telecommunications service that allows Deaf/HoH individuals to communicate over the phone by using text-based messages.
-
-| Company | Access Service on | Signup Service at |
-|---------|-------------------|-------------------|
-| Sprint IP Relay | [sprintip.com](http://www.sprintip.com/) | [sprintip.com](http://www.sprintip.com/) |
-| T-Mobile IP Relay | [tmobileip.com](https://tmobileip.com/auth/login) | [tmobileiprelay.com](https://tmobileiprelay.com/Registration) |
-
 ## News
 
 | Region | Name | Description | Link |
 |--------|------|-------------|------|
 | United States | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
+
+## Social Media Sites and Communities
+
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 
 ## Representation Deaf People and Culture
 

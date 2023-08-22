@@ -27,8 +27,11 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 
 - [Organizations](#organizations)
-- [Interpreting Services](#interpreting-services)
-- [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- Accessibility 
+  - [Interpreting Services](#interpreting-services)
+  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- Education
+    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
 - [Feedback](#feedback)
 
 ## Organizations
@@ -41,6 +44,13 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Interpreting Services
 
 ## Hearing Aid & Cochlear Implant Services
+
+## Elementary/Secondary/High Schools
+
+- **Saskatchewan School for the Deaf**: Illuminating Minds, Creating Connections. Our aim is to provide a vibrant educational experience that not only nurtures the intellect of deaf students but also facilitates meaningful connections within a supportive community.
+  - Founded: 1962
+  - Location: Saskatoon, Saskatchewan
+  - Website: [sdhhs.com](https://sdhhs.com/)
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

@@ -26,30 +26,36 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Category
 
-- [Sign Language in Canada](#sign-language-in-canada)
-- [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
-- [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
-- [Post Secondary Education Programs](#post-secondary-education-programs)
-- [Social Media Sites and Communities](#social-media-sites-and-communities)
-- Technology
+- Accessibility 
+  - [Interpreting Services](#interpreting-services)
+  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
   - [Video Relay Services](#video-relay-services)
   - [IP Relay Services](#ip-relay-services)
-- [Representation Deaf People and Culture](#representation-deaf-people-and-culture)
-- Information 
+- Education
+    - [Sign Language Dictionaries](#sign-language-dictionaries)
+    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+  - [Post Secondary Education Programs](#post-secondary-education-programs)
+- Media and Technology 
   - [News](#news)
-- Media
+  - [Social Media Sites and Communities](#social-media-sites-and-communities)
+  - [Representation Deaf People and Culture](#representation-deaf-people-and-culture)
   - [Films](#films)
   - [TV Shows](#tv-shows)
 - [Feedback](#feedback)
 
-## Sign Language in Canada
+## Organizations
+
+- **Canadian Association of the Deaf (CAD)** is a prominent national organization in Canada that has been championing the rights and interests of the deaf community since its establishment in 1940. CAD is dedicated to advocating for accessible communication, equal opportunities, and the preservation of deaf culture and sign language. Through its advocacy efforts, programs, and partnerships, CAD plays a pivotal role in advancing the well-being and inclusion of deaf and hard-of-hearing individuals across the country.
+  - Founded: 1940
+  - Website: [cad-asc.ca](https://cad-asc.ca/)
+  - In French, Association des sourds du Canada (ASC)
+
+## Sign Language Dictionaries
 
 - Current sign language in Canada Deaf Community is **American Sign Language (ASL)**.
 - Current sign language in Quebec Deaf Community is **Quebec Sign Language**.
   - In French, **Langue des signes québécoise (LSQ)**.
-
-## Sign Language Dictionaries
 
 | Country/Region | Language | Name | Link | Free/Paid |
 |----------------|----------|------|------|-----------|
@@ -58,13 +64,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
 | United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) | Free |
 | Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) | Free |
 | Canada, Worldwide | ASL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
-
-## Organizations
-
-- **Canadian Association of the Deaf (CAD)** is a prominent national organization in Canada that has been championing the rights and interests of the deaf community since its establishment in 1940. CAD is dedicated to advocating for accessible communication, equal opportunities, and the preservation of deaf culture and sign language. Through its advocacy efforts, programs, and partnerships, CAD plays a pivotal role in advancing the well-being and inclusion of deaf and hard-of-hearing individuals across the country.
-  - Founded: 1940
-  - Website: [cad-asc.ca](https://cad-asc.ca/)
-  - In French, Association des sourds du Canada (ASC)
 
 ## Elementary/Secondary/High Schools
 
@@ -77,16 +76,19 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - Ernest C. Drury School for the Deaf
   - Founded: 1972
   - Location: Milton, Ontario
-- ~~MacKay School for the Deaf~~
+- ~~Mackay Centre (Known as MacKay School for the Deaf)~~ 🤝**Merged with Philip E. Layton School**
   - ~~Founded: 1964~~
   - ~~Location: Montréal, Québec~~
+- Mackay Centre & Philip E. Layton School
+  - Founded: 2018
+  - Location: Montréal, Québec
 - Manitoba School for the Deaf
   - Founded: 1888
   - Location: Winnipeg, Manitoba
-- ~~Newfoundland School for the Deaf~~
+- ~~Newfoundland School for the Deaf~~ 🚪**Permanently closed**
   - ~~Founded: 1954~~
   - ~~Location: St. John's, Newfoundland and Labrador~~
-- ~~Nova Scotia School for the Deaf~~
+- ~~Nova Scotia School for the Deaf~~ 🚪**Permanently closed**
   - ~~Founded: 1949~~
   - ~~Location: Halifax, Nova Scotia~~
 - Robarts School for the Deaf
@@ -106,7 +108,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 #### Ontario
 
-- **Deaf Empowerment Program at Mahawk College**, government-funded program is taught in American Sign Language (ASL) for adults who are Deaf or Hard-of-Hearing and are looking to prepare for the General Education Diploma (GED) test, gain requirements to apply for college study, or improve skills needed for the workforce. 
+- **Deaf Empowerment Program at Mohawk College**, government-funded program is taught in American Sign Language (ASL) for adults who are Deaf or Hard-of-Hearing and are looking to prepare for the General Education Diploma (GED) test, gain requirements to apply for college study, or improve skills needed for the workforce. 
   - Location: [Hamilton, Ontario](https://www.google.com/maps/place/Mohawk+College/@43.2386914,-79.8906974,17z/data=!3m2!4b1!5s0x882c9b1066b83ab9:0x7b9bc544845145ef!4m6!3m5!1s0x882c9b0f091045c1:0x5cc59dd1633a1496!8m2!3d43.2386914!4d-79.8881225!16zL20vMDF4MzZ6?entry=ttu)
   - Founded: 1993
   - Website: [mohawkcollege.ca](https://www.mohawkcollege.ca/programs/get-prepared-for-college/academic-upgrading/deaf-empowerment-program)
@@ -118,10 +120,6 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Email: [deafupgrading@georgebrown.ca](mailto:deafupgrading@georgebrown.ca)
 
 **Important Note:** Government-funded program do not accept international student unless you are Canadian citizen, permanent resident, or protected person in Canada (with notice of decision).
-
-## Social Media Sites and Communities
-
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 
 ## Video Relay Services
 
@@ -150,8 +148,6 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 | Eastlink IP Relay | [iprelay.eastlink.ca](https://iprelay.eastlink.ca/) | [iprelay.eastlink.ca](https://iprelay.eastlink.ca/register#/) |
 | CCAP IP Relay | [iprelay.ccapcable.com](https://iprelay.ccapcable.com/login/#/) | [iprelay.ccapcable.com](https://iprelay.ccapcable.com/register#/) |
 
-
-
 **Note:** Fido and Rogers are using same service on [iprelayservice.net](https://iprelayservice.net/login/#/) and they did not re-brand it.
 
 **History Note:** Public Mobile stopped proving IP Relay Services and recommended get Telus.  
@@ -163,6 +159,10 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 | Region | Name | Description | Link |
 |--------|------|-------------|------|
 | Canada | DeafDots | DeafDots provides Canadian news in video with a Canadian focus, using American Sign Language. | [Website](https://www.deafdots.ca/), [YouTube](https://www.youtube.com/@DeafDots), [Facebook](https://www.facebook.com/groups/deafdots/), [Instagram](https://www.instagram.com/deafdots/) |
+
+## Social Media Sites and Communities
+
+- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 
 ## Representation Deaf People and Culture
 
@@ -178,7 +178,6 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 | The Silent Natural | "The Silent Natural" (2019) is a biographical drama that chronicles the life of William "Dummy" Hoy, a deaf baseball player who defied societal expectations and became a pivotal figure in the sport's history. The film explores Hoy's determination to break barriers, highlighting his remarkable achievements on and off the field while shedding light on the challenges he faced as a deaf athlete. | [Apple TV](https://tv.apple.com/us/movie/the-silent-natural/umc.cmc.6sx1mmt7pvqd2moqaghwqw9b1?at=1000l3V2&ct=justwatch_tv&playableId=tvs.sbd.9001%3A1527796730), [Amazon](https://www.amazon.com/gp/video/detail/0OWOZEFI7TFXWML3KWAJTC7RWN/ref=atv_dl_rdr?tag=justus1ktp-20), [Google Play](https://play.google.com/store/movies/details/The_Silent_Natural?gl=US&hl=en&id=tql06PtjVZQ.P), [YouTube](https://www.youtube.com/watch?v=BTQq5Bo_29o), [Hoopla](https://www.hoopladigital.com/title/14328765) |
 
 ## TV Shows
-
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

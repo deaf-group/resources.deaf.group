@@ -16,22 +16,14 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Category
 
-- [Sign Language in France](#sign-language-in-france)
-- [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
-- [Interpreting Services](#interpreting-services)
+- Accessibility 
+  - [Interpreting Services](#interpreting-services)
+  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- Education
+    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
 - [Feedback](#feedback)
 
-## Sign Language in France
-
-- Current sign language in France Deaf Community is **French Sign Language (FSL)**.
-  - In French, **langue des signes française (LSF)**.
-
-## Sign Language Dictionaries
-| Name | Type | Link | Free/Paid |
-|------|------|------|-----------|
-| Sématos LSF Video Dictionary | Video | [sematos.eu](http://www.sematos.eu/lsf.html) | Free |
-| SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Organizations
 
@@ -41,6 +33,20 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Website: [fnsf.org](https://www.fnsf.org/)
 
 ## Interpreting Services
+
+## Hearing Aid & Cochlear Implant Services
   
+## Sign Language Dictionaries
+
+- Current sign language in France Deaf Community is **French Sign Language (FSL)**.
+  - In French, **langue des signes française (LSF)**.
+
+| Name | Type | Link | Free/Paid |
+|------|------|------|-----------|
+| Sématos LSF Video Dictionary | Video | [sematos.eu](http://www.sematos.eu/lsf.html) | Free |
+| SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
+
+## Elementary/Secondary/High Schools
+
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

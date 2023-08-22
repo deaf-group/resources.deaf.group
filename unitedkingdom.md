@@ -15,27 +15,18 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Australia]({{site.baseurl}}/australia)
 
 ## Category
-- [Sign Language Dictionaries](#sign-language-dictionaries)
+
 - [Organizations](#organizations)
-- [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
-- [Interpreting Services](#interpreting-services)
-- [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
-- [Social Media Sites and Communities](#social-media-sites-and-communities)
-- Technology
+- Accessibility 
+  - [Interpreting Services](#interpreting-services)
+  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
   - [Video Relay Services](#video-relay-services)
+- Education
+    - [Sign Language Dictionaries](#sign-language-dictionaries)
+    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+- Media and Technology 
+  - [Social Media Sites and Communities](#social-media-sites-and-communities)
 - [Feedback](#feedback)
-
-## Sign Language in United Kingdom
-
-- Current sign language in United Kingdom Deaf Community is **British Sign Language (BSL)**.
-
-## Sign Language Dictionaries
-
-| Name | Type | Link | Free/Paid |
-|------|------|------|-----------|
-| BSL Sign Dictionary | Video | [signbsl.com](https://www.signbsl.com/) | Free |
-| BSL SignBank | Video | [bslsignbank.ucl.ac.uk](https://bslsignbank.ucl.ac.uk/) | Free |
-| SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Organizations
 
@@ -43,38 +34,48 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - Founded: 1886
   - Website: [bda.org.uk](https://bda.org.uk/)
 
+## Sign Language Dictionaries
+
+Current sign language in United Kingdom Deaf Community is **British Sign Language (BSL)**.
+
+| Name | Type | Link | Free/Paid |
+|------|------|------|-----------|
+| BSL Sign Dictionary | Video | [signbsl.com](https://www.signbsl.com/) | Free |
+| BSL SignBank | Video | [bslsignbank.ucl.ac.uk](https://bslsignbank.ucl.ac.uk/) | Free |
+| SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
+
 ## Elementary/Secondary/High Schools
 
 - Mary Hare School for the Deaf
-  - Founded:  1916
-  - Location:  Newbury, Berkshire, England
+  - Founded: 1916
+  - Location: Newbury, Berkshire, England
 - The Royal School for Deaf Children Margate
-  - Founded:  1792
-  - Location:  Margate, Kent, England
+  - Founded: 1792
+  - Location: Margate, Kent, England
 - Northern Counties School for the Deaf (Northern Saints CofE VA Primary School)
-  - Founded:  1870
-  - Location:  Newcastle upon Tyne, England
+  - Founded: 1870
+  - Location: Newcastle upon Tyne, England
 - Doncaster School for the Deaf (Communication Specialist College Doncaster)
-  - Founded:  1829
+  - Founded: 1829
   - Location:  Doncaster, South Yorkshire, England
 - Frank Barnes School for Deaf Children
-  - Founded:  1976
-  - Location:  London, England
+  - Founded: 1976
+  - Location: London, England
 - Oak Lodge School
-  - Founded:  1904
-  - Location:  London, England
+  - Founded: 1904
+  - Location: London, England
 - Blanche Nevile School for Deaf Children
-  - Founded:  1899
-  - Location:  London, England
+  - Founded: 1899
+  - Location: London, England
 - Royal School for the Deaf Derby (St. Martin's School)
-  - Founded:  1792
-  - Location:  Derby, England
+  - Founded: 1792
+  - Location: Derby, England
 - Seashell Trust (formerly Royal Schools for the Deaf and Communication Disorders)
-  - Founded:  1823
-  - Location:  Cheadle Hulme, Cheshire, England
+  - Founded: 1823
+  - Location: Cheadle Hulme, Cheshire, England
 - Braidwood School for the Deaf
-  - Founded:  1783
-  - Location:  Birmingham, England
+  - Founded: 1783
+  - Location: Birmingham, England
 
 ## Social Media Sites and Communities
 

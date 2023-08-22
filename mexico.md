@@ -16,19 +16,25 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 ## Category
 
-- [Sign Language in Mexico](#sign-language-in-australia)
-- [Sign Language Dictionaries](#sign-language-dictionaries)
+
 - [Organizations](#organizations)
+- Accessibility 
+  - [Interpreting Services](#interpreting-services)
+  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- Education
+    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
 - [Feedback](#feedback)
 
-## Sign Language in United Kingdom
+## Organizations
 
-- Current sign language in Mexico Deaf Community is **Mexican Sign Language**.
-    - In Spanish, **Lengua de Señas Mexicana (LSM)**.
+## Interpreting Services
+
+## Hearing Aid & Cochlear Implant Services
 
 ## Sign Language Dictionaries
 
-## Organizations
+- Current sign language in Mexico Deaf Community is **Mexican Sign Language**.
+    - In Spanish, **Lengua de Señas Mexicana (LSM)**.
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
