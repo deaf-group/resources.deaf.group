@@ -17,6 +17,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
+- [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
 - [Interpreting Services](#interpreting-services)
 - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
 - [Social Media Sites and Communities](#social-media-sites-and-communities)
@@ -41,6 +42,39 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - **British Deaf Association** is a significant organization based in the United Kingdom, established in 1890, that has been at the forefront of advocating for the rights, equality, and recognition of the deaf community. As a leading voice, the BDA promotes accessible communication, cultural preservation, and empowerment for deaf individuals. Through its initiatives, campaigns, and support services, the BDA continues to play a vital role in fostering inclusivity and raising awareness about deaf culture and issues in the UK.
   - Founded: 1886
   - Website: [bda.org.uk](https://bda.org.uk/)
+
+## Elementary/Secondary/High Schools
+
+- Mary Hare School for the Deaf
+  - Founded:  1916
+  - Location:  Newbury, Berkshire, England
+- The Royal School for Deaf Children Margate
+  - Founded:  1792
+  - Location:  Margate, Kent, England
+- Northern Counties School for the Deaf (Northern Saints CofE VA Primary School)
+  - Founded:  1870
+  - Location:  Newcastle upon Tyne, England
+- Doncaster School for the Deaf (Communication Specialist College Doncaster)
+  - Founded:  1829
+  - Location:  Doncaster, South Yorkshire, England
+- Frank Barnes School for Deaf Children
+  - Founded:  1976
+  - Location:  London, England
+- Oak Lodge School
+  - Founded:  1904
+  - Location:  London, England
+- Blanche Nevile School for Deaf Children
+  - Founded:  1899
+  - Location:  London, England
+- Royal School for the Deaf Derby (St. Martin's School)
+  - Founded:  1792
+  - Location:  Derby, England
+- Seashell Trust (formerly Royal Schools for the Deaf and Communication Disorders)
+  - Founded:  1823
+  - Location:  Cheadle Hulme, Cheshire, England
+- Braidwood School for the Deaf
+  - Founded:  1783
+  - Location:  Birmingham, England
 
 ## Social Media Sites and Communities
 

@@ -78,7 +78,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Category
 - [Sign Language Dictionaries](#sign-language-dictionaries)
 - [Organizations](#organizations)
-- [Interpreting Services](#interpreting-services)
+- [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
 - [Post Secondary Education Programs](#post-secondary-education-programs)
 - [Social Media Sites and Communities](#social-media-sites-and-communities)
 - Technology
@@ -110,6 +110,33 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - **National Association of the Deaf (NAD)** is a prominent and influential organization in the United States that tirelessly advocates for the rights, equality, and well-being of the deaf and hard-of-hearing community. With a rich history of activism and legal initiatives, the NAD works to ensure accessible communication, education, and opportunities, while also celebrating and preserving the linguistic and cultural heritage of deaf individuals across the nation.
   - Founded: August 25, 1880
   - Website: [nad.org](https://www.nad.org/)
+
+## Elementary/Secondary/High Schools
+
+- American School for the Deaf (ASD)
+  - Founded: April 15, 1817
+  - Location: West Hartford, Connecticut
+- California School for the Deaf, Berkeley (CSD)
+  - Founded: 1860
+  - Location: Berkeley, California
+- Texas School for the Deaf (TSD)
+  - Founded: 1856
+  - Location: Austin, Texas
+- Indiana School for the Deaf (ISD)
+  - Founded: 1843
+  - Location: Indianapolis, Indiana
+- New York School for the Deaf (Fanwood)
+  - Founded: 1817
+  - Location: White Plains, New York
+- Maryland School for the Deaf (MSD)
+  - Founded: 1868
+  - Location: Frederick and Columbia, Maryland
+- Florida School for the Deaf and the Blind (FSDB)
+  - Founded: 1885
+  - Location: St. Augustine, Florida
+- Oregon School for the Deaf (OSD)
+  - Founded: 1870
+  - Location: Salem, Oregon
 
 ## Post Secondary Education Programs
 

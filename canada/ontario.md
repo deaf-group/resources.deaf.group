@@ -29,6 +29,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [Organizations](#organizations)
 - [Interpreting Services](#interpreting-services)
 - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
 - [Post Secondary Education Programs](#post-secondary-education-programs)
 - [Feedback](#feedback)
 
@@ -56,6 +57,23 @@ This is the place where you can find resources for the deaf and hard of hearing 
 
 Note: VRI is stand for Video Remote Interpreting.
 
+## Hearing Aid & Cochlear Implant Services
+
+## Elementary/Secondary/High Schools
+
+- **Ernest C. Drury School for the Deaf:** "Together We Succeed" guides our mission to provide a collaborative and nurturing learning environment, ensuring the academic achievement and overall success of our deaf students.
+  - Founded: 1972
+  - Location: Milton, Ontario
+  - Website: [asl.pdsbnet.ca](https://asl.pdsbnet.ca/schools/ernest-c-drury-school-for-the-deaf/)
+- **Robarts School for the Deaf:** Fostering Excellence, Building Futures. Our commitment is to empower deaf students with a strong education and skills for a successful future.
+  - Founded: 1963
+  - Location: London, Ontario
+  - Website: [pdsbnet.ca](https://pdsbnet.ca/en/schools/robarts/)
+- **Sir James Whitney School for the Deaf** Nurturing Potential, Shaping Destinies. Dedicated to unlocking the potential of each deaf student through tailored education and comprehensive support, enabling them to shape their own promising paths.
+  - Founded: 1870
+  - Location: Belleville, Ontario
+  - Website: [asl.pdsbnet.ca](https://asl.pdsbnet.ca/schools/sir-james-whitney-school-for-the-deaf/)
+
 ## Post Secondary Education Programs
 
 - **Deaf Empowerment Program at Mahawk College**, government-funded program is taught in American Sign Language (ASL) for adults who are Deaf or Hard-of-Hearing and are looking to prepare for the General Education Diploma (GED) test, gain requirements to apply for college study, or improve skills needed for the workforce. 
@@ -71,7 +89,6 @@ Note: VRI is stand for Video Remote Interpreting.
 
 **Important Note:** Government-funded program do not accept international student unless you are Canadian citizen, permanent resident, or protected person in Canada (with notice of decision).
 
-## Hearing Aid & Cochlear Implant Services
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
