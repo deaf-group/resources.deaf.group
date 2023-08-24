@@ -13,6 +13,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [France]({{site.baseurl}}/france) **(You are here)**
 - [Italy]({{site.baseurl}}/italy)
 - [Australia]({{site.baseurl}}/australia)
+- [Japan]({{site.baseurl}}/japan) 
 
 ## Category
 

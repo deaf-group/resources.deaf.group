@@ -13,6 +13,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [France]({{site.baseurl}}/france)
 - [Italy]({{site.baseurl}}/italy)
 - [Australia]({{site.baseurl}}/australia) **(You are here)**
+- [Japan]({{site.baseurl}}/japan) 
 
 ## Category
 
@@ -66,6 +67,12 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Interpreting Services
 
 ## Video Relay Services
+
+Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
+
+- National Relay Service (NRS)
+  - Official Website: [accesshub.gov.au](https://www.accesshub.gov.au/about-the-nrs)
+  - Platform: Mobile app ([iOS](https://apps.apple.com/au/app/nrs/id1483420984), [Android](https://play.google.com/store/apps/details?id=au.gov.doca.nrs))
 
 ## IP Relay Services
 

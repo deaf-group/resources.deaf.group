@@ -13,6 +13,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [France]({{site.baseurl}}/france)
 - [Italy]({{site.baseurl}}/italy)
 - [Australia]({{site.baseurl}}/australia)
+- [Japan]({{site.baseurl}}/japan) 
 
 ## Category
 
@@ -33,6 +34,10 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - **British Deaf Association** is a significant organization based in the United Kingdom, established in 1890, that has been at the forefront of advocating for the rights, equality, and recognition of the deaf community. As a leading voice, the BDA promotes accessible communication, cultural preservation, and empowerment for deaf individuals. Through its initiatives, campaigns, and support services, the BDA continues to play a vital role in fostering inclusivity and raising awareness about deaf culture and issues in the UK.
   - Founded: 1886
   - Website: [bda.org.uk](https://bda.org.uk/)
+
+## Interpreting Services
+
+## Hearing Aid & Cochlear Implant Services
 
 ## Sign Language Dictionaries
 

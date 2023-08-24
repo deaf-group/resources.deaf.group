@@ -23,8 +23,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [France]({{site.baseurl}}/france)
 - [Italy]({{site.baseurl}}/italy)
 - [Australia]({{site.baseurl}}/australia)
-
-## Category
+- [Japan]({{site.baseurl}}/japan) 
 
 ## Category
 

@@ -13,6 +13,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [France]({{site.baseurl}}/france)
 - [Italy]({{site.baseurl}}/italy)
 - [Australia]({{site.baseurl}}/australia)
+- [Japan]({{site.baseurl}}/japan) 
 
 ## Category
 
@@ -22,7 +23,8 @@ This is the place where you can find resources for the deaf and hard of hearing 
   - [Interpreting Services](#interpreting-services)
   - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
 - Education
-    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+  - [Sign Language Dictionaries](#sign-language-dictionaries)
+  - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
 - [Feedback](#feedback)
 
 ## Organizations

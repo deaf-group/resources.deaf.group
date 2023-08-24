@@ -13,6 +13,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 - [France]({{site.baseurl}}/france)
 - [Italy]({{site.baseurl}}/italy) **(You are here)**
 - [Australia]({{site.baseurl}}/australia)
+- [Japan]({{site.baseurl}}/japan) 
 
 ## Category
 
@@ -40,7 +41,7 @@ This is the place where you can find resources for the deaf and hard of hearing 
 ## Interpreting Services
 
 ## Hearing Aid & Cochlear Implant Services
-  
+
 ## Sign Language Dictionaries
 
 - Current sign language in Italy Deaf Community is **Mexican Sign Language**.
