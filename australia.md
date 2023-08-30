@@ -1,8 +1,3 @@
-<p style="text-align: center;">⚠️This site is currently under construction⚠️</p>
-
-# Welcome to resources.deaf.group!
-This is the place where you can find resources for the deaf and hard of hearing community. They are contributed by individuals.
-
 ## Country/Region
 
 - [International]({{site.baseurl}}/)
@@ -127,6 +122,3 @@ Current sign language in Australia Deaf Community is **Auslan**
 ## Social Media Sites and Communities
 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Auslan friends! on Discord - [discord.gg/8Ck9hmyMpv](https://discord.com/invite/xU9DhhstMr)
-
-## Feedback
-Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

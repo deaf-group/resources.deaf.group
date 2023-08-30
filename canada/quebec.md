@@ -1,8 +1,3 @@
-<p style="text-align: center;">⚠️This site is currently under construction⚠️</p>
-
-# Welcome to resources.deaf.group!
-This is the place where you can find resources for the deaf and hard of hearing community. They are contributed by individuals.
-
 ## Country/Region
 
 - [International]({{site.baseurl}}/)
@@ -98,6 +93,3 @@ ReQIS is currently maintaining list of interpreting services in Québec. They of
   - Founded: 2002
   - Location: Laval, Quebec
   - Website: [csslaval.gouv.qc.ca](https://csslaval.gouv.qc.ca/project/nouvelle-ecole-secondaire/)
-
-## Feedback
-Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
