@@ -1,1 +1,8 @@
+title: resources.deaf.group
 site.url: https://resources.deaf.group/
+
+description: This is the place where you can find resources for the deaf and hard of hearing community. They are contributed by individuals.
+
+theme: minima
+
+minima:
