@@ -5,4 +5,8 @@ description: This is the place where you can find resources for the deaf and har
 
 theme: minima
 
+plugins:
+  - jekyll-seo-tag
+
 minima:
+  date_format: "%b %-d, %Y"
