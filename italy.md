@@ -1,8 +1,3 @@
-<p style="text-align: center;">⚠️This site is currently under construction⚠️</p>
-
-# Welcome to resources.deaf.group!
-This is the place where you can find resources for the deaf and hard of hearing community. They are contributed by individuals.
-
 ## Country/Region
 
 - [International]({{site.baseurl}}/)
@@ -55,6 +50,3 @@ This is the place where you can find resources for the deaf and hard of hearing 
 |------|------|------|-----------|
 | Dizionario LIS | Video | [iOS](https://apps.apple.com/ca/app/dizionario-lis/id917187457), [Android](https://play.google.com/store/apps/details?id=com.euromedia.dizionariolis&hl=en&gl=US) | Paid |
 | Grammatica Italiana della Lingua dei Segni | eBook | [PDF](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-645-9/) | Free |
-
-## Feedback
-Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

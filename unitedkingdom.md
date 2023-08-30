@@ -1,8 +1,3 @@
-<p style="text-align: center;">⚠️This site is currently under construction⚠️</p>
-
-# Welcome to resources.deaf.group!
-This is the place where you can find resources for the deaf and hard of hearing community. They are contributed by individuals.
-
 ## Country/Region
 
 - [International]({{site.baseurl}}/)
@@ -98,6 +93,3 @@ Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH 
   - Official Website: [999bsl.co.uk](https://999bsl.co.uk/)
   - Platform: Mobile app ([iOS](https://apps.apple.com/gb/app/999-bsl/id1609981468), [Android](https://play.google.com/store/apps/details?id=com.sorenson.sli.bsl999))
   - Note: this service is for emergency only
-
-## Feedback
-Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
