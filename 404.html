@@ -1,42 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>404 Not Found</title>
     <style>
-        @font-face {
-            font-family: "GALLAUDET";
-            src: url("../assets/fonts/GALLAUDET.ttf");
-        }
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f0f0f0;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin: 0;
-            padding: 0;
-        }
-        .error-message {
-            color: #444;
-            font-size: 24px;
-            margin-bottom: 20px;
-        }
+      @font-face {
+        font-family: "GALLAUDET";
+        src: url("../assets/fonts/GALLAUDET.ttf");
+      }
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #f0f0f0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+      }
+      .error-message {
+        color: #444;
+        font-size: 24px;
+        margin-bottom: 20px;
+      }
+      .sign {
+        font-family: "GALLAUDET";
+        font-size: 12em;
+        line-height: 0px;
+      }
+      @media only screen and (max-width: 900px) {
+        /* For mobile phones: */
         .sign {
-                font-family: 'GALLAUDET';
-                font-size: 12em;
-                line-height: 0px;
+            font-size: 4em;
+            width: 100%;
         }
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="error-message">
-        <h1>404 Not Found</h1>
-        <p class="sign">Error 404</p>
-        <p>The requested resource was not found on this server.</p>
+      <h1>404 Not Found</h1>
+      <p class="sign">Error 404</p>
+      <p>The requested resource was not found on this server.</p>
     </div>
-</body>
+  </body>
 </html>
