@@ -37,3 +37,6 @@ Note: VRI is stand for Video Remote Interpreting.
   - Founded: 1940
   - Location: Edmonton, Alberta
   - Website: [asd.epsb.ca](http://asd.epsb.ca/)
+
+## Feedback
+Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

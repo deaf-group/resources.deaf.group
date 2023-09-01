@@ -34,3 +34,7 @@ permalink:
 - ~~Nova Scotia School for the Deaf~~ **Permanently closed**
   - ~~Founded: 1949~~
   - ~~Location: Halifax, Nova Scotia~~
+
+
+## Feedback
+Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

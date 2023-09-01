@@ -26,3 +26,6 @@ permalink:
 
 - Current sign language in Mexico Deaf Community is **Mexican Sign Language**.
     - In Spanish, **Lengua de Señas Mexicana (LSM)**.
+
+## Feedback
+Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

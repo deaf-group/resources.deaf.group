@@ -37,3 +37,7 @@ permalink:
 | SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Elementary/Secondary/High Schools
+
+
+## Feedback
+Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
