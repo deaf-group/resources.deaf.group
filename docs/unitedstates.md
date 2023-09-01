@@ -100,9 +100,9 @@ Current sign language in United States Deaf Community is **American Sign Languag
 
 ## News
 
-| Region | Name | Description | Link |
-|--------|------|-------------|------|
-| United States | The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
+| Name | Description | Link |
+|------|-------------|------|
+| The Daily Moth | The Daily Moth delivers news in video using American Sign Language. The Deaf host, Alex Abenchuchan, covers trending stories and Deaf topics with a twist of humor and Deaf culture. | [Website](https://www.dailymoth.com/), [YouTube](https://www.youtube.com/@TheDailyMoth), [Facebook](https://www.facebook.com/TheDailyMoth/), [Instagram](https://www.instagram.com/thedailymoth/) |
 
 ## Social Media Sites and Communities
 
@@ -134,8 +134,6 @@ Current sign language in United States Deaf Community is **American Sign Languag
 |------|-------------|-------------------|
 | William "Dummy" Hoy | William "Dummy" Hoy was a trailblazing deaf Major League Baseball player who not only excelled on the field but also pioneered the use of hand signals for communication between players, forever impacting the way the game is played and enhancing inclusivity in sports. His achievements and contributions have left an indelible mark on the world of baseball and deaf advocacy. | [Wikipedia](https://en.wikipedia.org/wiki/Dummy_Hoy) |
 
-
-
 ## Films
 
 | Name | Description | Where Watch |
@@ -145,8 +143,11 @@ Current sign language in United States Deaf Community is **American Sign Languag
 | I See The Crowd Roar: The Story of William Dummy Hoy | "I See The Crowd Roar: The Story of William Dummy Hoy" is a compelling documentary that delves into the inspiring journey of the legendary deaf baseball player. Through archival footage and heartfelt interviews, the film captures the essence of Hoy's life, his contributions to the sport, and his enduring impact on the deaf community and the game of baseball. | [Apple TV](https://tv.apple.com/us/movie/i-see-the-crowd-roar---the-story-of-william-dummy-hoy/umc.cmc.66oduvth8z28l000pntkir02a?at=1000l3V2&ct=moviefone_tv&playableId=tvs.sbd.9001%3A562446867) |
 | The Silent Natural | "The Silent Natural" (2019) is a biographical drama that chronicles the life of William "Dummy" Hoy, a deaf baseball player who defied societal expectations and became a pivotal figure in the sport's history. The film explores Hoy's determination to break barriers, highlighting his remarkable achievements on and off the field while shedding light on the challenges he faced as a deaf athlete. | [Apple TV](https://tv.apple.com/us/movie/the-silent-natural/umc.cmc.6sx1mmt7pvqd2moqaghwqw9b1?at=1000l3V2&ct=justwatch_tv&playableId=tvs.sbd.9001%3A1527796730), [Amazon](https://www.amazon.com/gp/video/detail/0OWOZEFI7TFXWML3KWAJTC7RWN/ref=atv_dl_rdr?tag=justus1ktp-20), [Google Play](https://play.google.com/store/movies/details/The_Silent_Natural?gl=US&hl=en&id=tql06PtjVZQ.P), [YouTube](https://www.youtube.com/watch?v=BTQq5Bo_29o), [Hoopla](https://www.hoopladigital.com/title/14328765) |
 
-
 ## TV Shows
+
+| Name | Description | Where Watch |
+|------|-------------|-------------|
+| | |
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

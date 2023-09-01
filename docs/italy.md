@@ -29,7 +29,7 @@ permalink:
 
 ## Interpreting Services
 
- Name  | Available in | Website |
+| Name  | Available in | Website |
 |------|--------------|---------|
 | Interbrian | Nationwide | [interbrian.it](https://interbrian.it/en/services/sign-language-interpreting/) |
 

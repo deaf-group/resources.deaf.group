@@ -28,6 +28,19 @@ permalink:
 
 ## Hearing Aid & Cochlear Implant Services
 
+## Video Relay Services
+
+Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
+
+- **SignLive**
+  - Official Website: [signlive.co.uk](https://signlive.co.uk)
+  - Platform: Mobile app ([iOS](https://apps.apple.com/gb/app/signlive-2-0/id1545172283), [Android](https://play.google.com/store/apps/details?id=com.convo.vriapp&hl=en_GB&gl=US)) and Desktop web ([Link](https://pegasusuk-prod.convorelay.com/UserWebApp/login))
+
+- **999 BSL**
+  - Official Website: [999bsl.co.uk](https://999bsl.co.uk/)
+  - Platform: Mobile app ([iOS](https://apps.apple.com/gb/app/999-bsl/id1609981468), [Android](https://play.google.com/store/apps/details?id=com.sorenson.sli.bsl999))
+  - Note: this service is for emergency only
+
 ## Sign Language Dictionaries
 
 Current sign language in United Kingdom Deaf Community is **British Sign Language (BSL)**.
@@ -75,18 +88,11 @@ Current sign language in United Kingdom Deaf Community is **British Sign Languag
 
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } British Sign Language on Discord - [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv)
 
-## Video Relay Services
+## News
 
-Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
-
-- **SignLive**
-  - Official Website: [signlive.co.uk](https://signlive.co.uk)
-  - Platform: Mobile app ([iOS](https://apps.apple.com/gb/app/signlive-2-0/id1545172283), [Android](https://play.google.com/store/apps/details?id=com.convo.vriapp&hl=en_GB&gl=US)) and Desktop web ([Link](https://pegasusuk-prod.convorelay.com/UserWebApp/login))
-
-- **999 BSL**
-  - Official Website: [999bsl.co.uk](https://999bsl.co.uk/)
-  - Platform: Mobile app ([iOS](https://apps.apple.com/gb/app/999-bsl/id1609981468), [Android](https://play.google.com/store/apps/details?id=com.sorenson.sli.bsl999))
-  - Note: this service is for emergency only
+| Name | Description | Link |
+|------|-------------|------|
+| British Deaf News | Amplifying Deaf Voices, Sharing Deaf Stories. Dedicated to providing a platform for the British deaf community, our news outlet amplifies their voices and shares their stories, promoting awareness, understanding, and inclusion. | [Website](https://www.britishdeafnews.co.uk/), [Facebook](https://www.facebook.com/BritishDeafNews) |
 
 ## Feedback
 Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
