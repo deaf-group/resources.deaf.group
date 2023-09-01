@@ -4,6 +4,7 @@ title: "Ontario"
 parent: "Canada"
 permalink:
 ---
+# Ontario
 ## Category
 
 - [Organizations](#organizations)

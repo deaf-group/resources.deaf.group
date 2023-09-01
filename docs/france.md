@@ -4,6 +4,7 @@ title: France
 nav_order: 4
 permalink:
 ---
+# France
 ## Category
 
 - [Organizations](#organizations)

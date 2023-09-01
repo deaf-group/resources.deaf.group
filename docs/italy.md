@@ -4,6 +4,7 @@ title: Italy
 nav_order: 5
 permalink:
 ---
+# Italy
 ## Category
 
 - [Organizations](#organizations)
@@ -11,7 +12,6 @@ permalink:
   - [Interpreting Services](#interpreting-services)
   - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
   - [Video Relay Services](#video-relay-services)
-  - [IP Relay Services](#ip-relay-services)
 - Education
   - [Sign Language Dictionaries](#sign-language-dictionaries)
   - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
@@ -34,6 +34,15 @@ permalink:
 | Interbrian | Nationwide | [interbrian.it](https://interbrian.it/en/services/sign-language-interpreting/) |
 
 ## Hearing Aid & Cochlear Implant Services
+
+## Video Relay Services
+
+Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
+
+- TIMinLIS
+  - Official Website: [tim.it](https://www.tim.it/assistenza/assistenza-tecnica/servizi-online/timinlis)
+  - Platform: [Web](https://comunica.tim.it/sordi/)
+
 
 ## Sign Language Dictionaries
 

@@ -4,6 +4,7 @@ title: "Newfoundland and Labrador"
 parent: "Canada"
 permalink:
 ---
+# Newfoundland and Labrador
 ## Category
 
 - [Organizations](#organizations)

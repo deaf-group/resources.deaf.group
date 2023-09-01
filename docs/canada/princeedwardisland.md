@@ -4,6 +4,7 @@ title: "Prince Edward Island"
 parent: "Canada"
 permalink:
 ---
+# Prince Edward Island
 ## Category
 
 - [Organizations](#organizations)

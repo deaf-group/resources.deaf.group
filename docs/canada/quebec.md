@@ -4,6 +4,7 @@ title: "Québec"
 parent: "Canada"
 permalink:
 ---
+# Québec
 ## Category
 
 - [Organizations](#organizations)

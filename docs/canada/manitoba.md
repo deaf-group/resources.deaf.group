@@ -4,6 +4,7 @@ title: "Manitoba"
 parent: "Canada"
 permalink:
 ---
+# Manitoba
 ## Category
 
 - [Organizations](#organizations)

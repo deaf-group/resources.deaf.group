@@ -4,6 +4,7 @@ title: "Nova Scotia"
 parent: "Canada"
 permalink:
 ---
+# Nova Scotia
 ## Category
 
 - [Organizations](#organizations)

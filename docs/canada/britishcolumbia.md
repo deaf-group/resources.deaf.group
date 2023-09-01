@@ -4,6 +4,7 @@ title: "British Columbia"
 parent: "Canada"
 permalink:
 ---
+# British Columbia
 ## Category
 
 - [Organizations](#organizations)

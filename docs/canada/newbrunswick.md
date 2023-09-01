@@ -1,9 +1,10 @@
 ---
 layout: default
-title: New Brunswick
+title: "New Brunswick"
 parent: "Canada"
 permalink:
 ---
+# New Brunswick
 ## Category
 
 - [Organizations](#organizations)

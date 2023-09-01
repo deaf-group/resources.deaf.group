@@ -4,6 +4,7 @@ title: Japan
 nav_order: 6
 permalink:
 ---
+# Japan
 ## Category
 
 - [Organizations](#organizations)
