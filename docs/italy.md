@@ -4,24 +4,19 @@ title: Italy
 nav_order: 5
 permalink:
 ---
-# Italy
+# Italy :it:
 ## Category
-
-- [Organizations](#organizations)
-- Accessibility 
-  - [Interpreting Services](#interpreting-services)
-  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
-  - [Video Relay Services](#video-relay-services)
-- Education
-  - [Sign Language Dictionaries](#sign-language-dictionaries)
-  - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
-- Media and Technology 
-  - [Social Media Sites and Communities](#social-media-sites-and-communities)
-- [Feedback](#feedback)
-
+- 🏢 [Organizations](#organizations)
+- ♿ Accessibility 
+  - 💬 [Interpreting Services](#interpreting-services)
+  - 🦻 [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+  - 📞 [Video Relay Services](#video-relay-services)
+- 📖 Education
+    - 👋 [Sign Language Dictionaries](#sign-language-dictionaries)
+    - 🏫 [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+- ✍️ [Feedback](#feedback)
 
 ## Organizations
-
 - ***Ente Nazionale Sordi (ENS)*** is a significant organization in Italy dedicated to representing and supporting the deaf and hard-of-hearing community. Through its various initiatives, programs, and advocacy efforts, ENS works to enhance accessibility, promote awareness, and empower individuals to lead fulfilling lives while fostering a sense of unity and cultural identity within the deaf community. ENS plays a pivotal role in advocating for the rights and needs of deaf individuals in Italy and contributes to creating a more inclusive and supportive society.
   - Location: Rome, Italy
   - Founded: 1924
@@ -36,7 +31,6 @@ permalink:
 ## Hearing Aid & Cochlear Implant Services
 
 ## Video Relay Services
-
 Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
 
 - TIMinLIS
@@ -45,7 +39,6 @@ Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH 
 
 
 ## Sign Language Dictionaries
-
 - Current sign language in Italy Deaf Community is **Mexican Sign Language**.
     - In Italian, **Lingua dei Segni Italiana (LIS)**.
 
@@ -55,7 +48,6 @@ Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH 
 | Grammatica Italiana della Lingua dei Segni | eBook | [PDF](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-645-9/) | Free |
 
 ## Elementary/Secondary/High Schools
-
 - Istituto Nazionale Sordomuti (National Institute for the Deaf)
   - Founded: 1784
   - Location: Rome, Italy

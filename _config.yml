@@ -4,3 +4,6 @@ description: This is the place where you can find resources for the deaf and har
 url: https://resources.deaf.group
 
 theme: just-the-docs
+
+plugins:
+  - jemoji

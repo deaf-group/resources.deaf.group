@@ -6,14 +6,13 @@ permalink:
 ---
 # Québec
 ## Category
-
-- [Organizations](#organizations)
-- Accessibility 
-  - [Interpreting Services](#interpreting-services)
-  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
-- Education
-    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
-- [Feedback](#feedback)
+- 🏢 [Organizations](#organizations)
+- ♿ Accessibility
+  - 💬 [Interpreting Services](#interpreting-services)
+  - 🦻 [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- 📖 Education
+    - 🏫 [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+- ✍️ [Feedback](#feedback)
 
 ## Organizations
 

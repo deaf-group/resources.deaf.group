@@ -4,21 +4,21 @@ title: Japan
 nav_order: 6
 permalink:
 ---
-# Japan
+# Japan :jp:
 ## Category
-
-- [Organizations](#organizations)
-- Accessibility 
-  - [Interpreting Services](#interpreting-services)
-  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
-- Education
-  - [Sign Language Dictionaries](#sign-language-dictionaries)
-  - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
-  - [Post Secondary Education Programs](#post-secondary-education-programs)
-- [Feedback](#feedback)
+- 🏢 [Organizations](#organizations)
+- ♿ Accessibility 
+  - 💬 [Interpreting Services](#interpreting-services)
+  - 🦻 [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- 📖 Education
+  - 👋 [Sign Language Dictionaries](#sign-language-dictionaries)
+  - 🏫 [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+  - 🏫[Post Secondary Education Programs](#post-secondary-education-programs)
+- 💻 Media and Technology 
+  - 👨‍👩‍👧‍👦 [Social Media Sites and Communities](#social-media-sites-and-communities)
+- ✍️ [Feedback](#feedback)
 
 ## Organizations
-
 - **Japanese Federation of the Deaf:** Uniting Silence, Amplifying Rights. Our mission is to bring together the deaf community, advocating for their rights, accessibility, and equal opportunities, while promoting awareness and understanding of deaf culture and identity.
   - Founded: 1948
   - Location: Tokyo, Japan
@@ -41,7 +41,6 @@ permalink:
 ## Hearing Aid & Cochlear Implant Services
 
 ## Sign Language Dictionaries
-
 - Current sign language in Japan Deaf Community is **Japanese Sign Language**.
     - In Japanese, **日本手話, Nihon Shuwa**.
 
@@ -53,7 +52,6 @@ permalink:
 
 
 ## Elementary/Secondary/High Schools
-
 - Tsukuba School for the Deaf ❓**Need more info**
   - Founded: 1878
   - Location: Tsukuba, Ibaraki Prefecture
@@ -110,7 +108,6 @@ permalink:
   - Website: N/A
 
 ## Post Secondary Education Programs
-
 - **Tsukuba University of Technology:** Pioneering Deaf Education in Japan. As the country's only higher educational institution for the Deaf, we are dedicated to providing quality education, fostering innovation, and empowering deaf students to excel in various fields of technology and beyond.
   - Founded: 1965
   - Location: Tsukuba, Ibaraki Prefecture

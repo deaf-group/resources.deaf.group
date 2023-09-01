@@ -4,17 +4,15 @@ title: International
 nav_order: 1
 permalink:
 ---
-# International
+# International :earth_americas:
 ## Category
-
-- [Social Platforms and communities](#social-platforms-and-communities)
-- Technology
-  - [Live Transcription Service](#live-rranscription-service)
-  - [Live Captioning System-wide](#live-captioning-system-wide)
-- [Feedback](#feedback)
+- 👨‍👩‍👧‍👦 [Social Platforms and communities](#social-platforms-and-communities)
+- 💻 Technology
+  - 📝 [Live Transcription Service](#live-rranscription-service)
+  - 👁️‍🗨️ [Live Captioning System-wide](#live-captioning-system-wide)
+- ✍️ [Feedback](#feedback)
 
 ## Social Platforms and Communities
-
 - ![kbin](https://kbin.social/favicon.ico){: width="16" } m/deaf on kbin - [kbin.social/m/deaf](https://kbin.social/m/deaf)
 - ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } deaf.group on Mastodon - [deaf.group](https://deaf.group/)
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Cochlear Implant Community on Discord - [discord.com/invite/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3)

@@ -1,30 +1,29 @@
 ---
 layout: default
-title: Canada
+title: "Canada"
 nav_order: 3
 has_children: true
 permalink:
 ---
-# Canada
+# Canada :canada:
 ## Category
-
-- [Organizations](#organizations)
-- Accessibility 
-  - [Interpreting Services](#interpreting-services)
-  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
-  - [Video Relay Services](#video-relay-services)
-  - [IP Relay Services](#ip-relay-services)
-- Education
-    - [Sign Language Dictionaries](#sign-language-dictionaries)
-    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
-  - [Post Secondary Education Programs](#post-secondary-education-programs)
-- Media and Technology 
-  - [News](#news)
-  - [Social Media Sites and Communities](#social-media-sites-and-communities)
-  - [Representation Deaf People and Culture](#representation-deaf-people-and-culture)
-  - [Films](#films)
-  - [TV Shows](#tv-shows)
-- [Feedback](#feedback)
+- 🏢 [Organizations](#organizations)
+- ♿ Accessibility 
+  - 💬 [Interpreting Services](#interpreting-services)
+  - 🦻 [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+  - 📞 [Video Relay Services](#video-relay-services)
+  - 📞 [IP Relay Services](#ip-relay-services)
+- 📖 Education
+    - 👋 [Sign Language Dictionaries](#sign-language-dictionaries)
+    - 🏫 [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+    - 🏫 [Post Secondary Education Programs](#post-secondary-education-programs)
+- 💻 Media and Technology 
+  - 📰 [News](#news)
+  - 👨‍👩‍👧‍👦 [Social Media Sites and Communities](#social-media-sites-and-communities)
+  - 🎭 [Representation Deaf People and Culture](#representation-deaf-people-and-culture)
+  - 🎞️ [Films](#films)
+  - 📺 [TV Shows](#tv-shows)
+- ✍️ [Feedback](#feedback)
 
 ## Organizations
 

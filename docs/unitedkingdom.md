@@ -4,23 +4,21 @@ title: United Kingdom
 nav_order: 8
 permalink:
 ---
-# United Kingdom 
+# United Kingdom :uk:
 ## Category
-
-- [Organizations](#organizations)
-- Accessibility 
-  - [Interpreting Services](#interpreting-services)
-  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
-  - [Video Relay Services](#video-relay-services)
-- Education
-    - [Sign Language Dictionaries](#sign-language-dictionaries)
-    - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
-- Media and Technology 
-  - [Social Media Sites and Communities](#social-media-sites-and-communities)
-- [Feedback](#feedback)
+- 🏢 [Organizations](#organizations)
+- ♿ Accessibility 
+  - 💬 [Interpreting Services](#interpreting-services)
+  - 🦻 [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+  - 📞 [Video Relay Services](#video-relay-services)
+- 📖 Education
+  - 👋 [Sign Language Dictionaries](#sign-language-dictionaries)
+  - 🏫 [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+- 💻 Media and Technology 
+  - 👨‍👩‍👧‍👦 [Social Media Sites and Communities](#social-media-sites-and-communities)
+- ✍️ [Feedback](#feedback)
 
 ## Organizations
-
 - **British Deaf Association** is a significant organization based in the United Kingdom, established in 1890, that has been at the forefront of advocating for the rights, equality, and recognition of the deaf community. As a leading voice, the BDA promotes accessible communication, cultural preservation, and empowerment for deaf individuals. Through its initiatives, campaigns, and support services, the BDA continues to play a vital role in fostering inclusivity and raising awareness about deaf culture and issues in the UK.
   - Founded: 1886
   - Website: [bda.org.uk](https://bda.org.uk/)
@@ -30,7 +28,6 @@ permalink:
 ## Hearing Aid & Cochlear Implant Services
 
 ## Video Relay Services
-
 Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
 
 - **SignLive**
@@ -43,7 +40,6 @@ Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH 
   - Note: this service is for emergency only
 
 ## Sign Language Dictionaries
-
 Current sign language in United Kingdom Deaf Community is **British Sign Language (BSL)**.
 
 | Name | Type | Link | Free/Paid |
@@ -53,7 +49,6 @@ Current sign language in United Kingdom Deaf Community is **British Sign Languag
 | SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Elementary/Secondary/High Schools
-
 - Mary Hare School for the Deaf
   - Founded: 1916
   - Location: Newbury, Berkshire, England
@@ -86,7 +81,6 @@ Current sign language in United Kingdom Deaf Community is **British Sign Languag
   - Location: Birmingham, England
 
 ## Social Media Sites and Communities
-
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } British Sign Language on Discord - [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv)
 
 ## News

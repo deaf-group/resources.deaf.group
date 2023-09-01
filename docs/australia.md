@@ -4,24 +4,22 @@ title: Australia
 nav_order: 2
 permalink:
 ---
-# Australia
+# Australia :australia:
 ## Category
-
-- [Organizations](#organizations)
-- Accessibility 
-  - [Interpreting Services](#interpreting-services)
-  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
-  - [Video Relay Services](#video-relay-services)
-  - [IP Relay Services](#ip-relay-services)
-- Education
-  - [Sign Language Dictionaries](#sign-language-dictionaries)
-  - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)(#post-secondary-education-programs)
-- Media and Technology 
-  - [Social Media Sites and Communities](#social-media-sites-and-communities)
-- [Feedback](#feedback)
+- 🏢 [Organizations](#organizations)
+- ♿ Accessibility 
+  - 💬 [Interpreting Services](#interpreting-services)
+  - 🦻 [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+  - 📞 [Video Relay Services](#video-relay-services)
+  - 📞 [IP Relay Services](#ip-relay-services)
+- 📖 Education
+    - 👋 [Sign Language Dictionaries](#sign-language-dictionaries)
+    - 🏫 [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+- 💻 Media and Technology
+  - 👨‍👩‍👧‍👦 [Social Media Sites and Communities](#social-media-sites-and-communities)
+- ✍️ [Feedback](#feedback)
 
 ## Organizations
-
 - **Deaf Australia** is the leading national advocacy and information organization representing the interests of the deaf and hard-of-hearing community in Australia. Dedicated to advancing the rights, accessibility, and inclusion of deaf individuals, Deaf Australia works tirelessly to raise awareness, provide support, and empower deaf Australians while promoting the recognition and preservation of deaf culture and identity.
   - Location: Northcote, Victoria
   - Founded: 1986 
@@ -56,7 +54,6 @@ permalink:
 ## Interpreting Services
 
 ## Video Relay Services
-
 Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
 
 - National Relay Service (NRS)
@@ -64,7 +61,6 @@ Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH 
   - Platform: Mobile app ([iOS](https://apps.apple.com/au/app/nrs/id1483420984), [Android](https://play.google.com/store/apps/details?id=au.gov.doca.nrs))
 
 ## IP Relay Services
-
 IP relay service is a telecommunications service that allows Deaf/HoH individuals to communicate over the phone by using text-based messages.
 
 - National Relay Service (NRS)
@@ -72,7 +68,6 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
   - Platform: Mobile app ([iOS](https://apps.apple.com/au/app/nrs/id1483420984), [Android](https://play.google.com/store/apps/details?id=au.gov.doca.nrs))
 
 ## Sign Language Dictionaries
-
 Current sign language in Australia Deaf Community is **Auslan**
 
 | Name | Type | Link | Free/Paid |
@@ -81,7 +76,6 @@ Current sign language in Australia Deaf Community is **Auslan**
 | SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Elementary/Secondary/High Schools
-
 - St. Gabriel's School (St. Gabriel's School for Hearing Impaired Children)
   - Founded: 1954
   - Location: Castle Hill, New South Wales
@@ -114,7 +108,6 @@ Current sign language in Australia Deaf Community is **Auslan**
   - Location: Seven Hills, New South Wales
 
 ## Social Media Sites and Communities
-
 - ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Auslan friends! on Discord - [discord.gg/8Ck9hmyMpv](https://discord.com/invite/xU9DhhstMr)
 
 ## Feedback

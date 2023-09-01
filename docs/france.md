@@ -4,18 +4,16 @@ title: France
 nav_order: 4
 permalink:
 ---
-# France
+# France :fr:
 ## Category
-
-- [Organizations](#organizations)
-- Accessibility 
-  - [Interpreting Services](#interpreting-services)
-  - [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
-- Education
-  - [Sign Language Dictionaries](#sign-language-dictionaries)
-  - [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
-- [Feedback](#feedback)
-
+- 🏢 [Organizations](#organizations)
+- ♿ Accessibility 
+  - 💬 [Interpreting Services](#interpreting-services)
+  - 🦻 [Hearing Aid & Cochlear Implant Services](#hearing-aid-&-cochlear-impant-services)
+- 📖 Education
+  - 👋 [Sign Language Dictionaries](#sign-language-dictionaries)
+  - 🏫 [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+- ✍️ [Feedback](#feedback)
 
 ## Organizations
 
