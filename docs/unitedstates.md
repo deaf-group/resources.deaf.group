@@ -1,76 +1,10 @@
-## Country/Region
-
-- [International]({{site.baseurl}}/)
-- [United States]({{site.baseurl}}/unitedstates) **(You are here)**
-- [Canada]({{site.baseurl}}/canada)
-- [Mexico]({{site.baseurl}}/mexico)
-- [United Kingdom]({{site.baseurl}}/unitedkingdom)
-- [France]({{site.baseurl}}/france)
-- [Italy]({{site.baseurl}}/italy)
-- [Australia]({{site.baseurl}}/australia)
-- [Japan]({{site.baseurl}}/japan) 
-
-<details><summary>List of States</summary>
-
-**Under construction!**
-
-  - Alaska
-  - Alabama
-  - Arkansas
-  - American Samoa
-  - Arizona
-  - California
-  - Colorado
-  - Connecticut
-  - District of Columbia
-  - Delaware
-  - Florida
-  - Georgia
-  - Guam
-  - Hawaii
-  - Iowa
-  - Idaho
-  - Illinois
-  - Indiana
-  - Kansas
-  - Kentucky
-  - Louisiana
-  - Massachusetts
-  - Maryland
-  - Maine
-  - Michigan
-  - Minnesota
-  - Missouri
-  - Mississippi
-  - Montana
-  - North Carolina
-  - North Dakota
-  - Nebraska
-  - New Hampshire
-  - New Jersey
-  - New Mexico
-  - Nevada
-  - New York
-  - Ohio
-  - Oklahoma
-  - Oregon
-  - Pennsylvania
-  - Puerto Rico
-  - Rhode Island
-  - South Carolina
-  - South Dakota
-  - Tennessee
-  - Texas
-  - Utah
-  - Virginia
-  - Virgin Islands
-  - Vermont
-  - Washington
-  - Wisconsin
-  - West Virginia
-  - Wyoming
-</details>
-
+---
+layout: default
+title: United States
+nav_order: 9
+has_children: true
+permalink:
+---
 ## Category
 
 - [Organizations](#organizations)

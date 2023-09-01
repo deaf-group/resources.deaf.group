@@ -1,15 +1,9 @@
-## Country/Region
-
-- [International]({{site.baseurl}}/)
-- [United States]({{site.baseurl}}/unitedstates)
-- [Canada]({{site.baseurl}}/canada)
-- [Mexico]({{site.baseurl}}/mexico)
-- [United Kingdom]({{site.baseurl}}/unitedkingdom) **(You are here)**
-- [France]({{site.baseurl}}/france)
-- [Italy]({{site.baseurl}}/italy)
-- [Australia]({{site.baseurl}}/australia)
-- [Japan]({{site.baseurl}}/japan) 
-
+---
+layout: default
+title: United Kingdom
+nav_order: 8
+permalink:
+---
 ## Category
 
 - [Organizations](#organizations)

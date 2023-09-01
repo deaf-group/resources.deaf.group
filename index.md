@@ -4,18 +4,6 @@ title: International
 nav_order: 1
 permalink:
 ---
-## Country/Region
-
-- [International]({{site.baseurl}}/) **(You are here)**
-- [United States]({{site.baseurl}}/unitedstates)
-- [Canada]({{site.baseurl}}/canada)
-- [Mexico]({{site.baseurl}}/mexico)
-- [United Kingdom]({{site.baseurl}}/unitedkingdom)
-- [France]({{site.baseurl}}/france)
-- [Italy]({{site.baseurl}}/italy)
-- [Australia]({{site.baseurl}}/australia)
-- [Japan]({{site.baseurl}}/japan) 
-
 ## Category
 
 - [Social Platforms and communities](#social-platforms-and-communities)

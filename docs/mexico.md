@@ -1,15 +1,9 @@
-## Country/Region
-
-- [International]({{site.baseurl}}/)
-- [United States]({{site.baseurl}}/unitedstates)
-- [Canada]({{site.baseurl}}/canada)
-- [Mexico]({{site.baseurl}}/mexico) **(You are here)**
-- [United Kingdom]({{site.baseurl}}/unitedkingdom)
-- [France]({{site.baseurl}}/france)
-- [Italy]({{site.baseurl}}/italy)
-- [Australia]({{site.baseurl}}/australia)
-- [Japan]({{site.baseurl}}/japan) 
-
+---
+layout: default
+title: Mexico
+nav_order: 7
+permalink:
+---
 ## Category
 
 

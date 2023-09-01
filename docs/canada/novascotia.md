@@ -1,25 +1,9 @@
-## Country/Region
-
-- [International]({{site.baseurl}}/)
-- [United States]({{site.baseurl}}/unitedstates)
-- [Canada]({{site.baseurl}}/canada)
-   - [Alberta]({{site.baseurl}}/canada/alberta)
-   - [British Columbia]({{site.baseurl}}/canada/britishcolumbia)
-   - [Manitoba]({{site.baseurl}}/canada/manitoba)
-   - [New Brunswick]({{site.baseurl}}/canada/newbrunswick)
-   - [Newfoundland and Labrador]({{site.baseurl}}/canada/newfoundlandandlabrador)
-   - [Nova Scotia]({{site.baseurl}}/canada/novascotia) **(You are here)**
-   - [Ontario]({{site.baseurl}}/canada/ontario)
-   - [Prince Edward Island]({{site.baseurl}}/canada/princeedwardisland)
-   - [Québec]({{site.baseurl}}/canada/quebec)
-   - [Saskatchewan]({{site.baseurl}}/canada/saskatchewan)
-- [Mexico]({{site.baseurl}}/mexico)
-- [United Kingdom]({{site.baseurl}}/unitedkingdom)
-- [France]({{site.baseurl}}/france)
-- [Italy]({{site.baseurl}}/italy)
-- [Australia]({{site.baseurl}}/australia)
-- [Japan]({{site.baseurl}}/japan) 
-
+---
+layout: default
+title: "Nova Scotia"
+parent: "Canada"
+permalink:
+---
 ## Category
 
 - [Organizations](#organizations)
