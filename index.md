@@ -1,3 +1,9 @@
+---
+layout: default
+title: International
+nav_order: 1
+permalink:
+---
 ## Country/Region
 
 - [International]({{site.baseurl}}/) **(You are here)**
