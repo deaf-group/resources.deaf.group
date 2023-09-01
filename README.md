@@ -10,4 +10,11 @@ Don't want sign up GitHub? Send suggestion or feedback email at <!-- fsdvwqs -->
 
 - We highly recommended to archive external links with [Archive.org's Wayback Machine](https://archive.org/web/) before you contribute it.
 - No advertising your business, survey, research project, etc...
-- We are using [Markdown](https://en.wikipedia.org/wiki/Markdown) and [Jekyll](https://jekyllrb.com/) to create webpages. Additional HTML and CSS are OK.
+- We are using [Markdown](https://en.wikipedia.org/wiki/Markdown) and [Jekyll](https://jekyllrb.com/)+[Ruby](https://www.ruby-lang.org/) to create webpages. Additional HTML and CSS are OK.
+- We highly recommended to test website in local server before commit.
+
+## Testing website in local server
+1. Download and install [Ruby](https://www.ruby-lang.org/en/downloads/)
+2. Clone this repo
+3. Open terminal and run `bundle` to set up stuffs for first time
+4. Run local server with `bundle exec jekyll serve`
