@@ -2,7 +2,7 @@
 layout: default
 title: Australia
 nav_order: 2
-permalink:
+permalink: australia
 ---
 # Australia :australia:
 ## Category

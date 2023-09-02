@@ -2,7 +2,6 @@
 layout: default
 title: Landing Page
 nav_order: 0
-permalink:
 ---
 # Welcome!
 ## What is this place?

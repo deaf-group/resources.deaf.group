@@ -2,7 +2,7 @@
 layout: default
 title: "Prince Edward Island"
 parent: "Canada"
-permalink:
+permalink: canada/princeedwardisland
 ---
 # Prince Edward Island
 ## Category

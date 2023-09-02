@@ -2,7 +2,7 @@
 layout: default
 title: "Québec"
 parent: "Canada"
-permalink:
+permalink: canada/quebec
 ---
 # Québec
 ## Category

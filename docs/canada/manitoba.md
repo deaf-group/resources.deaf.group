@@ -2,7 +2,7 @@
 layout: default
 title: "Manitoba"
 parent: "Canada"
-permalink:
+permalink: canada/manitoba
 ---
 # Manitoba
 ## Category

@@ -2,7 +2,7 @@
 layout: default
 title: "British Columbia"
 parent: "Canada"
-permalink:
+permalink: canada/britishcolumbia
 ---
 # British Columbia
 ## Category

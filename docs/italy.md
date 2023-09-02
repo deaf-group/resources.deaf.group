@@ -2,7 +2,7 @@
 layout: default
 title: Italy
 nav_order: 5
-permalink:
+permalink: italy
 ---
 # Italy :it:
 ## Category

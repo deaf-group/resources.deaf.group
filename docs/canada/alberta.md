@@ -2,7 +2,7 @@
 layout: default
 title: "Alberta"
 parent: "Canada"
-permalink:
+permalink: canada/alberta
 ---
 # Alberta
 ## Category

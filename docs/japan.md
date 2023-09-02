@@ -2,7 +2,7 @@
 layout: default
 title: Japan
 nav_order: 6
-permalink:
+permalink: japan
 ---
 # Japan :jp:
 ## Category

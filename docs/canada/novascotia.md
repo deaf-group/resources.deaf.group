@@ -2,7 +2,7 @@
 layout: default
 title: "Nova Scotia"
 parent: "Canada"
-permalink:
+permalink: canada/novascotia
 ---
 # Nova Scotia
 ## Category

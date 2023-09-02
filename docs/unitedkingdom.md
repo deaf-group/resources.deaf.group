@@ -2,7 +2,7 @@
 layout: default
 title: United Kingdom
 nav_order: 8
-permalink:
+permalink: unitedkingdom
 ---
 # United Kingdom :uk:
 ## Category

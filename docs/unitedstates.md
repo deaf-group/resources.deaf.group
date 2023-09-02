@@ -3,7 +3,7 @@ layout: default
 title: United States
 nav_order: 9
 has_children: true
-permalink:
+permalink: unitedstates
 ---
 # United States :us:
 - 🏢 [Organizations](#organizations)

@@ -2,7 +2,7 @@
 layout: default
 title: France
 nav_order: 4
-permalink:
+permalink: france
 ---
 # France :fr:
 ## Category

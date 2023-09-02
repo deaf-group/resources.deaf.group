@@ -2,7 +2,7 @@
 layout: default
 title: "New Brunswick"
 parent: "Canada"
-permalink:
+permalink: canada/newbrunswick
 ---
 # New Brunswick
 ## Category

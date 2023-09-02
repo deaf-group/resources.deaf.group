@@ -3,7 +3,7 @@ layout: default
 title: "Canada"
 nav_order: 3
 has_children: true
-permalink:
+permalink: canada
 ---
 # Canada :canada:
 ## Category

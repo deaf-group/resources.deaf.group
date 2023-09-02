@@ -2,7 +2,7 @@
 layout: default
 title: "Ontario"
 parent: "Canada"
-permalink:
+permalink: canada/ontario
 ---
 # Ontario
 ## Category

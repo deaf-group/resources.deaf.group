@@ -2,7 +2,7 @@
 layout: default
 title: International
 nav_order: 1
-permalink:
+permalink: international
 ---
 # International :earth_americas:
 ## Category

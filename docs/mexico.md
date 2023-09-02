@@ -2,7 +2,7 @@
 layout: default
 title: Mexico
 nav_order: 7
-permalink:
+permalink: mexico
 ---
 # Mexico :mexico:
 ## Category
