@@ -54,8 +54,7 @@ ReQIS is currently maintaining list of interpreting services in Québec. They of
 
 ## Elementary/Secondary/High Schools
 
-- ~~Mackay Centre (Known as MacKay School for the Deaf)~~ 🤝**Merged with Philip E. Layton School**
-  - ~~Founded: 1964~~
+- ~~Mackay Centre (Known as MacKay School for the Deaf)~~ **Merged with Philip E. Layton School**{: .label .label-green } 
   - ~~Location: Montréal, Québec~~
 - **Mackay Centre & Philip E. Layton School:** Empowering Voices, Enriching Journeys. Committed to empowering students with communication challenges through specialized education, enabling them to embark on enriching journeys of growth and self-discovery.
   - Founded: 2018

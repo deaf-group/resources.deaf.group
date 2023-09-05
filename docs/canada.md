@@ -34,7 +34,7 @@ permalink: canada
 
 ## Sign Language Dictionaries
 
-- Current sign language in Canada Deaf Community is **American Sign Language (ASL)**.
+- Current sign language in Canada Deaf Community is **American Sign Language (ASL)**. 
 - Current sign language in Quebec Deaf Community is **Quebec Sign Language**.
   - In French, **Langue des signes québécoise (LSQ)**.
 
@@ -57,7 +57,7 @@ permalink: canada
 - Ernest C. Drury School for the Deaf
   - Founded: 1972
   - Location: Milton, Ontario
-- ~~Mackay Centre (Known as MacKay School for the Deaf)~~ 🤝**Merged with Philip E. Layton School**
+- ~~Mackay Centre (Known as MacKay School for the Deaf)~~ **Merged with Philip E. Layton School**{: .label .label-green } 
   - ~~Founded: 1964~~
   - ~~Location: Montréal, Québec~~
 - Mackay Centre & Philip E. Layton School
@@ -66,10 +66,10 @@ permalink: canada
 - Manitoba School for the Deaf
   - Founded: 1888
   - Location: Winnipeg, Manitoba
-- ~~Newfoundland School for the Deaf~~ 🚪**Permanently closed**
+- ~~Newfoundland School for the Deaf~~ **Permanently closed**{: .label .label-red } 
   - ~~Founded: 1954~~
   - ~~Location: St. John's, Newfoundland and Labrador~~
-- ~~Nova Scotia School for the Deaf~~ 🚪**Permanently closed**
+- ~~Nova Scotia School for the Deaf~~ **Permanently closed**{: .label .label-red } 
   - ~~Founded: 1949~~
   - ~~Location: Halifax, Nova Scotia~~
 - Robarts School for the Deaf

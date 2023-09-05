@@ -22,6 +22,6 @@ permalink: canada/newfoundlandandlabrador
 
 ## Elementary/Secondary/High Schools
 
-- ~~Newfoundland School for the Deaf~~ 🚪**Permanently closed**
+- ~~Newfoundland School for the Deaf~~  **Permanently closed**{: .label .label-red } 
   - ~~Founded: 1954~~
   - ~~Location: St. John's, Newfoundland and Labrador~~
