@@ -52,32 +52,32 @@ permalink: japan
 
 
 ## Elementary/Secondary/High Schools
-- Tsukuba School for the Deaf ❓**Need more info**
+- Tsukuba School for the Deaf **Need more info**{: .label }
   - Founded: 1878
   - Location: Tsukuba, Ibaraki Prefecture
   - Website: N/A
 
-- Fukuoka School for the Deaf ❓**Need more info**
+- Fukuoka School for the Deaf **Need more info**{: .label }
   - Founded: 1900
   - Location: Fukuoka, Fukuoka Prefecture
   - Website: N/A
 
-- Osaka School for the Deaf ❓**Need more info**
+- Osaka School for the Deaf **Need more info**{: .label }
   - Founded: 1896
   - Location: Osaka, Osaka Prefecture
   - Website: N/A
 
-- Tokyo School for the Deaf ❓**Need more info**
+- Tokyo School for the Deaf **Need more info**{: .label }
   - Founded: 1878
   - Location: Tokyo
   - Website: N/A
 
-- Hiroshima Prefectural School for the Deaf ❓**Need more info**
+- Hiroshima Prefectural School for the Deaf **Need more info**{: .label }
   - Founded: 1948
   - Location: Hiroshima, Hiroshima Prefecture
   - Website: N/A
 
-- Sendai School for the Deaf ❓**Need more info**
+- Sendai School for the Deaf **Need more info**{: .label }
   - Founded: 1903
   - Location: Sendai, Miyagi Prefecture
   - Website: N/A
@@ -87,22 +87,22 @@ permalink: japan
   - Location: Tokyo
   - Website: [www.meisei-gakuen.jp](https://www.meisei-gakuen.jp/en/)
 
-- Nagoya School for the Deaf ❓**Need more info**
+- Nagoya School for the Deaf **Need more info**{: .label }
   - Founded: 1878
   - Location: Nagoya, Aichi Prefecture
   - Website: N/A
 
-- Kyoto School for the Deaf ❓**Need more info**
+- Kyoto School for the Deaf **Need more info**{: .label }
   - Founded: 1903
   - Location: Kyoto, Kyoto Prefecture
   - Website: N/A
 
-- Sapporo School for the Deaf ❓**Need more info**
+- Sapporo School for the Deaf **Need more info**{: .label }
   - Founded: 1883
   - Location: Sapporo, Hokkaido
   - Website: N/A
 
-- Okinawa School for the Deaf ❓**Need more info**
+- Okinawa School for the Deaf **Need more info**{: .label }
   - Founded: 1951
   - Location: Okinawa City, Okinawa Prefecture
   - Website: N/A
