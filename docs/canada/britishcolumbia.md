@@ -26,7 +26,3 @@ permalink: canada/britishcolumbia
 Note: VRI is stand for Video Remote Interpreting.
 
 ## Hearing Aid & Cochlear Implant Services
-
-
-## Feedback
-Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

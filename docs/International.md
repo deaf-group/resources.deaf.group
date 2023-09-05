@@ -42,7 +42,3 @@ permalink: international
 | ChromeOS | Yes | Settings  and then Accessibility | Google Cloud (AI) | [support.google.com](https://support.google.com/chromebook/answer/10616170?hl=en) |
 
 ### Guides
-
-
-## Feedback
-Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

@@ -97,6 +97,3 @@ Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH 
   - Founded: 1949
   - Location: Catania, Italy
   - Website: ~~[istitutodeafirenze.it](https://www.istitutodeafirenze.it/)~~
-
-## Feedback
-Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

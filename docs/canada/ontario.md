@@ -71,7 +71,3 @@ Note: VRI is stand for Video Remote Interpreting.
   - Email: [deafupgrading@georgebrown.ca](mailto:deafupgrading@georgebrown.ca)
 
 **Important Note:** Government-funded program do not accept international student unless you are Canadian citizen, permanent resident, or protected person in Canada (with notice of decision).
-
-
-## Feedback
-Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).

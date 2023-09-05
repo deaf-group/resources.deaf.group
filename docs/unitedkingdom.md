@@ -88,6 +88,3 @@ Current sign language in United Kingdom Deaf Community is **British Sign Languag
 | Name | Description | Link |
 |------|-------------|------|
 | British Deaf News | Amplifying Deaf Voices, Sharing Deaf Stories. Dedicated to providing a platform for the British deaf community, our news outlet amplifies their voices and shares their stories, promoting awareness, understanding, and inclusion. | [Website](https://www.britishdeafnews.co.uk/), [Facebook](https://www.facebook.com/BritishDeafNews) |
-
-## Feedback
-Got feedback or suggestion? Please send at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group or create issue/pull requests on [our GitHub repository](https://github.com/BatteryDie/resources.deaf.group).
