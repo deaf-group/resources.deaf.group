@@ -16,6 +16,7 @@ Don't want sign up GitHub? Send suggestion or feedback email at <!-- fsdvwqs -->
 - [jekyll](https://github.com/jekyll/jekyll) 4.3.2 or newer
 - [just-the-docs](https://github.com/just-the-docs/just-the-docs) 0.6.1
 - [jemoji](https://github.com/jekyll/jemoji) latest
+- [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) latest
 
 ## Testing website in local server
 1. Download and install [Ruby](https://www.ruby-lang.org/en/downloads/)

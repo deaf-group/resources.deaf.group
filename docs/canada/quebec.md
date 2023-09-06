@@ -56,23 +56,19 @@ ReQIS is currently maintaining list of interpreting services in Québec. They of
 
 - ~~Mackay Centre (Known as MacKay School for the Deaf)~~ **Merged with Philip E. Layton School**{: .label .label-green } 
   - ~~Location: Montréal, Québec~~
-- **Mackay Centre & Philip E. Layton School:** Empowering Voices, Enriching Journeys. Committed to empowering students with communication challenges through specialized education, enabling them to embark on enriching journeys of growth and self-discovery.
+- **Mackay Centre & Philip E. Layton School**: Empowering Voices, Enriching Journeys. Committed to empowering students with communication challenges through specialized education, enabling them to embark on enriching journeys of growth and self-discovery.
   - Founded: 2018
-  - Location: Montréal, Québec
+  - Location: [Montréal, Québec](https://www.google.com/maps/dir//Mackay+Centre+and+Philip+E.+Layton+Schools,+6333+Rue+de+Terrebonne,+Montreal,+Quebec+H4B+1A8/)
   - Website: [mackaypel.emsb.qc.ca](http://mackaypel.emsb.qc.ca/)
 - **Institut Raymond-Dewar**: Empowering Through Communication and Knowledge. Our institute is dedicated to empowering the deaf and hard of hearing community by fostering effective communication and providing valuable knowledge, fostering personal growth and societal inclusion.
   - Founded: 2019
-  - Location: Montreal, Quebec
+  - Location: [Montreal, Quebec](https://www.google.com/maps/dir//Institut+Raymond-Dewar/)
   - Website: [fondationrea.ca](https://fondationrea.ca/institut-raymond-dewar/?lang=en)
 - **École oraliste de Québec**: Fostering Speech, Broadening Horizons. Proudly an oral school, we focus on nurturing the speech and language skills of hearing-impaired students, opening doors to a world of expanded possibilities.
   - Founded: 2002
-  - Location: Quebec City, Quebec
+  - Location: [Québec City, Québec](https://www.google.com/maps/dir//%C3%89cole+oraliste+de+Qu%C3%A9bec/)
   - Website: [ecoleoraliste.qc.ca](https://www.ecoleoraliste.qc.ca/)
-- **Montreal Oral School for the Deaf, Inc. (École orale de Montréal pour les sourds):**: Empowering Voices, Shaping Futures. At our school, we prioritize the development of speech and language skills in deaf students, equipping them with the tools to shape their own successful and promising futures. (École orale de Montréal pour les sourds)
+- **Montreal Oral School for the Deaf, Inc. (École orale de Montréal pour les sourds)**: Empowering Voices, Shaping Futures. At our school, we prioritize the development of speech and language skills in deaf students, equipping them with the tools to shape their own successful and promising futures. (École orale de Montréal pour les sourds)
   - Founded: 1950
-  - Location: Westmount (Montreal), Quebec
+  - Location: [Westmount (Montréal), Québec](https://www.google.com/maps/dir//Montreal+Oral+School+for+the+Deaf,+Inc/)
   - Website: [montrealoralschool.com/](https://montrealoralschool.com/)
-- **École oraliste de Laval**: Where Speech Unlocks Horizons. As an oral school, we are committed to equipping hearing-impaired students with essential speech and communication skills, paving the way for limitless horizons and opportunities.
-  - Founded: 2002
-  - Location: Laval, Quebec
-  - Website: [csslaval.gouv.qc.ca](https://csslaval.gouv.qc.ca/project/nouvelle-ecole-secondaire/)
