@@ -6,4 +6,5 @@ url: https://resources.deaf.group
 theme: just-the-docs
 
 plugins:
+  - jekyll-seo-tag
   - jemoji
