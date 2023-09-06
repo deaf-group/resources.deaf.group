@@ -51,7 +51,7 @@ permalink: canada
 | Name | Location | Language | Link/Note |
 |------|----------|----------|-----------|
 | Alberta School for the Deaf | [Edmonton, Alberta](https://www.google.com/maps/dir//Alberta+School+for+the+Deaf/) | English, ASL | [Website](https://asd.epsb.ca/) |
-| British Columbia Provincial School for the Deaf | [Burnaby, British Columbia](https://www.google.com/maps/dir//British+Columbia+Provincial+School+for+the+Deaf/ | English, ASL | [Website](https://bcsd.burnabyschools.ca/) |
+| British Columbia Provincial School for the Deaf | [Burnaby, British Columbia](https://www.google.com/maps/dir//British+Columbia+Provincial+School+for+the+Deaf/) | English, ASL | [Website](https://bcsd.burnabyschools.ca/) |
 | École oraliste de Québec | [Québec City, Québec](https://www.google.com/maps/dir//%C3%89cole+oraliste+de+Qu%C3%A9bec/) | French, Oral | [Website](https://www.ecoleoraliste.qc.ca/) |
 | Ernest C. Drury School for the Deaf | [Milton, Ontario](https://www.google.com/maps/dir//Ernest+C.+Drury+School+for+the+Deaf/) | English, ASL | [Website](https://ecd.pdsbnet.ca/), [TwitterX](https://twitter.com/ecdelementary) |
 | ~~Mackay Centre (Known as MacKay School for the Deaf)~~  | ~~Montréal, Québec~~ | ~~English, ASL~~ | **Permanently closed**{: .label .label-red } |
@@ -63,7 +63,7 @@ permalink: canada
 | ~~Nova Scotia School for the Deaf~~ | ~~Halifax, Nova Scotia~~ | ~~English, ASL~~ | **Permanently closed**{: .label .label-red } |
 | Robarts School for the Deaf | [London, Ontario](https://www.google.com/maps/dir//Robarts+School+for+the+Deaf/) | English, ASL | [Website](https://rob.pdsbnet.ca/) |
 | Saskatchewan School for the Deaf | [Saskatoon, Saskatchewan](https://www.google.com/maps/dir//Saskatchewan+Deaf+%26+Hard+Of+Hearing+Services+(SDHHS)) | English, ASL | [Website](https://sdhhs.com/) |
-| Sir James Whitney School for the Deaf | [Belleville, Ontario](https://www.google.com/maps/dir//Sir+James+Whitney+School+for+the+Deaf) |
+| Sir James Whitney School for the Deaf | [Belleville, Ontario](https://www.google.com/maps/dir//Sir+James+Whitney+School+for+the+Deaf) | English, ASL | [Website](https://sjw.pdsbnet.ca/), [TwitterX](https://twitter.com/SirJamesWhitney) |
 
 To see detail of the school, please visit province page on the sidebar.
 

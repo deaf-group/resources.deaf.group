@@ -30,14 +30,12 @@ permalink: unitedkingdom
 ## Video Relay Services
 Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
 
-- **SignLive**
-  - Official Website: [signlive.co.uk](https://signlive.co.uk)
-  - Platform: Mobile app ([iOS](https://apps.apple.com/gb/app/signlive-2-0/id1545172283), [Android](https://play.google.com/store/apps/details?id=com.convo.vriapp&hl=en_GB&gl=US)) and Desktop web ([Link](https://pegasusuk-prod.convorelay.com/UserWebApp/login))
+| Name | Platform | Signup |
+|------|----------|--------|
+| SignLive | [iOS](https://apps.apple.com/gb/app/signlive-2-0/id1545172283), [Android](https://play.google.com/store/apps/details?id=com.convo.vriapp&hl=en_GB&gl=US), [Web](https://pegasusuk-prod.convorelay.com/UserWebApp/login) | [signlive.co.uk](https://signlive.co.uk) |
+| 999 BSL | [iOS](https://apps.apple.com/gb/app/999-bsl/id1609981468), [Android](https://play.google.com/store/apps/details?id=com.sorenson.sli.bsl999) | [999bsl.co.uk](https://999bsl.co.uk/) |
 
-- **999 BSL**
-  - Official Website: [999bsl.co.uk](https://999bsl.co.uk/)
-  - Platform: Mobile app ([iOS](https://apps.apple.com/gb/app/999-bsl/id1609981468), [Android](https://play.google.com/store/apps/details?id=com.sorenson.sli.bsl999))
-  - Note: this service is for emergency only
+Note: 999 BSL service is for emergency only.
 
 ## Sign Language Dictionaries
 Current sign language in United Kingdom Deaf Community is **British Sign Language (BSL)**.
