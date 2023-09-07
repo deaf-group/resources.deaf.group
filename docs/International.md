@@ -14,12 +14,16 @@ permalink: international
 
 ## Social Platforms and Communities
 
-| Name  | Platforms |
-| m/deaf | ![kbin](../assets/images/icons/kbin.svg){: width="18" } [kbin.social/m/deaf](https://kbin.social/m/deaf) |
-| deaf.group | ![Mastodon](../assets/images/icons/mastodon.svg){: width="18" } [deaf.group](https://deaf.group/) |
-| Cochlear Implant Community | ![Discord](../assets/images/icons/discord.svg){: width="18" } [discord.gg/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3) |
-| Deafcord | ![Discord](../assets/images/icons/discord.svg){: width="18" } [discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT) |
+| Name | Platforms |
+|------|-----------|
 | alldeaf | ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="18" } [alldeaf.com/community](https://www.alldeaf.com/community) |
+| Cochlear Implant Community | ![Discord](../assets/images/icons/discord.svg){: width="18" } [discord.gg/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3) |
+| deaf.group | ![Mastodon](../assets/images/icons/mastodon.svg){: width="18" } [deaf.group](https://deaf.group/) |
+| Deafcord | ![Discord](../assets/images/icons/discord.svg){: width="18" } [discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT) |
+| Hearing Aid Talk | ![hearingaidtalk](https://www.hearingaidtalk.com/favicon.ico){: width="18" } [hearingaidtalk.com/community/](https://www.hearingaidtalk.com/community/) |
+| HearingTracker | ![hearingaidtalk](https://forum.hearingtracker.com/uploads/default/optimized/2X/a/a3fa2fa2253f7b326aaf1c823db9e853089e3b16_2_32x32.png){: width="18" } [forum.hearingtracker.com](https://forum.hearingtracker.com/) |
+| m/deaf | ![kbin](../assets/images/icons/kbin.svg){: width="18" } [kbin.social/m/deaf](https://kbin.social/m/deaf) |
+
 
 ## Live Transcription Service
 
@@ -35,12 +39,12 @@ permalink: international
 
 | OS | Built-in? | Where? | Powered by | Info Link |
 |----|-----------|--------|------------|-----------|
-| Windows | Yes |  On Windows 11 or newer: Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
+| Android | No | On Android 5 or newer: Download [Live Transcribe app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
+| ChromeOS | Yes | Settings  and then Accessibility | Google Cloud (AI) | [support.google.com](https://support.google.com/chromebook/answer/10616170?hl=en) |
 | iOS | Yes | On iOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/iphone/iphe0990f7bb/ios) |
 | iPadOS | Yes | On iPadOS 16 or newer: Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/ipad/ipad0bbca12e/ipadoss) |
-| macOS | Yes | On macOS 13 or newer: System Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/mac-help/mchldd11f4fd/mac) |
-| Android | No | On Android 5 or newer: Download [Live Transcribe app at Google Play](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) | Google Cloud (AI) | [android.com](https://www.android.com/accessibility/live-transcribe/) |
 | Linux | No | On any Linux with flatpak: Download [Live Captions app at Flathub](https://flathub.org/apps/net.sapples.LiveCaptions) | Your own computer in offline! | [GitHub Repo](https://github.com/abb128/LiveCaptions) |
-| ChromeOS | Yes | Settings  and then Accessibility | Google Cloud (AI) | [support.google.com](https://support.google.com/chromebook/answer/10616170?hl=en) |
+| macOS | Yes | On macOS 13 or newer: System Settings > Accessibility > Live Captions (Beta) | Unknown | [support.apple.com](https://support.apple.com/en-ca/guide/mac-help/mchldd11f4fd/mac) |
+| Windows | Yes |  On Windows 11 or newer: Settings > Accessibility > Captions | Azure AI | [support.microsoft.com](https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions) |
 
 ### Guides
