@@ -75,6 +75,7 @@ Current sign language in United States Deaf Community is **American Sign Languag
 | Florida School for the Deaf and the Blind (FSDB) | [St. Augustine, Florida](https://www.google.com/maps/dir/43.4700288,-79.6950528/Florida+School+for+the+Deaf+and+the+Blind+(FSDB),+San+Marco+Avenue,+St.+Augustine,+FL,+USA) | Sign | [Website](https://www.fsdbk12.org/), [Facebook](https://www.facebook.com/FSDBK12/), [TwitterX](https://twitter.com/fsdbk12), [YouTube](https://www.youtube.com/fsdbk12) |
 | Oregon School for the Deaf (OSD) | [Salem, Oregon](https://www.google.com/maps/dir/43.4700288,-79.6950528/Oregon+School+for+the+Deaf,+Locust+Street+Northeast,+Salem,+OR,+USA) | Sign | [Website](https://www.oregon.gov/osd/pages/default.aspx), [YouTube](https://www.youtube.com/channel/UC5pEK6jJwx_JoZXhEsGPnJQ), [Facebook](https://www.facebook.com/people/Oregon-School-for-the-Deaf/100063453049560/) |
 
+{: .note }
 To see detail of the school, please visit state page on the sidebar.
 
 ## Post Secondary Education Programs

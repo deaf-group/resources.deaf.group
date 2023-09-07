@@ -68,6 +68,7 @@ permalink: canada
 | Saskatchewan School for the Deaf | [Saskatoon, Saskatchewan](https://www.google.com/maps/dir//Saskatchewan+Deaf+%26+Hard+Of+Hearing+Services+(SDHHS)) | English, ASL | [Website](https://sdhhs.com/) |
 | Sir James Whitney School for the Deaf | [Belleville, Ontario](https://www.google.com/maps/dir//Sir+James+Whitney+School+for+the+Deaf) | English, ASL | [Website](https://sjw.pdsbnet.ca/), [TwitterX](https://twitter.com/SirJamesWhitney) |
 
+{: .note }
 To see detail of the school, please visit province page on the sidebar.
 
 ## Post Secondary Education Programs
@@ -77,9 +78,11 @@ To see detail of the school, please visit province page on the sidebar.
 | Academic Upgrading Program for Deaf and Hard of Hearing Adults at George Brown College | [Toronto, Ontario](https://www.google.com/maps/place/George+Brown+College+-+St.+James+Campus+-+A+Building/) | English, ASL | Govt-funded Upgrade Program | [georgebrown.ca](https://www.georgebrown.ca/programs/academic-upgrading-program-for-deaf-and-hard-of-hearing-adults-program-a752) |
 | Deaf Empowerment Program at Mohawk College | [Hamilton, Ontario](https://www.google.com/maps/place/Mohawk+College/) | English, ASL | Govt-funded Upgrade Program | [mohawkcollege.ca](https://www.mohawkcollege.ca/programs/get-prepared-for-college/academic-upgrading/deaf-empowerment-program) |
 
+{: .note }
 To see detail of the school, please visit province page on the sidebar.
 
-**Important Note:** Government-funded program do not accept international student unless you are Canadian citizen, permanent resident, or protected person in Canada (with notice of decision).
+{: .important }
+Government-funded program do not accept international student unless you are Canadian citizen, permanent resident, or protected person in Canada (with notice of decision).
 
 ## Video Relay Services
 
@@ -109,10 +112,11 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 | Telus IP Relay | [Web](https://iprelay.telus.net/login/#/), [iOS](https://apps.apple.com/ca/app/telus-ip-relay/id1465636117), [Android](https://play.google.com/store/apps/details?id=com.telus.iprelay) | [iprelay.telus.net](https://iprelay.telus.net/register#/) |
 | Videotron IP Relay | [Web](https://iprelay.videotron.com/login/#/), [iOS](https://apps.apple.com/ca/app/vid%C3%A9otron-ip-relay/id1489766812), [Android](https://play.google.com/store/apps/details?id=com.videotron.iprelay) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
 
+{: .remember }
+Fido and Rogers are using same service on [iprelayservice.net](https://iprelayservice.net/login/#/) and they did not re-brand it.
 
-**Note:** Fido and Rogers are using same service on [iprelayservice.net](https://iprelayservice.net/login/#/) and they did not re-brand it.
-
-**Super Important Note:** All of IP Relay services are running by one company called [viiz Communications](https://viiz.com/) **There are no actual competitors!** Also, they provied their [stock and custom-brand apps for IP relay service](https://apps.apple.com/ca/developer/viiz-communications-canada-inc/id1411486002?see-all=i-phonei-pad-apps) on iOS and Android device but they are poorly optimized on modern phone and tablet and not following system-wide accessibility (size and screen reader) and modern standard design.
+{: .important }
+All of IP Relay services are running by one company called [viiz Communications](https://viiz.com/) **There are no actual competitors!** Also, they provied their [stock and custom-brand apps for IP relay service](https://apps.apple.com/ca/developer/viiz-communications-canada-inc/id1411486002?see-all=i-phonei-pad-apps) on iOS and Android device but they are poorly optimized on modern phone and tablet and not following system-wide accessibility (size and screen reader) and modern standard design.
 
 ## News
 

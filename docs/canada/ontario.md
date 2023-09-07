@@ -38,7 +38,8 @@ permalink: canada/ontario
 | CHS Interpreting Services | ASL, LSQ | Southern Ontario, VRI | [chs.ca](https://www.chs.ca/service/chs-interpreting-services) |
 | Asign (SLIAO) | ASL | Ottawa, VRI | [asign.ca](https://asign.ca/) |
 
-Note: VRI is stand for Video Remote Interpreting.
+{: .remember }
+VRI is stand for Video Remote Interpreting.
 
 ## Hearing Aid & Cochlear Implant Services
 
@@ -75,4 +76,5 @@ Note: VRI is stand for Video Remote Interpreting.
   - Website: [georgebrown.ca](https://www.georgebrown.ca/programs/academic-upgrading-program-for-deaf-and-hard-of-hearing-adults-program-a752)
   - Email: [deafupgrading@georgebrown.ca](mailto:deafupgrading@georgebrown.ca)
 
-**Important Note:** Government-funded program do not accept international student unless you are Canadian citizen, permanent resident, or protected person in Canada (with notice of decision).
+{: .important }
+Government-funded program do not accept international student unless you are Canadian citizen, permanent resident, or protected person in Canada (with notice of decision).

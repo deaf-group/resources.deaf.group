@@ -8,3 +8,17 @@ theme: just-the-docs
 plugins:
   - jekyll-seo-tag
   - jemoji
+
+callouts:
+  remember:
+    title: Remember this
+    color: green
+  note:
+    title: Note
+    color: green
+  important:
+    title: Important!
+    color: blue
+  attention:
+    title: Attention!
+    color: red
