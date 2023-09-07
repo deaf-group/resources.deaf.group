@@ -34,21 +34,21 @@ permalink: unitedstates
 
 Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH individuals to communicate with others over the phone by using sign language interpreters via video calls.
 
-| Company | Access Service on | Signup Service at |
-|---------|-------------------|-------------------|
-| ZVRS | In-App | [zvrs.com](https://www.zvrs.com/registration/) |
-| Purple | In-App | [account.purplevrs.com](https://account.purplevrs.com/) |
-| Convo | In-App and [Website](https://login.convo.io/) | [convorelay.com](https://convorelay.com/signup/) |
-| Sorenson | In-App | [sorenson.com](https://sorenson.com/solutions/video-relay-services/#signup) |
+| Company | Platform | Signup |
+|---------|----------|--------|
+| ZVRS | [iOS](https://geo.itunes.apple.com/us/app/z5-mobile/id415488663?mt=8), [Android](https://play.google.com/store/apps/details?id=com.zvrs.z5mobile), [macOS](https://itunes.apple.com/us/app/z5-desktop/id1406937479?ls=1&mt=12), [Windows](https://www.zvrs.com/services/products3/z5/) | [zvrs.com](https://www.zvrs.com/registration/) |
+| Purple | [iOS](https://apps.apple.com/us/app/p3-mobile/id432523572), [Android](https://play.google.com/store/apps/details?id=us.purple.purplevri&hl=en_US&gl=US), [macOS](https://purplevrs.com/p3macappstore), [Windows](https://www.purplevrs.com/download/pc/) | [account.purplevrs.com](https://account.purplevrs.com/) |
+| Convo | [Web](https://login.convo.io/), [iOS](https://apps.apple.com/us/app/convo-vrs/id423121946), [Android](https://play.google.com/store/apps/details?id=com.convorelay.convomobile&hl=en_CA&gl=US), [macOS](https://convorelay.com/macos/), [Windows](https://convorelay.com/windows/) | [convorelay.com](https://convorelay.com/signup/) |
+| Sorenson | [iOS](https://apps.apple.com/us/app/ntouch/id441554954), [Android](https://play.google.com/store/apps/details?id=com.sorenson.mvrs.android&hl=en), [macOS](https://sorenson.com/vrs/ntouch/), [Windows](https://sorenson.com/vrs/ntouch/) | [sorenson.com](https://sorenson.com/solutions/video-relay-services/#signup) |
 
 ## IP Relay Services
 
 IP relay service is a telecommunications service that allows Deaf/HoH individuals to communicate over the phone by using text-based messages.
 
-| Company | Access Service on | Signup Service at |
-|---------|-------------------|-------------------|
-| Sprint IP Relay | [sprintip.com](http://www.sprintip.com/) | [sprintip.com](http://www.sprintip.com/) |
-| T-Mobile IP Relay | [tmobileip.com](https://tmobileip.com/auth/login) | [tmobileiprelay.com](https://tmobileiprelay.com/Registration) |
+| Company | Platform | Signup |
+|---------|----------|--------|
+| Sprint IP Relay | [Web](http://www.sprintip.com/) | [sprintip.com](http://www.sprintip.com/) |
+| T-Mobile IP Relay | [Web](https://tmobileip.com/auth/login) | [tmobileiprelay.com](https://tmobileiprelay.com/Registration) |
 
 ## Sign Language Dictionaries
 
@@ -60,33 +60,22 @@ Current sign language in United States Deaf Community is **American Sign Languag
 | SignASL.org | Video |  [signasl.org](https://www.signasl.org/) | Free |
 | Lifeprint | Video | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) | Free |
 | SpreadTheSign | Video |  [spreadthesign.com](https://www.spreadthesign.com/) | Free |
+| ASL THAT! | Video | [facebook.com](https://www.facebook.com/groups/ASLTHAT/) | Free |
 
 ## Elementary/Secondary/High Schools
 
-- American School for the Deaf (ASD)
-  - Founded: April 15, 1817
-  - Location: West Hartford, Connecticut
-- California School for the Deaf, Berkeley (CSD)
-  - Founded: 1860
-  - Location: Berkeley, California
-- Texas School for the Deaf (TSD)
-  - Founded: 1856
-  - Location: Austin, Texas
-- Indiana School for the Deaf (ISD)
-  - Founded: 1843
-  - Location: Indianapolis, Indiana
-- New York School for the Deaf (Fanwood)
-  - Founded: 1817
-  - Location: White Plains, New York
-- Maryland School for the Deaf (MSD)
-  - Founded: 1868
-  - Location: Frederick and Columbia, Maryland
-- Florida School for the Deaf and the Blind (FSDB)
-  - Founded: 1885
-  - Location: St. Augustine, Florida
-- Oregon School for the Deaf (OSD)
-  - Founded: 1870
-  - Location: Salem, Oregon
+| Name | Location | Sign/Oral | Link/Note |
+|------|----------|----------|-----------|
+| American School for the Deaf (ASD) | [West Hartford, Connecticut](https://www.google.com/maps/dir/43.4700288,-79.6950528/American+School+for+the+Deaf+(ASD)) | Sign | [Website](https://www.asd-1817.org/) |
+| California School for the Deaf (CSD) | [Fremont, California](https://www.google.com/maps/place/California+School+for+the+Deaf+-+Fremont/) | Sign | [Website](https://www.csdeagles.com/) |
+| Texas School for the Deaf (TSD) | [Austin, Texas](https://www.google.com/maps/dir//Texas+School+for+the+Deaf,+1102+S+Congress+Ave,+Austin,+TX+78704,+United+States) | Sign | [Website](https://www.tsd.state.tx.us/) |
+| Indiana School for the Deaf (ISD) | [Indianapolis, Indiana](https://www.google.com/maps/dir//Indiana+School+for+the+Deaf,+42nd+Street,+Indianapolis,+IN,+USA) | Sign | [Website](https://www.deafhoosiers.com/), [YouTube](https://www.youtube.com/@ISDHoosiers) |
+| New York School for the Deaf | [White Plains, New York](https://www.google.com/maps/dir//New+York+School+for+the+Deaf,+Knollwood+Road,+White+Plains,+NY,+USA) | Sign | [Website](https://www.nysd.net/) |
+| Maryland School for the Deaf (MSD) | [Frederick, Maryland](https://www.google.com/maps/dir/43.4700288,-79.6950528/Maryland+School+for+the+Deaf,+Clarke+Place,+Frederick,+MD,+USA) | Sign | [Website](https://www.msd.edu/), [YouTube](http://youtube.com/marylandschoolforthedeaforioles), [Instagram](https://www.instagram.com/msdorioles/) |
+| Florida School for the Deaf and the Blind (FSDB) | [St. Augustine, Florida](https://www.google.com/maps/dir/43.4700288,-79.6950528/Florida+School+for+the+Deaf+and+the+Blind+(FSDB),+San+Marco+Avenue,+St.+Augustine,+FL,+USA) | Sign | [Website](https://www.fsdbk12.org/), [Facebook](https://www.facebook.com/FSDBK12/), [TwitterX](https://twitter.com/fsdbk12), [YouTube](https://www.youtube.com/fsdbk12) |
+| Oregon School for the Deaf (OSD) | [Salem, Oregon](https://www.google.com/maps/dir/43.4700288,-79.6950528/Oregon+School+for+the+Deaf,+Locust+Street+Northeast,+Salem,+OR,+USA) | Sign | [Website](https://www.oregon.gov/osd/pages/default.aspx), [YouTube](https://www.youtube.com/channel/UC5pEK6jJwx_JoZXhEsGPnJQ), [Facebook](https://www.facebook.com/people/Oregon-School-for-the-Deaf/100063453049560/) |
+
+To see detail of the school, please visit state page on the sidebar.
 
 ## Post Secondary Education Programs
 
@@ -107,7 +96,7 @@ Current sign language in United States Deaf Community is **American Sign Languag
 
 ## Social Media Sites and Communities
 
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
+- ![Discord](../assets/images/icons/discord.svg){: width="18" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 
 ## Representation Deaf People and Culture
 

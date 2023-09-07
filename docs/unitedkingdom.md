@@ -79,7 +79,7 @@ Current sign language in United Kingdom Deaf Community is **British Sign Languag
   - Location: Birmingham, England
 
 ## Social Media Sites and Communities
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } British Sign Language on Discord - [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv)
+- ![Discord](../assets/images/icons/discord.svg){: width="18" } British Sign Language on Discord - [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv)
 
 ## News
 

@@ -38,13 +38,16 @@ permalink: canada
 - Current sign language in Quebec Deaf Community is **Quebec Sign Language**.
   - In French, **Langue des signes québécoise (LSQ)**.
 
-| Country/Region | Language | Name | Link | Free/Paid |
-|----------------|----------|------|------|-----------|
-| Canada, United States  | ASL | HandSpeak | [handspeak.com](https://www.handspeak.com/word/) | Free |
-| Canada, United States  | ASL | SignASL.org | [signasl.org](https://www.signasl.org/) | Free |
-| United States, Canada | ASL | Lifeprint | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) | Free |
-| Quebec | LSQ | CB Linguistic Services | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) | Free |
-| Canada, Worldwide | ASL, Others | SpreadTheSign | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
+| Language | Name | Type | Link | Free/Paid |
+|----------|------|------|------|-----------|
+| ASL | American Sign Language Dictionary | Book | [amazon.ca](https://www.amazon.ca/American-Language-Dictionary-Flexi-Martin-Sternberg/dp/0062736345/) | Paid |
+| ASL | ASL THAT! | Video | [facebook.com](https://www.facebook.com/groups/ASLTHAT/) | Free |
+| ASL | HandSpeak | Video | [handspeak.com](https://www.handspeak.com/word/) | Free |
+| ASL | Lifeprint | Video | [lifeprint.com](https://www.lifeprint.com/dictionary.htm) | Free |
+| ASL | The Canadian Dictionary of ASL | Book | [amazon.ca]([https://www.amazon.ca/Canadian-Dictionary-ASL-Charmaine-Letourneau/dp/0888643004) | Paid |
+| ASL | SignASL.org | Video | [signasl.org](https://www.signasl.org/) | Free |
+| ASL | SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
+| LSQ | CB Linguistic Services | Video | [lexiquelsq.ca](https://lexiquelsq.ca/lexique-lsq/) | Free |
 
 ## Elementary/Secondary/High Schools
 
@@ -71,8 +74,8 @@ To see detail of the school, please visit province page on the sidebar.
 
 | Name | Location | Language | Type | Link/Note |
 |------|----------|----------|------|-----------|
-| Deaf Empowerment Program at Mohawk College | [Hamilton, Ontario](https://www.google.com/maps/place/Mohawk+College/) | English, ASL | Govt-funded Upgrade Program | [mohawkcollege.ca](https://www.mohawkcollege.ca/programs/get-prepared-for-college/academic-upgrading/deaf-empowerment-program) |
 | Academic Upgrading Program for Deaf and Hard of Hearing Adults at George Brown College | [Toronto, Ontario](https://www.google.com/maps/place/George+Brown+College+-+St.+James+Campus+-+A+Building/) | English, ASL | Govt-funded Upgrade Program | [georgebrown.ca](https://www.georgebrown.ca/programs/academic-upgrading-program-for-deaf-and-hard-of-hearing-adults-program-a752) |
+| Deaf Empowerment Program at Mohawk College | [Hamilton, Ontario](https://www.google.com/maps/place/Mohawk+College/) | English, ASL | Govt-funded Upgrade Program | [mohawkcollege.ca](https://www.mohawkcollege.ca/programs/get-prepared-for-college/academic-upgrading/deaf-empowerment-program) |
 
 To see detail of the school, please visit province page on the sidebar.
 
@@ -93,18 +96,19 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 | Phone Carrier | Platform | Signup |
 |---------------|----------|--------|
 | Bell IP Relay | [Web (Home phone subscribers)](https://myiprelay.bell.ca/login/#/), [Web (Mobility subscribers)](https://iprelay.bell.ca/login/#/), [iOS](https://apps.apple.com/ca/app/bell-ip-relay-residential/id1490034718), [Android](https://play.google.com/store/apps/details?id=com.bellcon.iprelay) | [bell.ca](https://www.bell.ca/Accessibility_services/Bell_IP_Relay)<br />OR<br />[myiprelay.bell.ca](https://myiprelay.bell.ca/register#/) |
-| Rogers IP Relay | [Web](https://iprelayservice.net/login/#/), [iOS](https://apps.apple.com/ca/app/ip-relay-canada/id1489766469), [Android](https://play.google.com/store/apps/details?id=com.teluswholesale.iprelay&hl=en_CA&gl=US) | [rogers.com](https://www.rogers.com/accessibility/ip-relay-registration/) |
-| Fido IP Relay | [Web](https://iprelayservice.net/login/#/), [iOS](https://apps.apple.com/ca/app/ip-relay-canada/id1489766469), [Android](https://play.google.com/store/apps/details?id=com.teluswholesale.iprelay&hl=en_CA&gl=US) | [fido.ca](https://www.fido.ca/accessibility/ip-relay-registration/) |
-| Telus IP Relay | [Web](https://iprelay.telus.net/login/#/), [iOS](https://apps.apple.com/ca/app/telus-ip-relay/id1465636117), [Android](https://play.google.com/store/apps/details?id=com.telus.iprelay) | [iprelay.telus.net](https://iprelay.telus.net/register#/) |
-| Freedom Mobile IP Relay | [Web](https://iprelay.freedommobile.ca), [iOS](https://apps.apple.com/ca/app/freedom-ip-relay/id1489766926), [Android](https://play.google.com/store/apps/details?id=com.freedommobile.iprelay&hl=en_CA&gl=US) | [iprelay.freedommobile.ca](https://iprelay.freedommobile.ca/register#/)<br />OR<br />[freedommobile.ca (form)](https://www.freedommobile.ca/docs/default-source/default-document-library/ip-relay-service-application.pdf) |
-| Videotron IP Relay | [Web](https://iprelay.videotron.com/login/#/), [iOS](https://apps.apple.com/ca/app/vid%C3%A9otron-ip-relay/id1489766812), [Android](https://play.google.com/store/apps/details?id=com.videotron.iprelay) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
+| CCAP IP Relay | [Web](https://iprelay.ccapcable.com/login/#/), [iOS](https://apps.apple.com/ca/app/ccap-ip-relay/id1489766709), [Android](https://play.google.com/store/apps/details?id=com.ccap.iprelay) | [iprelay.ccapcable.com](https://iprelay.ccapcable.com/register#/) |
 | Cogeco IP Relay | [Web](http://iprelay.cogeco.com/login/#/), [iOS](https://apps.apple.com/ca/app/cogeco-ip-relay/id1489766855), [Android](https://play.google.com/store/apps/details?id=com.cogeco.iprelay) | [iprelay.cogeco.com](http://iprelay.cogeco.com//register#/) |
-| Public Mobile IP Relay | **Permanently closed**{: .label .label-red } | **Permanently closed**{: .label .label-red } |
+| Eastlink IP Relay | [Web](https://iprelay.eastlink.ca), [iOS](https://apps.apple.com/ca/app/eastlink-ip-relay/id1489766756), [Android](https://play.google.com/store/apps/details?id=com.eastlink.iprelay&hl=en_CA&gl=US) | [iprelay.eastlink.ca](https://iprelay.eastlink.ca/register#/)  |
+| Fido IP Relay | [Web](https://iprelayservice.net/login/#/), [iOS](https://apps.apple.com/ca/app/ip-relay-canada/id1489766469), [Android](https://play.google.com/store/apps/details?id=com.teluswholesale.iprelay&hl=en_CA&gl=US) | [fido.ca](https://www.fido.ca/accessibility/ip-relay-registration/) |
 | Fizz IP Relay | [Web](https://iprelay.fizz.ca/login/#/), [iOS](https://apps.apple.com/ca/app/fizz-ip-relay/id1489766802), [Android](https://play.google.com/store/apps/details?id=com.fizz.iprelay) | [iprelay.fizz.ca](https://iprelay.videotron.com/register#/) |
+| Freedom Mobile IP Relay | [Web](https://iprelay.freedommobile.ca), [iOS](https://apps.apple.com/ca/app/freedom-ip-relay/id1489766926), [Android](https://play.google.com/store/apps/details?id=com.freedommobile.iprelay&hl=en_CA&gl=US) | [iprelay.freedommobile.ca](https://iprelay.freedommobile.ca/register#/)<br />OR<br />[freedommobile.ca (form)](https://www.freedommobile.ca/docs/default-source/default-document-library/ip-relay-service-application.pdf) |
+| Public Mobile IP Relay | **Permanently closed**{: .label .label-red } | **Permanently closed**{: .label .label-red } |
+| Rogers IP Relay | [Web](https://iprelayservice.net/login/#/), [iOS](https://apps.apple.com/ca/app/ip-relay-canada/id1489766469), [Android](https://play.google.com/store/apps/details?id=com.teluswholesale.iprelay&hl=en_CA&gl=US) | [rogers.com](https://www.rogers.com/accessibility/ip-relay-registration/) |
 | SaskTel IP Relay | [Web](https://messagerelayip.sasktel.com/), [iOS](https://apps.apple.com/ca/app/sasktel-ip-relay-service-app/id1489766968), [Android](https://play.google.com/store/apps/details?id=com.sasktel.iprelay) | [messagerelayip.sasktel.com](https://messagerelayip.sasktel.com/register#/) |
 | Shaw IP Relay | [Web](https://iprelay.shaw.ca/login/#/), [iOS](https://apps.apple.com/ca/app/shaw-ip-relay/id1411486003), [Android](https://play.google.com/store/apps/details?id=com.iprelay) | [iprelay.shaw.ca](https://iprelay.shaw.ca/register#/) |
-| Eastlink IP Relay | [Web](https://iprelay.eastlink.ca), [iOS](https://apps.apple.com/ca/app/eastlink-ip-relay/id1489766756), [Android](https://play.google.com/store/apps/details?id=com.eastlink.iprelay&hl=en_CA&gl=US) | [iprelay.eastlink.ca](https://iprelay.eastlink.ca/register#/)  |
-| CCAP IP Relay | [Web](https://iprelay.ccapcable.com/login/#/), [iOS](https://apps.apple.com/ca/app/ccap-ip-relay/id1489766709), [Android](https://play.google.com/store/apps/details?id=com.ccap.iprelay) | [iprelay.ccapcable.com](https://iprelay.ccapcable.com/register#/) |
+| Telus IP Relay | [Web](https://iprelay.telus.net/login/#/), [iOS](https://apps.apple.com/ca/app/telus-ip-relay/id1465636117), [Android](https://play.google.com/store/apps/details?id=com.telus.iprelay) | [iprelay.telus.net](https://iprelay.telus.net/register#/) |
+| Videotron IP Relay | [Web](https://iprelay.videotron.com/login/#/), [iOS](https://apps.apple.com/ca/app/vid%C3%A9otron-ip-relay/id1489766812), [Android](https://play.google.com/store/apps/details?id=com.videotron.iprelay) | [iprelay.videotron.com](https://iprelay.videotron.com/register#/) |
+
 
 **Note:** Fido and Rogers are using same service on [iprelayservice.net](https://iprelayservice.net/login/#/) and they did not re-brand it.
 
@@ -118,7 +122,7 @@ IP relay service is a telecommunications service that allows Deaf/HoH individual
 
 ## Social Media Sites and Communities
 
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
+- ![Discord](../assets/images/icons/discord.svg){: width="18" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
 
 ## Representation Deaf People and Culture
 

@@ -40,13 +40,13 @@ permalink: canada/quebec
 | CCSMM ASL Interpreting Service | ASL | Greater Montréal Area | [aslis.ccsmm.org](https://aslis.ccsmm.org/) |
 | Centres collégiaux de soutien à l’intégration (CCSI) | LSQ, ASL | Public and private CEGEPs and universities in Eastern and Western Quebec | [ccsi.quebec](https://ccsi.quebec/) |
 | Interprétation Signes et Paroles (ISEP) | LSQ, ASL | Montréal | [isep.ca](https://www.isep.ca/home) |
-| TraduSigne | LSQ, ASL, Translation |  Greater Montréal Area | [tradusigne.ca](https://tradusigne.ca/en/our-services/) |
 | Keleny Translation Company | LSQ, ASL, Translation | Montréal | [keleny.com](https://www.keleny.com/en/interpretation-services/) |
 | Louise Martin Interprètes | LSQ | Montréal | [louisemartin.ca](https://louisemartin.ca/) |
 | Service d’Interprétation pour Personnes Sourdes de l’Estrie (SIPSE) | LSQ | Provincewide | [sipse.net](http://sipse.net/) |
 | Service d’interprétation visuelle et tactile (SIVET) | LSQ | Montréal, Laval, Montérégie, Laurentides, Lanaudières | [laressource.org](http://www.laressource.org/services/service-regional-dinterpretariat/) |
 | Service régional d’interprétariat de l’Abitibi-Témiscamingue (SIPSE) | LSQ | Montréal, Laval, Montérégie, Laurentides, Lanaudières | [sivet.ca](https://sivet.ca/) |
 | Service Régional d’Interprétariat de l’Est du Québec (SRIEQ) | LSQ | Capitale-Nationale, Mauricie, Centre-du-Québec, Chaudière-Appalaches, Côte-Nord, Saguenay-Lac-Saint-Jean, Bas-Saint-Laurent, Gaspésie, Îles-de-la-Madeleine | [srieq.ca](https://srieq.ca/) |
+| TraduSigne | LSQ, ASL, Translation |  Greater Montréal Area | [tradusigne.ca](https://tradusigne.ca/en/our-services/) |
 
 ReQIS is currently maintaining list of interpreting services in Québec. They offers LSQ to ASL interpreting service as well. Please see [reqis.org (in French)](http://www.reqis.org/sinformer/services-dinterpretes/).
 

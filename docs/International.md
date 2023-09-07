@@ -15,11 +15,11 @@ permalink: international
 ## Social Platforms and Communities
 
 | Name  | Platforms |
-| m/deaf | ![kbin](https://kbin.social/favicon.ico){: width="16" } [kbin.social/m/deaf](https://kbin.social/m/deaf) |
-| deaf.group | ![Mastodon](https://mastodon.social/packs/media/icons/favicon-16x16-c58fdef40ced38d582d5b8eed9d15c5a.png){: width="16" } [deaf.group](https://deaf.group/) |
-| Cochlear Implant Community | ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } [discord.gg/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3) |
-| Deafcord | ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } [discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT) |
-| alldeaf | ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="16" } [alldeaf.com/community](https://www.alldeaf.com/community) |
+| m/deaf | ![kbin](../assets/images/icons/kbin.svg){: width="18" } [kbin.social/m/deaf](https://kbin.social/m/deaf) |
+| deaf.group | ![Mastodon](../assets/images/icons/mastodon.svg){: width="18" } [deaf.group](https://deaf.group/) |
+| Cochlear Implant Community | ![Discord](../assets/images/icons/discord.svg){: width="18" } [discord.gg/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3) |
+| Deafcord | ![Discord](../assets/images/icons/discord.svg){: width="18" } [discord.gg/p5dzUW6YYT](https://discord.gg/p5dzUW6YYT) |
+| alldeaf | ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="18" } [alldeaf.com/community](https://www.alldeaf.com/community) |
 
 ## Live Transcription Service
 
