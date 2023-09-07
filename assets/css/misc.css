@@ -1,0 +1,9 @@
+.mobile-message {
+    display: none; /* Hide the message by default */
+  }
+  
+  @media only screen and (max-width: 799px) {
+    .mobile-message {
+      display: block; /* Show the message on mobile devices */
+    }
+  }
