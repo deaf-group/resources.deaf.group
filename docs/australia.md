@@ -108,4 +108,7 @@ Current sign language in Australia Deaf Community is **Auslan**
   - Location: Seven Hills, New South Wales
 
 ## Social Media Sites and Communities
-- ![Discord](https://discord.onl/wp-content/uploads/2018/07/favicon.png){: width="16" } Auslan friends! on Discord - [discord.gg/8Ck9hmyMpv](https://discord.com/invite/xU9DhhstMr)
+
+| Name | Platforms | Link |
+|------|-----------|------|
+| Auslan friends! | Discord | [discord.gg/xU9DhhstMr](https://discord.com/invite/xU9DhhstMr) |

@@ -126,7 +126,9 @@ All of IP Relay services are running by one company called [viiz Communications]
 
 ## Social Media Sites and Communities
 
-- ![Discord](../assets/images/icons/discord.svg){: width="18" } Sign Cafe on Discord - [discord.gg/UNCE23x](https://discord.gg/UNCE23x)
+| Name | Platforms | Link |
+|------|-----------|------|
+| Sign Cafe | Discord | [discord.gg/UNCE23x](https://discord.gg/UNCE23x) |
 
 ## Representation Deaf People and Culture
 
