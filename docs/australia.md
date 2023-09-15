@@ -109,6 +109,6 @@ Current sign language in Australia Deaf Community is **Auslan**
 
 ## Social Media Sites and Communities
 
-| Name | Platforms | Link |
-|------|-----------|------|
+| Name | Platform | Link |
+|------|----------|------|
 | Auslan friends! | Discord | [discord.gg/xU9DhhstMr](https://discord.com/invite/xU9DhhstMr) |

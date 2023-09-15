@@ -14,7 +14,6 @@ permalink: canada/ontario
     - 🏫 [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
     - 🏫 [Post Secondary Education Programs](#post-secondary-education-programs)
 - ✍️ [Feedback](#feedback)
-- [Feedback](#feedback)
 
 ## Organizations
 

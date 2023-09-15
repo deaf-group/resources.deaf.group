@@ -14,8 +14,8 @@ permalink: international
 
 ## Social Platforms and Communities
 
-| Name | Platforms |
-|------|-----------|
+| Name | Platform and Link |
+|------|-------------------|
 | alldeaf | ![alldeaf](https://www.alldeaf.com/favicon.ico){: width="18" } [alldeaf.com/community](https://www.alldeaf.com/community) |
 | Cochlear Implant Community | ![Discord](../assets/images/icons/discord.svg){: width="18" } [discord.gg/AMytbsjWn3](https://discord.com/invite/AMytbsjWn3) |
 | deaf.group | ![Mastodon](../assets/images/icons/mastodon.svg){: width="18" } [deaf.group](https://deaf.group/) |

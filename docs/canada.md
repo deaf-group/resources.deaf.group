@@ -126,8 +126,8 @@ All of IP Relay services are running by one company called [viiz Communications]
 
 ## Social Media Sites and Communities
 
-| Name | Platforms | Link |
-|------|-----------|------|
+| Name | Platform | Link |
+|------|----------|------|
 | Sign Cafe | Discord | [discord.gg/UNCE23x](https://discord.gg/UNCE23x) |
 
 ## Representation Deaf People and Culture
@@ -144,7 +144,6 @@ All of IP Relay services are running by one company called [viiz Communications]
 | The Silent Natural | "The Silent Natural" (2019) is a biographical drama that chronicles the life of William "Dummy" Hoy, a deaf baseball player who defied societal expectations and became a pivotal figure in the sport's history. The film explores Hoy's determination to break barriers, highlighting his remarkable achievements on and off the field while shedding light on the challenges he faced as a deaf athlete. | [Apple TV](https://tv.apple.com/us/movie/the-silent-natural/umc.cmc.6sx1mmt7pvqd2moqaghwqw9b1?at=1000l3V2&ct=justwatch_tv&playableId=tvs.sbd.9001%3A1527796730), [Amazon](https://www.amazon.com/gp/video/detail/0OWOZEFI7TFXWML3KWAJTC7RWN/ref=atv_dl_rdr?tag=justus1ktp-20), [Google Play](https://play.google.com/store/movies/details/The_Silent_Natural?gl=US&hl=en&id=tql06PtjVZQ.P), [YouTube](https://www.youtube.com/watch?v=BTQq5Bo_29o), [Hoopla](https://www.hoopladigital.com/title/14328765) |
 
 ## TV Shows
-
 
 | Name | Description | Where Watch |
 |------|-------------|-------------|

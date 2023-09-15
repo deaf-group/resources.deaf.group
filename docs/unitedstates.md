@@ -1,6 +1,6 @@
 ---
 layout: default
-title: United States
+title: "United States"
 nav_order: 9
 has_children: true
 permalink: unitedstates
@@ -97,8 +97,8 @@ To see detail of the school, please visit state page on the sidebar.
 
 ## Social Media Sites and Communities
 
-| Name | Platforms | Link |
-|------|-----------|------|
+| Name | Platform | Link |
+|------|----------|------|
 | Sign Cafe | Discord | [discord.gg/UNCE23x](https://discord.gg/UNCE23x) |
 
 ## Representation Deaf People and Culture
