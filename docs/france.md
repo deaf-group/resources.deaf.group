@@ -38,42 +38,13 @@ permalink: france
 
 ## Elementary/Secondary/High Schools
 
-- Institut National de Jeunes Sourds de Paris (INJS)
-  - Founded: 1791
-  - Location: Paris, France
-  - Website: [injs-paris.fr](https://www.injs-paris.fr/)
-
-- Institut des Jeunes Sourds de Bordeaux
-  - Founded: 1850
-  - Location: Bordeaux, France
-  - Website: ~~[injs-gironde.fr](https://injs-gironde.fr/)~~
-
-- Institut National de Jeunes Sourds de Metz (INJS Metz)
-  - Founded: 1826
-  - Location: Metz, France
-  - Website: [injs-metz.fr](https://www.injs-metz.fr/)
-
-- Institut des Jeunes Sourds de Marseille
-  - Founded: 1829
-  - Location: Marseille, France
-  - Website: N/A
-
-- Institut National de Jeunes Sourds de Chambéry (INJS Chambéry)
-  - Founded: 1829
-  - Location: Chambéry, France
-  - Website: ~~[injs-chambery.fr](https://www.injs-chambery.fr/)~~
-
-- École Bilingue des Sourds de Paris (EBSP)
-  - Founded: N/A
-  - Location: Paris, France
-  - Website: ~~[ecolebilinguedessourds.fr](https://ecolebilinguedessourds.fr/)~~
-
-- École pour Jeunes Sourds d'Aulnay-sous-Bois
-  - Founded: N/A
-  - Location: Aulnay-sous-Bois, France
-  - Website: N/A
-
-- École Régionale des Sourds de Lille
-  - Founded: N/A
-  - Location: Lille, France
-  - Website: N/A
+| Name | Location | Founded | Type | Link/Note |
+|------|----------|---------|------|-----------|
+| Institut National de Jeunes Sourds de Paris (INJS)    | Paris, France | 1791 | | [injs-paris.fr](https://www.injs-paris.fr/) |
+| Institut des Jeunes Sourds de Bordeaux                | Bordeaux, France | 1850 | | ~~[injs-gironde.fr](https://injs-gironde.fr/)~~ |
+| Institut National de Jeunes Sourds de Metz (INJS Metz)| Metz, France | 1826 | | [injs-metz.fr](https://www.injs-metz.fr/)|
+| Institut des Jeunes Sourds de Marseille               | Marseille, France | 1829 | | |
+| Institut National de Jeunes Sourds de Chambéry (INJS Chambéry) | Chambéry, France | 1829 | | ~~[injs-chambery.fr](https://www.injs-chambery.fr/)~~|
+| École Bilingue des Sourds de Paris (EBSP)             | Paris, France | N/A | | ~~[ecolebilinguedessourds.fr](https://ecolebilinguedessourds.fr/)~~ |
+| École pour Jeunes Sourds d'Aulnay-sous-Bois           | Aulnay-sous-Bois, France | N/A | | |
+| École Régionale des Sourds de Lille | Lille, France | N/A | | |

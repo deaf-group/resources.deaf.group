@@ -47,42 +47,25 @@ Current sign language in United Kingdom Deaf Community is **British Sign Languag
 | SpreadTheSign | Video | [spreadthesign.com](https://www.spreadthesign.com/) | Free |
 
 ## Elementary/Secondary/High Schools
-- Mary Hare School for the Deaf
-  - Founded: 1916
-  - Location: Newbury, Berkshire, England
-- The Royal School for Deaf Children Margate
-  - Founded: 1792
-  - Location: Margate, Kent, England
-- Northern Counties School for the Deaf (Northern Saints CofE VA Primary School)
-  - Founded: 1870
-  - Location: Newcastle upon Tyne, England
-- Doncaster School for the Deaf (Communication Specialist College Doncaster)
-  - Founded: 1829
-  - Location:  Doncaster, South Yorkshire, England
-- Frank Barnes School for Deaf Children
-  - Founded: 1976
-  - Location: London, England
-- Oak Lodge School
-  - Founded: 1904
-  - Location: London, England
-- Blanche Nevile School for Deaf Children
-  - Founded: 1899
-  - Location: London, England
-- Royal School for the Deaf Derby (St. Martin's School)
-  - Founded: 1792
-  - Location: Derby, England
-- Seashell Trust (formerly Royal Schools for the Deaf and Communication Disorders)
-  - Founded: 1823
-  - Location: Cheadle Hulme, Cheshire, England
-- Braidwood School for the Deaf
-  - Founded: 1783
-  - Location: Birmingham, England
+
+| Name | Location | Founded | Type | Link/Note |
+|------|----------|---------|------|-----------|
+| Mary Hare School for the Deaf               | Newbury, Berkshire, England | 1916 | | |
+| The Royal School for Deaf Children Margate  | Margate, Kent, England | 1792 | | |
+| Northern Counties School for the Deaf       | Newcastle upon Tyne, England | 1870 | | |
+| Doncaster School for the Deaf               | Doncaster, South Yorkshire, England | 1829 | | |
+| Frank Barnes School for Deaf Children       | London, England | 1976 | | |
+| Oak Lodge School                            | London, England | 1904 | | |
+| Blanche Nevile School for Deaf Children     | London, England | 1899 | | |
+| Royal School for the Deaf Derby (St. Martin's School) | Derby, England | 1792 | | |
+| Seashell Trust (formerly Royal Schools for the Deaf and Communication Disorders) | Cheadle Hulme, Cheshire, England | 1823 | | |
+| Braidwood School for the Deaf               | Birmingham, England | 1783 | | |
 
 ## Social Media Sites and Communities
 
 | Name | Platforms | Link |
 |------|-----------|------|
-| British Sign Language | Discord | [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv) |
+| British Sign Language | Discord | ![Discord](../assets/images/icons/discord.svg){: width="18" } [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv) |
 
 ## News
 

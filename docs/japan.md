@@ -52,60 +52,20 @@ permalink: japan
 
 
 ## Elementary/Secondary/High Schools
-- Tsukuba School for the Deaf **Need more info**{: .label }
-  - Founded: 1878
-  - Location: Tsukuba, Ibaraki Prefecture
-  - Website: N/A
 
-- Fukuoka School for the Deaf **Need more info**{: .label }
-  - Founded: 1900
-  - Location: Fukuoka, Fukuoka Prefecture
-  - Website: N/A
-
-- Osaka School for the Deaf **Need more info**{: .label }
-  - Founded: 1896
-  - Location: Osaka, Osaka Prefecture
-  - Website: N/A
-
-- Tokyo School for the Deaf **Need more info**{: .label }
-  - Founded: 1878
-  - Location: Tokyo
-  - Website: N/A
-
-- Hiroshima Prefectural School for the Deaf **Need more info**{: .label }
-  - Founded: 1948
-  - Location: Hiroshima, Hiroshima Prefecture
-  - Website: N/A
-
-- Sendai School for the Deaf **Need more info**{: .label }
-  - Founded: 1903
-  - Location: Sendai, Miyagi Prefecture
-  - Website: N/A
-
-- Meisei Gakuen
-  - Founded: 1957
-  - Location: Tokyo
-  - Website: [www.meisei-gakuen.jp](https://www.meisei-gakuen.jp/en/)
-
-- Nagoya School for the Deaf **Need more info**{: .label }
-  - Founded: 1878
-  - Location: Nagoya, Aichi Prefecture
-  - Website: N/A
-
-- Kyoto School for the Deaf **Need more info**{: .label }
-  - Founded: 1903
-  - Location: Kyoto, Kyoto Prefecture
-  - Website: N/A
-
-- Sapporo School for the Deaf **Need more info**{: .label }
-  - Founded: 1883
-  - Location: Sapporo, Hokkaido
-  - Website: N/A
-
-- Okinawa School for the Deaf **Need more info**{: .label }
-  - Founded: 1951
-  - Location: Okinawa City, Okinawa Prefecture
-  - Website: N/A
+| Name | Location | Founded | Type | Link/Note |
+|------|----------|---------|------|-----------|
+| Tsukuba School for the Deaf | Tsukuba, Ibaraki Prefecture | 1878 | | |
+| Fukuoka School for the Deaf | Fukuoka, Fukuoka Prefecture | 1900 | | |
+| Osaka School for the Deaf   | Osaka, Osaka Prefecture | 1896 | | |
+| Tokyo School for the Deaf   | Tokyo | 1878 | | |
+| Hiroshima Prefectural School for the Deaf | Hiroshima, Hiroshima Prefecture | 1948 | | |
+| Sendai School for the Deaf | Sendai, Miyagi Prefecture  | 1903 | | |
+| Meisei Gakuen | Tokyo | 1957 | | [Website](https://www.meisei-gakuen.jp) |
+| Nagoya School for the Deaf | Nagoya, Aichi Prefecture | 1878 | | |
+| Kyoto School for the Deaf | Kyoto, Kyoto Prefecture | 1903 | | |
+| Sapporo School for the Deaf | Sapporo, Hokkaido | 1883 | | |
+| Okinawa School for the Deaf | Okinawa City, Okinawa Prefecture | 1951 | | |
 
 ## Post Secondary Education Programs
 - **Tsukuba University of Technology:** Pioneering Deaf Education in Japan. As the country's only higher educational institution for the Deaf, we are dedicated to providing quality education, fostering innovation, and empowering deaf students to excel in various fields of technology and beyond.
