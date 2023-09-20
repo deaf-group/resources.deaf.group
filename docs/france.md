@@ -13,6 +13,8 @@ permalink: france
 - 📖 Education
   - 👋 [Sign Language Dictionaries](#sign-language-dictionaries)
   - 🏫 [Elementary/Secondary/High Schools](#elementarysecondaryhigh-schools)
+- 💻 Media and Technology 
+  - 🎞️ [Films](#films)
 - ✍️ [Feedback](#feedback)
 
 ## Organizations
@@ -48,3 +50,9 @@ permalink: france
 | École Bilingue des Sourds de Paris (EBSP)             | Paris, France | N/A | | ~~[ecolebilinguedessourds.fr](https://ecolebilinguedessourds.fr/)~~ |
 | École pour Jeunes Sourds d'Aulnay-sous-Bois           | Aulnay-sous-Bois, France | N/A | | |
 | École Régionale des Sourds de Lille | Lille, France | N/A | | |
+
+## Films
+
+| Name | Description | Where Watch |
+|------|-------------|-------------|
+| La Famille Bélier (The Bélier Family) | A heartwarming French film centered around Paula, a teenager who is the only hearing member in her deaf family. When she discovers her exceptional singing talent, Paula must navigate the challenges of pursuing her passion while balancing her responsibilities at home, leading to a touching exploration of love, communication, and following one's dreams. | [Apple TV](https://tv.apple.com/ca/movie/the-belier-family/umc.cmc.3o35qeqiokn4y8nzm49x67ghj?at=1000l3V2&ct=justwatch_tv&playableId=tvs.sbd.9001%3A1476429332), [Amazon](https://www.primevideo.com/detail/0R9K49B68NLEH3HDXPN63W9402/ref=atv_dl_rdr?tag=justwatch0a-20), [Google Play](https://play.google.com/store/movies/details/The_B%C3%A9lier_Family_English_Subtitles?gl=CA&hl=en&id=dd5BNlYeJo8), [YouTube](https://www.youtube.com/watch?v=dd5BNlYeJo8) | 
