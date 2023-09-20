@@ -79,16 +79,16 @@ Current sign language in Australia Deaf Community is **Auslan**
 
 | Name | Founded | Location | Link/Note |
 |----- |---------|----------|-----------|
-| St. Gabriel's School (St. Gabriel's School for Hearing Impaired Children) | 1954 | Castle Hill, New South Wales |
-| Victorian College for the Deaf (now known as Victorian College for the Deaf - The Victorian School for Deaf Children) | 1860 | St Kilda East, Victoria |
+| St. Gabriel's School (St. Gabriel's School for Hearing Impaired Children) | 1954 | Castle Hill, New South Wales | |
+| Victorian College for the Deaf (now known as Victorian College for the Deaf - The Victorian School for Deaf Children) | 1860 | St Kilda East, Victoria | |
 | The Shepherd Centre | 1970 | Various locations in New South Wales, Australian Capital Territory, and Victoria |
-| North Rocks School for the Deaf | 1963 | North Rocks, New South Wales |
-| South Australian School for the Deaf | 1876 | Brighton, South Australia |
-| Western Australian School for the Deaf | 1911 | Mosman Park, Western Australia |
-| Tasmanian School for the Deaf (now part of Special Education Programs) | 1924 | Hobart, Tasmania |
-| Queensland Deaf and Hard of Hearing School | 1862 | Bald Hills, Queensland |
-| Melba Copland Secondary School - Deaf Facility | 1973 | Melba, Australian Capital Territory |
-| Clarke Road School (now part of RIDBC Thomas Pattison School) | 1961 | Seven Hills, New South Wales |
+| North Rocks School for the Deaf | 1963 | North Rocks, New South Wales | |
+| South Australian School for the Deaf | 1876 | Brighton, South Australia | |
+| Western Australian School for the Deaf | 1911 | Mosman Park, Western Australia | |
+| Tasmanian School for the Deaf (now part of Special Education Programs) | 1924 | Hobart, Tasmania | |
+| Queensland Deaf and Hard of Hearing School | 1862 | Bald Hills, Queensland | |
+| Melba Copland Secondary School - Deaf Facility | 1973 | Melba, Australian Capital Territory | |
+| Clarke Road School (now part of RIDBC Thomas Pattison School) | 1961 | Seven Hills, New South Wales | |
 
 
 ## Social Media Sites and Communities

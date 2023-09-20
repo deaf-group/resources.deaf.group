@@ -48,52 +48,16 @@ Video Relay Service (VRS) is a telecommunications service that enables Deaf/HoH 
 | Grammatica Italiana della Lingua dei Segni | eBook | [PDF](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-645-9/) | Free |
 
 ## Elementary/Secondary/High Schools
-- Istituto Nazionale Sordomuti (National Institute for the Deaf)
-  - Founded: 1784
-  - Location: Rome, Italy
-  - Website: ~~[istitutodeafirenze.it](http://www.istitutodeafirenze.it/)~~ **No longer available**{: .label .label-red } 
 
-- Istituto dei Sordomuti di Milano (Institute for the Deaf in Milan)
-  - Founded: 1821
-  - Location: Milan, Italy
-  - Website: ~~[sordomuti.it](https://www.sordomuti.it/)~~ **No longer available**{: .label .label-red } 
-
-- Istituto dei Sordomuti di Genova (Institute for the Deaf in Genoa)
-  - Founded: 1832
-  - Location: Genoa, Italy
-  - Website: ~~[istitutosordomuti.ge.it](http://www.istitutosordomuti.ge.it/)~~ **No longer available**{: .label .label-red } 
-
-- Istituto dei Sordomuti di Torino (Institute for the Deaf in Turin)
-  - Founded: 1840
-  - Location: Turin, Italy
-  - Website: ~~[istitutosordomutorino.it](https://www.istitutosordomutorino.it/)~~ **No longer available**{: .label .label-red } 
-
-- Istituto Sordi di Roma (Deaf Institute of Rome)
-  - Founded: 1856
-  - Location: Rome, Italy
-  - Website: ~~[istitutosordi.it](https://www.istitutosordi.it/)~~ **No longer available**{: .label .label-red } 
-
-- Istituto dei Sordomuti di Napoli (Institute for the Deaf in Naples)
-  - Founded: 1861
-  - Location: Naples, Italy
-  - Website: ~~[istitutosordomuti.na.it](https://www.istitutosordomuti.na.it/)~~ **No longer available**{: .label .label-red } 
-
-- Istituto Nazionale Sordi di Cagliari (National Deaf Institute of Cagliari)
-  - Founded: 1865
-  - Location: Cagliari, Italy
-  - Website: ~~[istitutosordicagliari.it](https://www.istitutosordicagliari.it/)~~ **No longer available**{: .label .label-red } 
-
-- Istituto dei Sordomuti di Palermo (Institute for the Deaf in Palermo)
-  - Founded: 1868
-  - Location: Palermo, Italy
-  - Website: N/A
-
-- Istituto dei Sordomuti di Firenze (Institute for the Deaf in Florence)
-  - Founded: 1902
-  - Location: Florence, Italy
-  - Website: ~~[istitutodeafirenze.it](http://www.istitutodeafirenze.it/)~~ **No longer available**{: .label .label-red } 
-
-- Istituto Statale Sordi di Catania (State Institute for the Deaf in Catania)
-  - Founded: 1949
-  - Location: Catania, Italy
-  - Website: ~~[istitutodeafirenze.it](https://www.istitutodeafirenze.it/)~~ **No longer available**{: .label .label-red } 
+| Name | Founded | Location | Link/Note |
+|------|---------|----------|-----------|
+| Istituto Nazionale Sordomuti (National Institute for the Deaf) | 1784 | Rome, Italy | ~~[istitutodeafirenze.it](http://www.istitutodeafirenze.it/)~~ |
+| Istituto dei Sordomuti di Milano (Institute for the Deaf in Milan) | 1821 | Milan, Italy | ~~[sordomuti.it](https://www.sordomuti.it/)~~ |
+| Istituto dei Sordomuti di Genova (Institute for the Deaf in Genoa) | 1832 | Genoa, Italy | ~~[istitutosordomuti.ge.it](http://www.istitutosordomuti.ge.it/)~~ |
+| Istituto dei Sordomuti di Torino (Institute for the Deaf in Turin) | 1840 | Turin, Italy | ~~[istitutosordomutorino.it](https://www.istitutosordomutorino.it/)~~ |
+| Istituto Sordi di Roma (Deaf Institute of Rome) | 1856 | Rome, Italy | ~~[istitutosordi.it](https://www.istitutosordi.it/)~~ |
+| Istituto dei Sordomuti di Napoli (Institute for the Deaf in Naples) | 1861 | Naples, Italy | ~~[istitutosordomuti.na.it](https://www.istitutosordomuti.na.it/)~~ |
+| Istituto Nazionale Sordi di Cagliari (National Deaf Institute of Cagliari) | 1865 | Cagliari, Italy | ~~[istitutosordicagliari.it](https://www.istitutosordicagliari.it/)~~ |
+| Istituto dei Sordomuti di Palermo (Institute for the Deaf in Palermo) | 1868 | Palermo, Italy | N/A |
+| Istituto dei Sordomuti di Firenze (Institute for the Deaf in Florence) | 1902 | Florence, Italy | ~~[istitutodeafirenze.it](http://www.istitutodeafirenze.it/)~~ |
+| Istituto Statale Sordi di Catania (State Institute for the Deaf in Catania) | 1949 | Catania, Italy | ~~[istitutodeafirenze.it](https://www.istitutodeafirenze.it/)~~ |
