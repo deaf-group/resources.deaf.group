@@ -16,6 +16,11 @@ permalink: canada/princeedwardisland
 
 ## Organizations
 
+- **PEI Association for Community Living (PEIACL):** While not exclusively focused on the Deaf community, PEIACL advocates for individuals with intellectual disabilities, which may include those who are deaf or hard of hearing. They provide a range of services and support.
+  - Founded: 1955
+  - Location: Charlottetown, PE
+  - Website: [peiacl.org](https://peiacl.org/)
+
 ## Interpreting Services
 
 ## Hearing Aid & Cochlear Implant Services

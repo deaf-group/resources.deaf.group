@@ -34,5 +34,7 @@ permalink: canada/manitoba
 
 - **Manitoba School for the Deaf:** Signing the Path to Success. Dedicated to equipping deaf students with the skills and knowledge needed to confidently navigate their journey towards personal and academic success.
   - Founded: 1888
+  - Language: English, ASL
+  - Grade: Kindergarten to Grade 12
   - Location: Winnipeg, Manitoba
   - Website: [msd.ca](https://www.msd.ca/)

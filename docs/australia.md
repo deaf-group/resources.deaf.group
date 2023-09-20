@@ -2,6 +2,7 @@
 layout: default
 title: Australia
 nav_order: 2
+has_children: true
 permalink: australia
 ---
 # Australia :australia:

@@ -46,17 +46,20 @@ VRI is stand for Video Remote Interpreting.
 
 - **Ernest C. Drury School for the Deaf:** "Together We Succeed" guides our mission to provide a collaborative and nurturing learning environment, ensuring the academic achievement and overall success of our deaf students.
   - Founded: 1972
-  - Sign or Oral: Sign
+  - Language: English, ASL
+  - Grade: Kindergarten to Grade 12
   - Location: Milton, Ontario
   - Website: [asl.pdsbnet.ca](https://asl.pdsbnet.ca/schools/ernest-c-drury-school-for-the-deaf/)
 - **Robarts School for the Deaf:** Fostering Excellence, Building Futures. Our commitment is to empower deaf students with a strong education and skills for a successful future.
   - Founded: 1963
-  - Sign or Oral: Sign
+  - Language: English, ASL
+  - Grade: Kindergarten to Grade 12
   - Location: London, Ontario
   - Website: [pdsbnet.ca](https://pdsbnet.ca/en/schools/robarts/)
 - **Sir James Whitney School for the Deaf** Nurturing Potential, Shaping Destinies. Dedicated to unlocking the potential of each deaf student through tailored education and comprehensive support, enabling them to shape their own promising paths.
   - Founded: 1870
-  - Sign or Oral: Sign
+  - Language: English, ASL
+  - Grade: Kindergarten to Grade 12
   - Location: Belleville, Ontario
   - Website: [asl.pdsbnet.ca](https://asl.pdsbnet.ca/schools/sir-james-whitney-school-for-the-deaf/)
 
@@ -65,13 +68,13 @@ VRI is stand for Video Remote Interpreting.
 - **Deaf Empowerment Program at Mohawk College**, government-funded program is taught in American Sign Language (ASL) for adults who are Deaf or Hard-of-Hearing and are looking to prepare for the General Education Diploma (GED) test, gain requirements to apply for college study, or improve skills needed for the workforce. 
   - Location: [Hamilton, Ontario](https://www.google.com/maps/place/Mohawk+College/@43.2386914,-79.8906974,17z/data=!3m2!4b1!5s0x882c9b1066b83ab9:0x7b9bc544845145ef!4m6!3m5!1s0x882c9b0f091045c1:0x5cc59dd1633a1496!8m2!3d43.2386914!4d-79.8881225!16zL20vMDF4MzZ6?entry=ttu)
   - Founded: 1993
-  - Sign or Oral: Sign
+  - Language: English, ASL
   - Website: [mohawkcollege.ca](https://www.mohawkcollege.ca/programs/get-prepared-for-college/academic-upgrading/deaf-empowerment-program)
   - Email: [dep@mohawkcollege.ca](mailto:dep@mohawkcollege.ca)
 - **Academic Upgrading Program for Deaf and Hard of Hearing Adults at George Brown College**, government-funded program is taught in American Sign Language (ASL) for adults who are Deaf or Hard-of-Hearing and are looking to prepare for gain requirements to apply for college study, or improve skills needed for the workforce. 
   - Location: [Toronto, Ontario](https://www.google.com/maps/place/George+Brown+College+-+St.+James+Campus+-+A+Building/@43.6512977,-79.3728163,17z/data=!3m2!4b1!5s0x89d4cb309269a7db:0x2963d560ac10d54b!4m6!3m5!1s0x89d4cb308d8c451f:0x2a2d39cb9b79ac42!8m2!3d43.6512977!4d-79.3702414!16s%2Fg%2F11c1wjw7lp?entry=ttu)
   - Founded: 1993
-  - Sign or Oral: Sign
+  - Language: English, ASL
   - Website: [georgebrown.ca](https://www.georgebrown.ca/programs/academic-upgrading-program-for-deaf-and-hard-of-hearing-adults-program-a752)
   - Email: [deafupgrading@georgebrown.ca](mailto:deafupgrading@georgebrown.ca)
 
