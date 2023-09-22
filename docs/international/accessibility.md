@@ -20,6 +20,9 @@ permalink: international/accessibility
 | SeaVoice | Discord bot transcribes voice channels to text channels (server owner/admin setup required). | Discord | Free | [wiki.seasalt.ai](https://wiki.seasalt.ai/seavoice/discord/discord-bot/) |
 | MacWhisper | Private transcription using OpenAI Whisper service, with easy interface and subtitle file creation. | macOS | Freemium | [goodsnooze.gumroad.com](https://goodsnooze.gumroad.com/l/macwhisper) |
 
+{: .note }
+Freemium is business model that user can download and use app/service for free. Most features are paywall as premium.
+
 ## Live Captioning System-wide
 
 | OS | Built-in? | Where? | Powered by | Info Link |

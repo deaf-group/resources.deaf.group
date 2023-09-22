@@ -14,7 +14,7 @@ Don't want sign up GitHub? Send suggestion or feedback email at <!-- fsdvwqs -->
 
 ## Packages
 - [jekyll](https://github.com/jekyll/jekyll) 4.3.2 or newer
-- [just-the-docs](https://github.com/just-the-docs/just-the-docs) 0.6.1
+- [just-the-docs](https://github.com/just-the-docs/just-the-docs) 0.6.1 or newer
 - [jemoji](https://github.com/jekyll/jemoji) latest
 - [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) latest
 
