@@ -15,11 +15,13 @@ permalink: international/accessibility
 | Name | Description | Device | Free or Paid? | Link |
 |------|-------------|--------|---------------|------|
 | Ava | Live transcription app for Deaf/HoH users, offering real-time audio transcription with AI-based accuracy. | iOS, Android | Freemium | [www.ava.me](https://www.ava.me/) |
+| MacWhisper | Private transcription using OpenAI Whisper service, with easy interface and subtitle file creation. | macOS | Freemium | [goodsnooze.gumroad.com](https://zipcaptions.app/#/) |
+| mimiuchi | Advanced real-time transcription using Mozilla's Web Speech API, offering overlay for VRChat and OBS. | Web, Windows | Free and Open Source | [mimiuchi.com](https://mimiuchi.com/) |
 | Otter.ai | AI-powered meeting notes with real-time transcription, audio recording, slide capture, and summaries. | iOS, Android | Freemium | [otter.ai](https://otter.ai/) |
-| TigerChat | Real-time transcription using Google and Microsoft AI in your web browser for meetings (requires RIT account). | Web browser | Limited access | [tigerchat.app](https://tigerchat.app/) |
+| Scripty | Discord bot privatly transcribes voice channels to text channels with Coqui AI model (server owner/admin setup required). | Web | Free and Open Source | [scripty.org](https://scripty.org/) |
 | SeaVoice | Discord bot transcribes voice channels to text channels (server owner/admin setup required). | Discord | Free | [wiki.seasalt.ai](https://wiki.seasalt.ai/seavoice/discord/discord-bot/) |
-| MacWhisper | Private transcription using OpenAI Whisper service, with easy interface and subtitle file creation. | macOS | Freemium | [goodsnooze.gumroad.com](https://goodsnooze.gumroad.com/l/macwhisper) |
-
+| TigerChat | Real-time transcription using Google and Microsoft AI in your web browser for meetings (requires RIT account). | Web | Limited access | [tigerchat.app](https://tigerchat.app/) |
+| ZipCaptions | Private live captions using DeepL translate AI on web browser. | Web | Free and Open Source | [zipcaptions.app](https://zipcaptions.app/#/) |
 {: .note }
 Freemium is business model that user can download and use app/service for free. Most features are paywall as premium.
 

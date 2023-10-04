@@ -91,7 +91,6 @@ Current sign language in Australia Deaf Community is **Auslan**
 | Melba Copland Secondary School - Deaf Facility | 1973 | Melba, Australian Capital Territory | |
 | Clarke Road School (now part of RIDBC Thomas Pattison School) | 1961 | Seven Hills, New South Wales | |
 
-
 ## Social Media Sites and Communities
 
 | Name | Platform | Link |
