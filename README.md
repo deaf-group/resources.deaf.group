@@ -2,7 +2,7 @@
 
 To contribute new or update information and link, Please use [issue](https://github.com/BatteryDie/resources.deaf.group/issues) or [pull requests](https://github.com/BatteryDie/resources.deaf.group/pulls) to create suggestion or feedback.
 
-To become contributor on this repository, Please send contributor request email at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group
+To become contributor on this repository, Please send contributor request email at <!-- dsfasfvg -->feed<!-- bmnbafsdjkhghv -->back<!-- zndoasdifg -->.<!-- sadasvfrtgh  -->deaf.<!-- kjdbfkdsfas -->group<!-- asuubzk -->@<!-- asvdfjhe -->skiff<!-- dsvcxrttyh -->.<!-- sdfsadcxbvdfgdfsg -->com!
 
 Don't want sign up GitHub? Send suggestion or feedback email at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->.<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group<!-- asuubzk -->@<!-- asvdfjhe -->skiff<!-- ncudisb -->.<!-- dnjbsdob -->com!
 
