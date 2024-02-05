@@ -4,7 +4,7 @@ To contribute new or update information and link, Please use [issue](https://git
 
 To become contributor on this repository, Please send contributor request email at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group
 
-Don't want sign up GitHub? Send suggestion or feedback email at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->@<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group!
+Don't want sign up GitHub? Send suggestion or feedback email at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->.<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group<!-- asuubzk -->@<!-- asvdfjhe -->skiff<!-- ncudisb -->.<!-- dnjbsdob -->com!
 
 ## Contribution Rule
 - We highly recommended to archive external links with [Archive.org's Wayback Machine](https://archive.org/web/) before you contribute it.
