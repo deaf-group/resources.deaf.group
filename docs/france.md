@@ -40,16 +40,16 @@ permalink: france
 
 ## Elementary/Secondary/High Schools
 
-| Name                                                           | Location                 | Founded | Type | Link/Note |
-|--------------------------------------------------------------- |------------------------- |-------- |----- |---------- |
-| Institut National de Jeunes Sourds de Paris (INJS)             | Paris, France            | 1791    |      | [injs-paris.fr](https://www.injs-paris.fr/) |
-| Institut des Jeunes Sourds de Bordeaux                         | Bordeaux, France         | 1850    |      | ~~[injs-gironde.fr](https://injs-gironde.fr/)~~ |
-| Institut National de Jeunes Sourds de Metz (INJS Metz)         | Metz, France             | 1826    |      | [injs-metz.fr](https://www.injs-metz.fr/) |
-| Institut des Jeunes Sourds de Marseille                        | Marseille, France        | 1829    |      |           |
-| Institut National de Jeunes Sourds de Chambéry (INJS Chambéry) | Chambéry, France         | 1829    |      | ~~[injs-chambery.fr](https://www.injs-chambery.fr/)~~ |
+| Name                                                           | Location                 | Founded | Type | Link                                                                | Note |
+|--------------------------------------------------------------- |------------------------- |-------- |----- |-------------------------------------------------------------------- |----- |
+| Institut National de Jeunes Sourds de Paris (INJS)             | Paris, France            | 1791    |      | [injs-paris.fr](https://www.injs-paris.fr/)                         |
+| Institut des Jeunes Sourds de Bordeaux                         | Bordeaux, France         | 1850    |      | ~~[injs-gironde.fr](https://injs-gironde.fr/)~~                     |
+| Institut National de Jeunes Sourds de Metz (INJS Metz)         | Metz, France             | 1826    |      | [injs-metz.fr](https://www.injs-metz.fr/)                           |
+| Institut des Jeunes Sourds de Marseille                        | Marseille, France        | 1829    |      |                                                                     |
+| Institut National de Jeunes Sourds de Chambéry (INJS Chambéry) | Chambéry, France         | 1829    |      | ~~[injs-chambery.fr](https://www.injs-chambery.fr/)~~               |
 | École Bilingue des Sourds de Paris (EBSP)                      | Paris, France            | N/A     |      | ~~[ecolebilinguedessourds.fr](https://ecolebilinguedessourds.fr/)~~ |
-| École pour Jeunes Sourds d'Aulnay-sous-Bois                    | Aulnay-sous-Bois, France | N/A     |      |           |
-| École Régionale des Sourds de Lille                            | Lille, France            | N/A     |      |           |
+| École pour Jeunes Sourds d'Aulnay-sous-Bois                    | Aulnay-sous-Bois, France | N/A     |      |                                                                     |
+| École Régionale des Sourds de Lille                            | Lille, France            | N/A     |      |                                                                     |
 
 ## Films
 

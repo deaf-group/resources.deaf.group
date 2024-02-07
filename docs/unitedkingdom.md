@@ -103,7 +103,7 @@ Current sign language in United Kingdom Deaf Community is **British Sign Languag
 
 | Name                  | Platforms | Link |
 |---------------------- |---------- |----- |
-| British Sign Language | Discord   | ![Discord](../assets/images/icons/discord.svg){: width="18" } [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv) |
+| British Sign Language | Discord   | [discord.gg/8Ck9hmyMpv](https://discord.gg/8Ck9hmyMpv) |
 
 ## News
 
