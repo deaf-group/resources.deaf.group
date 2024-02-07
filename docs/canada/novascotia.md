@@ -23,9 +23,9 @@ permalink: canada/novascotia
 
 ## Interpreting Services
 
-| Name | Language | Available in | Website |
-|------|----------|--------------|---------|
-| Society of Deaf & Hard of Hearing Nova Scotians | ASL | Halifax, Cape Breton | [sdhhns.org](https://sdhhns.org/interpreting-services/) |
+| Name                                            | Language | Available in         | Website |
+|------------------------------------------------ |--------- |--------------------- |-------- |
+| Society of Deaf & Hard of Hearing Nova Scotians | ASL      | Halifax, Cape Breton | [sdhhns.org](https://sdhhns.org/interpreting-services/) |
 
 ## Hearing Aid & Cochlear Implant Services
 

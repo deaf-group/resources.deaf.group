@@ -34,8 +34,8 @@ permalink: canada/ontario
 
 | Name | Available in | Website |
 |------|--------------|---------|
-| CHS Interpreting Services | ASL, LSQ | Southern Ontario, VRI | [chs.ca](https://www.chs.ca/service/chs-interpreting-services) |
 | Asign (SLIAO) | ASL | Ottawa, VRI | [asign.ca](https://asign.ca/) |
+| CHS Interpreting Services | ASL, LSQ | Southern Ontario, VRI | [chs.ca](https://www.chs.ca/service/chs-interpreting-services) |
 
 {: .remember }
 VRI is stand for Video Remote Interpreting.
