@@ -22,7 +22,7 @@ permalink: international/media
 
 ## TV Shows
 
-| Name | Year | Description | Where Watch |
-|------|------|-------------|-------------|
-| Deaf U | 2020 | This reality series on Netflix provides a glimpse into the lives of Deaf and hard-of-hearing students at Gallaudet University, a renowned Deaf university in Washington, D.C. | [Netflix](https://www.netflix.com/ca/title/81035566) |
+| Name              | Year      | Description                                                                                                                                                                                                                                | Where Watch |
+|------------------ |---------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |------------ |
+| Deaf U            | 2020      | This reality series on Netflix provides a glimpse into the lives of Deaf and hard-of-hearing students at Gallaudet University, a renowned Deaf university in Washington, D.C.                                                              | [Netflix](https://www.netflix.com/ca/title/81035566) |
 | Switched at Birth | 2011-2017 | This series revolves around two teenage girls who discover they were accidentally switched at birth. One of the main characters, Daphne Vasquez, is Deaf, and the show prominently features American Sign Language (ASL) and Deaf culture. | [Apple TV](https://tv.apple.com/ca/show/switched-at-birth/umc.cmc.2v4wxh6q3n2epnxdoe7fzhh25?at=1000l3V2&ct=justwatch_tv), [Google Play](https://play.google.com/store/tv/show?cdid=tvseason-UekpYc7CAUxeAnyPylxn1A&gl=CA&hl=en&id=mvdQnAIe-VI) |
