@@ -2,9 +2,9 @@
 
 To contribute new or update information and link, Please use [issue](https://github.com/BatteryDie/resources.deaf.group/issues) or [pull requests](https://github.com/BatteryDie/resources.deaf.group/pulls) to create suggestion or feedback.
 
-To become contributor on this repository, Please send contributor request email at <!-- dsfasfvg -->feed<!-- bmnbafsdjkhghv -->back<!-- zndoasdifg -->.<!-- sadasvfrtgh  -->deaf.<!-- kjdbfkdsfas -->group<!-- asuubzk -->@<!-- asvdfjhe -->skiff<!-- dsvcxrttyh -->.<!-- sdfsadcxbvdfgdfsg -->com!
+To become contributor on this repository, Please send contributor request email at **<!-- 23sdfzz -->sou<!-- casdfa2 -->rce<!-- fdsaf3  -->_mow.<!-- dsfsdvsd -->0f<!-- dsgasdg -->@<!-- 324esdfs -->icl<!-- 324esdfs -->oud<!-- asdfasfas -->.<!-- fsdagxcvb -->com!**
 
-Don't want sign up GitHub? Send suggestion or feedback email at <!-- fsdvwqs -->feed<!-- asdzxcwqe -->back<!-- zndoasdifg -->.<!-- dsafasdf  -->deaf.<!-- bncjdhsatuy -->group<!-- asuubzk -->@<!-- asvdfjhe -->skiff<!-- ncudisb -->.<!-- dnjbsdob -->com!
+Don't want sign up GitHub? Send suggestion or feedback email at **<!-- 5dsfsdf -->sou<!-- vsdfsd -->rce<!-- gfdgfdgdfs  -->_mow.<!-- sfvdgsdfg -->0f<!-- fsdgsdfg -->@<!-- 4543sdfsdf -->icl<!-- gfsdgsfdg -->oud<!-- 34543fgdgsdgsd -->.<!-- 34gdfasgsdfg -->com!**
 
 ## Contribution Rule
 - We highly recommended to archive external links with [Archive.org's Wayback Machine](https://archive.org/web/) before you contribute it.
